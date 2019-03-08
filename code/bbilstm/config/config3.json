@@ -3,7 +3,7 @@
     "tokens":{
       "type": "embedding",
       "embedding_dim": 300,
-      "pretrained_file": "/media/chloe/miya/embeddings/multi_fastText/",
+      "pretrained_file": "embeddings/multi_fastText/",
       "trainable": true
     }
   },

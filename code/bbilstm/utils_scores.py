@@ -13,7 +13,7 @@ class Experiment:
         self.data = data
         self.y_pred = np.concatenate(tuple(y_pred))
         self.y_true = np.concatenate(tuple([[t for t in y] for y in y_true])).reshape(self.y_pred.shape)
-        print( "EDUs predicted:", len( [self.y_pred==1 ]) )
+        #print( "EDUs predicted:", len( [self.y_pred==1 ]) )
         self.train_loss = train_loss
         self.num_epoch = num_epoch
         self.config = config

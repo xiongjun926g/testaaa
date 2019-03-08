@@ -19,7 +19,7 @@ torch.set_num_threads(5) #also in train fct, where should it be?
 
 def main( ):
     parser = argparse.ArgumentParser(
-            description='Discourse corpus (for now .dis or .rs3).')
+            description='Discourse segmenter based on a bi-LSTM model.')
     parser.add_argument('--data_dir',
             dest='data_dir',
             action='store',
@@ -50,7 +50,6 @@ def main( ):
     parser.add_argument('--outpath',
             dest='outpath',
             action='store',
-            default='../../../../../sandbox/expe_tony/', #'/media/chloe/miya/expe_tony/',
             help='outpath dir')
     parser.add_argument('--sentence',
             dest='sentence',
@@ -71,7 +70,7 @@ def main( ):
             dest='confign',
             action='store',
             default=None,
-            help='Config name (because config name in the nam of th f** model')
+            help='Config name (because config name in the nam of the model')
 
     args = parser.parse_args()
 
