@@ -90,7 +90,7 @@ if __name__ == "__main__":
     in_fps = (glob(os.path.join(in_dir, '*', '*.tok')) +
               glob(os.path.join(in_dir, '*', '*.conll')))
     # perform baseline segmentation (excluding PDTB corpora)
-    out_dir = 'baseline_results'
+    out_dir = 'expes/baseline_results'
     if not os.path.isdir(out_dir):
         os.makedirs(out_dir)
     #
