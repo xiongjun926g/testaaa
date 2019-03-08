@@ -11,6 +11,7 @@ It assumes that each corpus is a folder under *data/* (ex: *data/deu.rst.pcc*).
 Requirements:
 
 * StanfordNLP: tested with v. 0.1.1
+* Word embeddings: see Utils
 
 Usage:
 ```
@@ -64,9 +65,15 @@ For example, to run the system using the .conll files:
 		bash expes_tony_sent.sh ../config/config1.json ../../../expes/bbilstm/gsent/ gold
 
 
+#### Utils
+
+*code/utils/* contains:
+	* *seg_eval.py*: script for evaluation
+	* *dl_embeddings.sh*: script for downloading the word embeddings (FastText and GloVe)
+
 #### Other directories:
 
-* *data/* contains samples of the original data (for the corpus deu.rst.pcc)
-	* Examples of the data pre-processed using the StanfordNLP pipeline are in *data/deu.rst.pcc/stanfordnlp/*
+* *data/* contains the original data (.tok and .conll)
+* *data_ssplit/* contains the pre-processed data using the StanfordNLP pipeline
 * *expes/* contains examples of the output of our scripts
 	* Examples of the output of the baseline bi-LSTM can be found in *doc/*, *gsent/* and *psent/*

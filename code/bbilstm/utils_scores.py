@@ -13,7 +13,6 @@ class Experiment:
         self.data = data
         self.y_pred = np.concatenate(tuple(y_pred))
         self.y_true = np.concatenate(tuple([[t for t in y] for y in y_true])).reshape(self.y_pred.shape)
-        #print( "EDUs predicted:", len( [self.y_pred==1 ]) )
         self.train_loss = train_loss
         self.num_epoch = num_epoch
         self.config = config
@@ -29,16 +28,6 @@ class Experiment:
         self.dev_y_true, self.dev_y_pred = y_true, y_pred 
         (self.dev_acc, self.dev_p, self.dev_r, self.dev_f1, self.dev_s) = compute_scores(self.dev_y_true, self.dev_y_pred)
         self.dev_support = len( y_true==1 )
-
-    def add_devScores_ml(self, dev_y_true, dev_y_pred, fname):
-        (self.dev_acc, self.dev_p, self.dev_r, self.dev_f1, self.dev_s) = compute_scores(dev_y_true, dev_y_pred)
-        self.dev_support = len( dev_y_true==1 )
-        self.dev_scores_ml[fname] = (dev_y_true, dev_y_pred, self.dev_acc, self.dev_p, self.dev_r, self.dev_f1, self.dev_support) 
-
-    def add_testScores_ml(self, test_y_true, test_y_pred, fname):
-        (self.test_acc, self.test_p, self.test_r, self.test_f1, self.test_s) = compute_scores(test_y_true, test_y_pred)
-        self.test_support = len( test_y_true==1 )
-        self.test_scores_ml[fname] = (test_y_true, test_y_pred, self.test_acc, self.test_p, self.test_r, self.test_f1, self.test_support) 
 
     def add_testScores( self, y_true, y_pred ):
         self.test_y_true, self.test_y_pred = y_true, y_pred 
@@ -66,34 +55,16 @@ class Experiment:
         self.dict_ex = {}
         self.dict_ex["data"] = (self.data.inpath, self.data.name, self.data.vocab_size, self.data.tagset_size)
         self.dict_ex["train_scores"] = (self.train_acc, self.train_p, self.train_r, self.train_f1, self.train_s)
-        if len(self.dev_scores_ml) == 0:
-            self.dict_ex["dev_scores"] = (self.dev_acc, self.dev_p, self.dev_r, self.dev_f1, self.dev_s)
-            self.dict_ex["dev_y_pred_file"] = os.path.join( outpath, "dev_preds_"+str(self.id_exp)+'.gz')
-            if outpath != None:
-                joblib.dump( self.dev_y_pred, self.dict_ex["dev_y_pred_file"])
+        
+        self.dict_ex["dev_scores"] = (self.dev_acc, self.dev_p, self.dev_r, self.dev_f1, self.dev_s)
+        self.dict_ex["dev_y_pred_file"] = os.path.join( outpath, "dev_preds_"+str(self.id_exp)+'.gz')
+        if outpath != None:
+            joblib.dump( self.dev_y_pred, self.dict_ex["dev_y_pred_file"])
 
-            self.dict_ex["test_scores"] = (self.test_acc, self.test_p, self.test_r, self.test_f1, self.test_s)
-            self.dict_ex["test_y_pred_file"] = os.path.join( outpath, "test_preds_"+str(self.id_exp)+'.gz')
-            if outpath != None:
-                joblib.dump( self.test_y_pred, self.dict_ex["test_y_pred_file"])
-        else:
-            self.dict_ex["dev_fnames"] = self.data.dev_fnames
-            ##self.dict_ex["dev_scores"] = self.dev_scores_ml
-            
-            for fname in self.dev_scores_ml:
-                self.dict_ex["dev_scores"+fname] = [ s for s in self.dev_scores_ml[fname][2:]]
-                #print( self.dev_scores_ml[fname] )
-                self.dict_ex["dev_y_pred_file_"+fname] = os.path.join( outpath, fname+"_dev_preds_"+str(self.id_exp)+'.gz')
-                if outpath != None:
-                    joblib.dump( self.dev_scores_ml[fname][1], self.dict_ex["dev_y_pred_file_"+fname])
-
-            self.dict_ex["test_fnames"] = self.data.test_fnames
-            
-            for fname in self.test_scores_ml:
-                self.dict_ex["test_scores"+fname] = [ s for s in self.test_scores_ml[fname][2:]]
-                self.dict_ex["test_y_pred_file_"+fname] = os.path.join( outpath, fname+"_test_preds_"+str(self.id_exp)+'.gz')
-                if outpath != None:
-                    joblib.dump( self.test_scores_ml[fname][1], self.dict_ex["test_y_pred_file_"+fname])
+        self.dict_ex["test_scores"] = (self.test_acc, self.test_p, self.test_r, self.test_f1, self.test_s)
+        self.dict_ex["test_y_pred_file"] = os.path.join( outpath, "test_preds_"+str(self.id_exp)+'.gz')
+        if outpath != None:
+            joblib.dump( self.test_y_pred, self.dict_ex["test_y_pred_file"])
             
         self.dict_ex["train_loss"] = float( self.train_loss )
         self.dict_ex["epoch"] = self.num_epoch

@@ -4,8 +4,7 @@
 #Config5: GloVe (English), dim 50
 
 #"zho.pdtb.cdtb"
-#datasets=( "spa.rst.sctb" "spa.rst.rststb" "zho.rst.sctb" "eng.rst.rstdt" "fra.sdrt.annodis" "rus.rst.rrt" "eng.sdrt.stac" "nld.rst.nldt" "deu.rst.pcc" "por.rst.cstn" "eus.rst.ert" "eng.rst.gum" "eng.pdtb.pdtb" )
-datasets=( "deu.rst.pcc" )
+datasets=( "spa.rst.sctb" "spa.rst.rststb" "zho.rst.sctb" "eng.rst.rstdt" "fra.sdrt.annodis" "rus.rst.rrt" "eng.sdrt.stac" "nld.rst.nldt" "deu.rst.pcc" "por.rst.cstn" "eus.rst.ert" "eng.rst.gum" "eng.pdtb.pdtb" )
 data="../../../data/"
 config=$1
 expedir=$2

@@ -28,4 +28,4 @@ wget  -P embeddings/multi_fastText/ "https://dl.fbaipublicfiles.com/fasttext/vec
 gunzip embeddings/multi_fastText/cc.tr.300.vec.gz
 
 wget  -P embeddings/ "http://nlp.stanford.edu/data/glove.6B.zip"
-gunzip embeddings/glove.6B.50d.gz 
+gunzip embeddings/glove.6B.zip

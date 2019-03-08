@@ -4,9 +4,9 @@
 #Config5: GloVe (English), dim 50
 
 #"zho.pdtb.cdtb"
-#datasets=( "spa.rst.sctb" "spa.rst.rststb" "zho.rst.sctb" "eng.rst.rstdt" "fra.sdrt.annodis" "rus.rst.rrt" "eng.sdrt.stac" "nld.rst.nldt" "deu.rst.pcc" "por.rst.cstn" "eus.rst.ert" "eng.rst.gum" "eng.pdtb.pdtb" )
-datasets=( "deu.rst.pcc" )
+datasets=( "spa.rst.sctb" "spa.rst.rststb" "zho.rst.sctb" "eng.rst.rstdt" "fra.sdrt.annodis" "rus.rst.rrt" "eng.sdrt.stac" "nld.rst.nldt" "deu.rst.pcc" "por.rst.cstn" "eus.rst.ert" "eng.rst.gum" "eng.pdtb.pdtb" )
 data="../../../data/"
+#data="../../../data/_ssplit" # For experiments with predicted sentence split
 config=$1
 expedir=$2
 src="../../../code/"
@@ -29,7 +29,7 @@ do
 
    echo Scores in ${expedir_d}/${i}_expe.json 
    # (2) Read the json and output pred file (for epoch 9)
-   python ${src}/bbilstm/eval_tony.py --fjson ${expedir_d}/${i}_expe.json --outpath ${outpred} --epoch 9
+   python ${src}/bbilstm/eval_tony.py --fjson ${expedir_d}/${i}_expe.json --outpath ${outpred} --epoch 0
 done
 
 # (3) Compute the scores by comparing gold and pred file

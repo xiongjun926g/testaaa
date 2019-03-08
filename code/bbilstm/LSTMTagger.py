@@ -65,8 +65,7 @@ class LSTMTagger(nn.Module):
         self.config=json.load(open(self.config_file))
 
         self.embedding_file = self.config["embeddings"]["tokens"]["pretrained_file"]
-        #print("EMBEDDING:", self.embedding_file, os.path.isdir( self.embedding_file ))
-        if os.path.isdir( self.embedding_file ):
+        if os.path.isdir( self.embedding_file ): # Directory for FastText
             self.embedding_file = retrieve_embed_file(self.embedding_file, self.task)
             #print( self.embedding_file )
         self.embedding_dim = self.config["embeddings"]["tokens"]["embedding_dim"]
@@ -110,7 +109,6 @@ class LSTMTagger(nn.Module):
         		gold.append( targets )
         		pred.append( y_pred )
         		doc2count[i] = len(inputs)
-    	##print( "# of tokens per doc in val set:", doc2count )
     	f_pred = np.concatenate(tuple(pred))
     	f_gold = np.concatenate(tuple([[t for t in y] for y in gold])).reshape(f_pred.shape) 
     	return f_gold, f_pred
@@ -139,38 +137,21 @@ class LSTMTagger(nn.Module):
                 total_loss += loss.data
                 # Save predictions
                 y_pred = torch.argmax( tag_scores, dim=1 )
-                #print( targets, '\n',y_pred )
+                
                 doc_targets.append( targets )
                 doc_preds.append( y_pred )
             
             expe = Experiment( self, data, y_true=doc_targets, y_pred=doc_preds, 
             	train_loss=total_loss, num_epoch=epoch, config=self.config, ide=len(experiments) )
             # Predict on Dev
-            if data.name == 'merged':
-                print( 'Ite', epoch, 'Loss:', total_loss.item(), 
-                        '\n\tTrain:', expe.printScores() )
-                for i, (dset,dtoix) in enumerate( data.dev_datasets_doc_to_ix ):
-                    fname = data.dev_fnames[i]
-                    dev_y_true, dev_y_pred = self.predict( dset, data.word_to_ix, data.tag_to_ix )
-                    expe.add_devScores_ml(dev_y_true, dev_y_pred, data.dev_fnames[i])
-                    print( '\tDev', fname,':', expe.printScores(set='dev', fname=data.dev_fnames[i]) )
-
-                for i, (dset,dtoix) in enumerate( data.test_datasets_doc_to_ix ):
-                    fname = data.test_fnames[i]
-                    print( fname )
-                    test_y_true, test_y_pred = self.predict( dset, data.word_to_ix, data.tag_to_ix )
-                    expe.add_testScores_ml(test_y_true, test_y_pred, data.test_fnames[i])
-                    print( '\tTest', fname,':', expe.printScores(set='test', fname=data.test_fnames[i]) )
-            else:
-                dev_y_true, dev_y_pred = self.predict( data.dev_dataset, data.word_to_ix, data.tag_to_ix )
-                expe.add_devScores(dev_y_true, dev_y_pred)
-                print( 'Ite', epoch, 'Loss:', total_loss.item(), 
+            dev_y_true, dev_y_pred = self.predict( data.dev_dataset, data.word_to_ix, data.tag_to_ix )
+            expe.add_devScores(dev_y_true, dev_y_pred)
+            print( 'Ite', epoch, 'Loss:', total_loss.item(), 
                     '\n\tTrain:', expe.printScores(), '\n\tDev:', expe.printScores(set='dev') )
-
-                test_y_true, test_y_pred = self.predict( data.test_dataset, data.word_to_ix, data.tag_to_ix )
-                expe.add_testScores(test_y_true, test_y_pred)
-                print( '\tTest:', expe.printScores(set='test') )
-            
+            # Predict on Test
+            test_y_true, test_y_pred = self.predict( data.test_dataset, data.word_to_ix, data.tag_to_ix )
+            expe.add_testScores(test_y_true, test_y_pred)
+            print( '\tTest:', expe.printScores(set='test') )
             
             expe.todict( output_dir ) #dump models and predictions
             experiments.append( expe )
@@ -184,9 +165,8 @@ class LSTMTagger(nn.Module):
         print( "\nTraining ends at:", date_hour )
         
         save_experiments( experiments, os.path.join( output_dir, data.name+'_expe.json'), self )
-        #print( losses )
         
-    # Sortir de la classe
+    # TODO: Sortir de la classe
     def get_loss( self, loss_type ):
         if loss_type == 'nll':
             return nn.NLLLoss()
@@ -211,7 +191,6 @@ def load_word_vectors(fname):
         word_vectors.append(map(float, tokens[1:]))
         if word_vector_size < 0:
             word_vector_size = len(tokens[1:])
-    #print(word_to_index, '\n', word_vectors,'\n', word_vector_size)
     return word_to_index, word_vectors, word_vector_size
 
 def load_vectors(fname):
@@ -223,7 +202,6 @@ def load_vectors(fname):
     data = {}
     for line in fin:
         tokens = line.rstrip().split(' ')
-        #data[tokens[0]] = map(float, tokens[1:]) 
         data[tokens[0]] = [float(v) for v in tokens[1:]] 
         if unk_vector.shape[0] == 0:
             unk_vector = np.asarray( data[tokens[0]] )
@@ -241,14 +219,10 @@ def retrieve_embed_file( inpath, task, name=None ):
     task2embed = {'zho.rst.sctb':'zh', 'eng.pdtb.pdtb':'en', 'eng.rst.rstdt':'en', 'spa.rst.rststb':'es', 
     'fra.sdrt.annodis':'fr', 'rus.rst.rrt':'ru', 'eng.sdrt.stac':'en', 'zho.pdtb.cdtb':'zh', 'nld.rst.nldt':'nl', 
     'deu.rst.pcc':'de', 'por.rst.cstn':'pt', 'spa.rst.sctb':'es', 'eus.rst.ert':'eu', 'eng.rst.gum':'en',
-    'tur.pdtb.tdb':'tr', 'merged':'merged'}
+    'tur.pdtb.tdb':'tr'}
     #print( inpath, task, task2embed[task] )
     fasttext = os.path.join( inpath, 'cc.'+task2embed[task]+'.300.vec' )
     if os.path.isfile( fasttext ):
         return fasttext
     else:
-        muse = os.path.join( inpath, 'wiki.multi.'+task2embed[task]+'.vec' )
-        if os.path.isfile(muse):
-            return muse
-        else:
-            sys.exit("Unk embeddings", inpath, task)
+        sys.exit("Unk embeddings", inpath, task)
