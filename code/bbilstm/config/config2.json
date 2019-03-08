@@ -1,0 +1,26 @@
+{
+  "embeddings": {
+    "tokens":{
+      "type": "embedding",
+      "embedding_dim": 300,
+      "pretrained_file": "None",
+      "trainable": true
+    }
+  },
+  "encoder": {
+      "type": "lstm",
+      "hidden_size": 100,
+      "num_layers": 1,
+      "dropout": 0.5,
+      "bidirectional": true
+    },
+  "trainer": {
+    "optimizer": {
+        "type": "adam",
+    
+    "lr": 0.001
+    }
+  },
+  "num_epochs": 10,
+  "cuda_device": -1
+}
