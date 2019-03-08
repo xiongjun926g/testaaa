@@ -121,5 +121,5 @@ if __name__ == "__main__":
         # store the score alongside the predictions
         score_fp = os.path.join(os.path.dirname(pred_fp), fname + '.scores')
         with open(score_fp, mode='w') as f_score:
-            subprocess.call(['python', 'utils/seg_eval.py', true_fp, pred_fp], stdout=f_score)
+            subprocess.call(['python', 'code/utils/seg_eval.py', true_fp, pred_fp], stdout=f_score)
 

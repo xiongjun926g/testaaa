@@ -9,8 +9,7 @@ import io
 import os.path
 
 
-# DATA_DIR = os.path.join(os.path.expanduser('~'), 'datasets', 'disrpt-sharedtask2019', 'data')
-DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'data'))
+DATA_DIR = os.path.abspath(os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', '..', 'data'))
 
 Corpus = namedtuple('Corpus', ['sent_text', 'space_after', 'underscored', 'has_multitoks'])
 

@@ -4,6 +4,32 @@ Systems for discourse segmentation submitted  to the 2019 DisRPT shared task:
 
 *ToNy: Contextual embeddings for accurate multilingual discourse segmentation of full documents*
 
+#### Code for the sentence segmentation preprocessing
+*code/ssplit/* contains the code for the sentence splitter.
+It assumes that each corpus is a folder under *data/* (ex: *data/deu.rst.pcc*).
+
+Requirements:
+
+* StanfordNLP: tested with v. 0.1.1
+
+Usage:
+```
+# call separately for each corpus in turn
+python code/ssplit/parse_corpus.py deu.rst.pcc
+# follow the instruction on the prompt to download the model for the language
+# (the first time) ; typical models are 1--2 GB large
+```
+
+#### Code for the baseline heuristic segmenter
+*code/baseline/* contains the code for the baseline heuristic, sentence-initial, segmenter.
+
+Usage:
+```
+# call for all corpora in one go (very fast) ;
+# processes both the original .conll files and the ssplit .tok files produced earlier
+python code/baseline/baseline_seg.py
+```
+
 #### Code for the baseline systems using a bi-LSTM
 
 *code/bbilstm/* contains the code for the baseline bi-LSTM systems
