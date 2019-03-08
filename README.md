@@ -40,7 +40,7 @@ Requirements:
 
 ##### Config
 
-*config/* dir contains json config files for each setting (e.g. set of hyper-parameters and embedding file). **The path to the embedding file should be modified in config files 3 and 5**
+*config/* dir contains json config files for each setting (e.g. set of hyper-parameters and embedding file). **The path to the embedding file for GloVe and the directory for FastText (one file per language) should be modified in config files 3 and 5**
 
 * config1: rand embeddings, dim 50
 * config2: rand embeddings, dim 300

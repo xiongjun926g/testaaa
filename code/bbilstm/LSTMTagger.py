@@ -211,7 +211,7 @@ def load_word_vectors(fname):
         word_vectors.append(map(float, tokens[1:]))
         if word_vector_size < 0:
             word_vector_size = len(tokens[1:])
-    print(word_to_index, '\n', word_vectors,'\n', word_vector_size)
+    #print(word_to_index, '\n', word_vectors,'\n', word_vector_size)
     return word_to_index, word_vectors, word_vector_size
 
 def load_vectors(fname):

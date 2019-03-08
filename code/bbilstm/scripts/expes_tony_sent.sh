@@ -38,7 +38,7 @@ for i in "${datasets[@]}"
 do
    pred=${outpred}/${i}_dev.scores #TODO: rename, this is a pred file
    gold=${data}/${i}/${i}_dev.tok 
-   python ${src}/seg_eval.py ${gold} ${pred} 
+   python ${src}/utils/seg_eval.py ${gold} ${pred} 
 done 
 
 echo TEST 
@@ -46,5 +46,5 @@ for i in "${datasets[@]}"
 do
    pred=${outpred}/${i}_test.scores
    gold=${data}/${i}/${i}_test.tok 
-   python ${src}/seg_eval.py ${gold} ${pred} 
+   python ${src}/utils/seg_eval.py ${gold} ${pred} 
 done 

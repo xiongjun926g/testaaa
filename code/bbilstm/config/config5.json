@@ -3,7 +3,7 @@
     "tokens":{
       "type": "embedding",
       "embedding_dim": 50,
-      "pretrained_file": "/media/chloe/miya/embeddings/glove/glove.6B.50d.txt",
+      "pretrained_file": "embeddings/glove.6B.50d.txt",
       "trainable": true
     }
   },

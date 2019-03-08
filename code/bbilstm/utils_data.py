@@ -141,7 +141,7 @@ def _read(file_path: str):
     yield [word for word in current_doc_tok], current_doc_tags,doc_name
 
 def _read_sentence(file_path: str):
-    print("MODE SENTENCE")
+    #print("MODE SENTENCE")
     sent_id, doc_id, doc_name = 0, 0, None
     idx = {}
     doc2ctsent = {}

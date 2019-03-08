@@ -44,14 +44,14 @@ def read_pred( fjson ):
 def write_pred_dev( fjson, outpath, num_epoch=9 ):
     dict_ex = read_pred( fjson )
     id_ex = find_expe( dict_ex, num_epoch)
-    print( dict_ex.keys())
-    print( dict_ex['Experiment'].keys())
+    #print( dict_ex.keys())
+    #print( dict_ex['Experiment'].keys())
     if id_ex == None:
         sys.exit("Expe not found for epoch", num_epoch, "in file", fjson )
 
     (data_inpath, data_name, data_vocab_size, data_tagset_size) = dict_ex["Experiment"][id_ex]["data"]
     if "dev_fnames" in dict_ex["Experiment"][id_ex]: # Multilingual experiment
-        print("MULTILING")
+        #print("MULTILING")
         for data_name in dict_ex["Experiment"][id_ex]["dev_fnames"]:
             dev_file = os.path.join( data_inpath, data_name, data_name+'_dev.tok' )
             pred_file = os.path.join( outpath, data_name+'_dev.scores' )
@@ -73,14 +73,14 @@ def write_pred_dev( fjson, outpath, num_epoch=9 ):
 def write_pred_test( fjson, outpath, num_epoch=9 ):
     dict_ex = read_pred( fjson )
     id_ex = find_expe( dict_ex, num_epoch)
-    print( dict_ex.keys())
-    print( dict_ex['Experiment'].keys())
+    #print( dict_ex.keys())
+    #print( dict_ex['Experiment'].keys())
     if id_ex == None:
         sys.exit("Expe not found for epoch", num_epoch, "in file", fjson )
 
     (data_inpath, data_name, data_vocab_size, data_tagset_size) = dict_ex["Experiment"][id_ex]["data"]
     if "test_fnames" in dict_ex["Experiment"][id_ex]: # Multilingual experiment
-        print("MULTILING")
+        #print("MULTILING")
         for data_name in dict_ex["Experiment"][id_ex]["test_fnames"]:
             test_file = os.path.join( data_inpath, data_name, data_name+'_test.tok' )
             pred_file = os.path.join( outpath, data_name+'_test.scores' )
