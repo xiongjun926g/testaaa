@@ -1,0 +1,5733 @@
+
+do	NN	O	B-S
+we	NN	O	O
+start	NN	O	O
+
+No	NN	O	B-S
+
+Not	NN	O	B-S
+yet	NN	O	O
+
+Wait	NN	O	B-S
+for	NN	O	O
+the	NN	O	O
+4th	NN	O	O
+persion	NN	O	O
+
+Press	NN	O	B-S
+"	NN	O	O
+sit	NN	O	O
+down	NN	O	O
+"	NN	O	O
+though	NN	O	O
+
+do	NN	O	B-S
+we	NN	O	O
+start	NN	O	O
+playing	NN	O	O
+
+When	NN	O	B-S
+everyone	NN	O	O
+has	NN	O	O
+sat	NN	O	O
+down	NN	O	O
+
+Who	NN	O	B-S
+have	NN	O	O
+we	NN	O	O
+lost	NN	O	O
+?	NN	O	O
+
+kittles	NN	O	B-S
+
+OK	NN	O	B-S
+,	NN	O	O
+I	NN	O	B-S
+'ll	NN	O	O
+try	NN	O	O
+to	NN	O	O
+send	NN	O	O
+an	NN	O	O
+email	NN	O	O
+.	NN	O	O
+
+Are	NN	O	B-S
+you	NN	O	O
+here	NN	O	O
+Kittles	NN	O	O
+?	NN	O	O
+
+anyone	NN	O	B-S
+?	NN	O	O
+?	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+?	NN	O	B-S
+
+Press	NN	O	B-S
+the	NN	O	O
+"	NN	O	O
+sit	NN	O	O
+here	NN	O	O
+"	NN	O	O
+button	NN	O	O
+in	NN	O	O
+the	NN	O	O
+lower	NN	O	O
+right	NN	O	O
+of	NN	O	O
+the	NN	O	O
+screen	NN	O	O
+
+Ah	NN	O	B-S
+,	NN	O	O
+yes	NN	O	O
+,	NN	O	O
+please	NN	O	O
+sit	NN	O	O
+down	NN	O	O
+!	NN	O	O
+
+OK	NN	O	B-S
+,	NN	O	O
+I	NN	O	B-S
+'m	NN	O	O
+not	NN	O	O
+entirey	NN	O	O
+sure	NN	O	O
+the	NN	O	O
+sequence	NN	O	O
+was	NN	O	O
+right	NN	O	O
+,	NN	O	O
+but	NN	O	O
+let	NN	O	O
+'s	NN	O	O
+try	NN	O	O
+anyway	NN	O	O
+.	NN	O	O
+
+Apologies	NN	O	B-S
+if	NN	O	O
+I	NN	O	O
+started	NN	O	O
+too	NN	O	O
+soon	NN	O	O
+
+It	NN	O	B-S
+'s	NN	O	O
+all	NN	O	O
+,	NN	O	O
+good	NN	O	B-S
+,	NN	O	O
+let	NN	O	B-S
+'s	NN	O	O
+get	NN	O	O
+rolling	NN	O	O
+!	NN	O	O
+
+:)	NN	O	B-S
+
+Remember	NN	O	B-S
+that	NN	O	O
+the	NN	O	O
+easiest	NN	O	O
+way	NN	O	O
+to	NN	O	O
+play	NN	O	O
+is	NN	O	O
+to	NN	O	O
+negotiate	NN	O	O
+trades	NN	O	O
+!	NN	O	O
+
+Meaning	NN	O	B-S
+,	NN	O	O
+talking	NN	O	O
+about	NN	O	O
+them	NN	O	O
+.	NN	O	O
+
+:*)	NN	O	B-S
+
+ok	NN	O	B-S
+
+ok	NN	O	B-S
+
+so	NN	O	B-S
+anybody	NN	O	O
+wana	NN	O	O
+trade	NN	O	O
+sumthng	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+'m	NN	O	O
+OK	NN	O	O
+just	NN	O	O
+now	NN	O	O
+
+i	NN	O	B-S
+dont	NN	O	O
+know	NN	O	O
+what	NN	O	B-S
+i	NN	O	O
+have	NN	O	O
+
+It	NN	O	B-S
+says	NN	O	O
+what	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+in	NN	O	O
+your	NN	O	O
+portion	NN	O	O
+of	NN	O	O
+the	NN	O	O
+screen	NN	O	O
+
+ok	NN	O	B-S
+cool	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+you	NN	O	O
+sheep	NN	O	O
+in	NN	O	O
+exchange	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+...	NN	O	O
+
+i	NN	O	B-S
+dnt	NN	O	O
+have	NN	O	O
+wood	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+
+sheep	NN	O	B-S
+
+I	NN	O	B-S
+have	NN	O	O
+wood	NN	O	O
+
+n	NN	O	B-S
+wheat	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+trade	NN	O	O
+clay	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+clay	NN	O	O
+
+ok	NN	O	B-S
+
+sorry	NN	O	B-S
+,	NN	O	O
+wood	NN	O	B-S
+for	NN	O	O
+clay	NN	O	O
+
+ok	NN	O	B-S
+
+I	NN	O	B-S
+'ll	NN	O	O
+trade	NN	O	O
+with	NN	O	O
+ariachiba	NN	O	O
+when	NN	O	B-S
+it	NN	O	O
+'s	NN	O	O
+my	NN	O	O
+turn	NN	O	O
+
+Cool	NN	O	B-S
+.	NN	O	O
+
+so	NN	O	B-S
+kittles	NN	O	O
+ile	NN	O	O
+giv	NN	O	O
+u	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+please	NN	O	B-S
+and	NN	O	B-S
+ill	NN	O	O
+give	NN	O	O
+you	NN	O	O
+wood	NN	O	O
+
+ok	NN	O	B-S
+
+ive	NN	O	B-S
+ticked	NN	O	O
+it	NN	O	O
+
+hahaha	NN	O	B-S
+sorry	NN	O	O
+sounds	NN	O	B-S
+rude	NN	O	O
+
+haha	NN	O	B-S
+
+did	NN	O	B-S
+tht	NN	O	O
+work	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+pressd	NN	O	O
+done	NN	O	O
+
+no	NN	O	B-S
+
+ugh	NN	O	B-S
+
+now	NN	O	B-S
+?	NN	O	O
+
+cool	NN	O	B-S
+
+ok	NN	O	B-S
+
+what	NN	O	B-S
+nw	NN	O	O
+?	NN	O	O
+
+End	NN	O	B-S
+turn	NN	O	O
+if	NN	O	O
+you	NN	O	O
+'re	NN	O	O
+done	NN	O	O
+
+Thank	NN	O	B-S
+you	NN	O	O
+!	NN	O	O
+
+You	NN	O	B-S
+too	NN	O	O
+!	NN	O	O
+
+Is	NN	O	B-S
+it	NN	O	O
+stuck	NN	O	O
+?	NN	O	O
+
+Sorry	NN	O	B-S
+guys	NN	O	O
+,	NN	O	O
+I	NN	O	B-S
+think	NN	O	O
+I	NN	O	B-S
+might	NN	O	O
+have	NN	O	O
+had	NN	O	O
+internet	NN	O	O
+problems	NN	O	O
+
+the	NN	O	B-S
+arrow	NN	O	O
+is	NN	O	O
+on	NN	O	O
+me	NN	O	O
+but	NN	O	O
+i	NN	O	O
+cant	NN	O	O
+do	NN	O	O
+anything	NN	O	O
+
+You	NN	O	B-S
+have	NN	O	O
+to	NN	O	O
+log	NN	O	O
+in	NN	O	O
+with	NN	O	O
+the	NN	O	O
+same	NN	O	O
+nickname	NN	O	O
+again	NN	O	O
+
+trade	NN	O	B-S
+wheat	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+wheat	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+need	NN	O	B-S
+mine	NN	O	O
+
+sheep	NN	O	B-S
+any1	NN	O	O
+?	NN	O	O
+
+im	NN	O	B-S
+ok	NN	O	O
+thanks	NN	O	B-S
+
+I	NN	O	B-S
+can	NN	O	O
+offer	NN	O	O
+sheep	NN	O	O
+...	NN	O	O
+
+what	NN	O	B-S
+du	NN	O	O
+wnt	NN	O	O
+in	NN	O	O
+return	NN	O	O
+?	NN	O	O
+
+Preferably	NN	O	B-S
+wood	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+,	NN	O	O
+but	NN	O	B-S
+I	NN	O	O
+would	NN	O	O
+take	NN	O	O
+wheat	NN	O	O
+or	NN	O	O
+clay	NN	O	O
+.	NN	O	O
+
+i	NN	O	B-S
+got	NN	O	O
+wheat	NN	O	O
+
+I	NN	O	B-S
+'ll	NN	O	O
+go	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+a	NN	O	O
+wheat	NN	O	O
+.	NN	O	O
+
+ok	NN	O	B-S
+
+y	NN	O	B-S
+do	NN	O	O
+i	NN	O	O
+keep	NN	O	O
+getting	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+Does	NN	O	B-S
+anyone	NN	O	O
+have	NN	O	O
+a	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+sheep	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+
+i	NN	O	B-S
+hav	NN	O	O
+wood	NN	O	O
+
+giv	NN	O	B-S
+me	NN	O	O
+wheat	NN	O	O
+
+Cool	NN	O	B-S
+
+Did	NN	O	B-S
+I	NN	O	O
+send	NN	O	O
+that	NN	O	O
+to	NN	O	O
+the	NN	O	O
+right	NN	O	O
+person	NN	O	O
+?	NN	O	O
+
+ya	NN	O	B-S
+
+OK	NN	O	B-S
+,	NN	O	O
+cheers	NN	O	O
+
+thts	NN	O	B-S
+ok	NN	O	O
+
+wher	NN	O	B-S
+am	NN	O	O
+i	NN	O	O
+getting	NN	O	O
+sheep	NN	O	O
+frm	NN	O	O
+?	NN	O	O
+
+You	NN	O	B-S
+have	NN	O	O
+two	NN	O	O
+settlements	NN	O	O
+on	NN	O	O
+sheep-producers	NN	O	O
+.	NN	O	O
+
+You	NN	O	B-S
+get	NN	O	O
+2	NN	O	O
+every	NN	O	O
+time	NN	O	O
+we	NN	O	O
+roll	NN	O	O
+a	NN	O	O
+3	NN	O	O
+
+ohhh	NN	O	B-S
+
+Which	NN	O	B-S
+has	NN	O	O
+happened	NN	O	O
+surprisingly	NN	O	O
+often	NN	O	O
+
+nice	NN	O	B-S
+
+thnx	NN	O	B-S
+
+Anyone	NN	O	B-S
+willing	NN	O	O
+to	NN	O	O
+give	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+yep	NN	O	B-S
+
+Cool	NN	O	B-S
+.	NN	O	O
+
+anyone	NN	O	B-S
+want	NN	O	O
+some	NN	O	O
+ore	NN	O	O
+for	NN	O	O
+wheat	NN	O	O
+
+meee	NN	O	B-S
+
+Yes	NN	O	B-S
+!	NN	O	O
+
+got	NN	O	B-S
+a	NN	O	O
+ton	NN	O	O
+of	NN	O	O
+the	NN	O	O
+stuff	NN	O	O
+
+ok	NN	O	B-S
+
+i	NN	O	B-S
+dnt	NN	O	O
+hva	NN	O	O
+any	NN	O	O
+
+You	NN	O	B-S
+sould	NN	O	O
+do	NN	O	O
+one	NN	O	O
+with	NN	O	O
+each	NN	O	O
+of	NN	O	O
+us	NN	O	O
+,	NN	O	O
+if	NN	O	B-S
+you	NN	O	O
+want	NN	O	O
+.	NN	O	O
+
+*could	NN	O	B-S
+
+u	NN	O	B-S
+mean	NN	O	O
+giv	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+mean	NN	O	O
+if	NN	O	O
+she	NN	O	O
+has	NN	O	O
+lots	NN	O	O
+of	NN	O	O
+ore	NN	O	O
+and	NN	O	B-S
+needs	NN	O	O
+lots	NN	O	O
+of	NN	O	O
+wheat	NN	O	O
+,	NN	O	O
+she	NN	O	B-S
+could	NN	O	O
+do	NN	O	O
+two	NN	O	O
+trades	NN	O	O
+,	NN	O	O
+one	NN	O	B-S
+with	NN	O	O
+each	NN	O	O
+of	NN	O	O
+us	NN	O	O
+.	NN	O	O
+
+ya	NN	O	B-S
+
+i	NN	O	B-S
+could	NN	O	O
+do	NN	O	O
+one	NN	O	O
+more	NN	O	O
+trade	NN	O	O
+of	NN	O	O
+ore	NN	O	O
+fro	NN	O	O
+wheat	NN	O	O
+
+me	NN	O	B-S
+plz	NN	O	O
+
+ok	NN	O	B-S
+
+how	NN	O	B-S
+do	NN	O	O
+we	NN	O	O
+get	NN	O	O
+more	NN	O	O
+points	NN	O	O
+?	NN	O	O
+
+build	NN	O	B-S
+stuff	NN	O	O
+i	NN	O	O
+thnk	NN	O	O
+
+You	NN	O	B-S
+build	NN	O	O
+roads	NN	O	O
+and	NN	O	O
+settlements	NN	O	O
+.	NN	O	O
+
+You	NN	O	B-S
+get	NN	O	O
+one	NN	O	O
+for	NN	O	O
+each	NN	O	O
+settlement	NN	O	O
+you	NN	O	O
+build	NN	O	O
+,	NN	O	O
+and	NN	O	B-S
+2	NN	O	O
+for	NN	O	O
+each	NN	O	O
+city	NN	O	O
+
+and	NN	O	B-S
+there	NN	O	O
+'s	NN	O	O
+bonuses	NN	O	O
+and	NN	O	O
+stuff	NN	O	O
+
+how	NN	O	B-S
+do	NN	O	O
+i	NN	O	O
+build	NN	O	O
+again	NN	O	O
+?	NN	O	O
+
+At	NN	O	B-S
+the	NN	O	O
+bottom	NN	O	O
+,	NN	O	O
+it	NN	O	B-S
+shows	NN	O	O
+the	NN	O	O
+different	NN	O	O
+options	NN	O	O
+.	NN	O	O
+
+Only	NN	O	B-S
+ones	NN	O	O
+that	NN	O	O
+you	NN	O	O
+have	NN	O	O
+the	NN	O	O
+materials	NN	O	O
+for	NN	O	O
+will	NN	O	O
+be	NN	O	O
+available	NN	O	O
+.	NN	O	O
+
+aaahh	NN	O	B-S
+
+none	NN	O	B-S
+of	NN	O	O
+thm	NN	O	O
+r	NN	O	O
+there	NN	O	O
+
+i	NN	O	B-S
+need	NN	O	O
+clay	NN	O	O
+
+any1	NN	O	B-S
+have	NN	O	O
+?	NN	O	O
+
+Nope	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	O
+
+Not	NN	O	B-S
+at	NN	O	O
+the	NN	O	O
+moment	NN	O	O
+,	NN	O	O
+unfortunately	NN	O	O
+.	NN	O	O
+
+i	NN	O	B-S
+never	NN	O	O
+got	NN	O	O
+any	NN	O	O
+ore	NN	O	O
+
+need	NN	O	B-S
+mine	NN	O	O
+sorry	NN	O	O
+
+no1	NN	O	B-S
+has	NN	O	O
+ore	NN	O	O
+to	NN	O	O
+giv	NN	O	O
+?	NN	O	O
+
+oh	NN	O	B-S
+yeah	NN	O	O
+me	NN	O	O
+
+ore	NN	O	B-S
+for	NN	O	O
+wheat	NN	O	O
+again	NN	O	O
+?	NN	O	O
+
+ya	NN	O	B-S
+
+ok	NN	O	B-S
+
+eh	NN	O	B-S
+?	NN	O	O
+
+y	NN	O	B-S
+do	NN	O	O
+we	NN	O	O
+discard	NN	O	O
+?	NN	O	O
+
+the	NN	O	B-S
+robber	NN	O	O
+took	NN	O	O
+it	NN	O	O
+?	NN	O	O
+
+baddy	NN	O	B-S
+
+Every	NN	O	B-S
+time	NN	O	O
+a	NN	O	O
+7	NN	O	O
+gets	NN	O	O
+rolled	NN	O	O
+,	NN	O	O
+that	NN	O	B-S
+happens	NN	O	O
+
+You	NN	O	B-S
+had	NN	O	O
+more	NN	O	O
+than	NN	O	O
+7	NN	O	O
+reseources	NN	O	O
+and	NN	O	B-S
+I	NN	O	O
+rolled	NN	O	O
+the	NN	O	O
+robber	NN	O	O
+.	NN	O	O
+
+oh	NN	O	B-S
+ryt	NN	O	O
+yes	NN	O	O
+thnx	NN	O	O
+
+anybody	NN	O	B-S
+want	NN	O	O
+to	NN	O	O
+giv	NN	O	O
+me	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+or	NN	O	B-S
+wood	NN	O	O
+?	NN	O	O
+
+or	NN	O	B-S
+ore	NN	O	O
+?	NN	O	O
+
+none	NN	O	B-S
+
+I	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+1	NN	O	O
+wood	NN	O	O
+
+oh	NN	O	B-S
+wood	NN	O	O
+shud	NN	O	O
+b	NN	O	O
+good	NN	O	O
+
+wheat	NN	O	B-S
+in	NN	O	O
+return	NN	O	O
+?	NN	O	O
+
+ok	NN	O	B-S
+
+Cool	NN	O	B-S
+
+i	NN	O	B-S
+need	NN	O	O
+clay	NN	O	O
+ore	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+
+any1	NN	O	B-S
+?	NN	O	O
+
+i	NN	O	B-S
+got	NN	O	O
+wheat	NN	O	O
+
+i	NN	O	B-S
+cn	NN	O	O
+giv	NN	O	O
+sheep	NN	O	O
+
+ok	NN	O	B-S
+
+no1	NN	O	B-S
+cn	NN	O	O
+giv	NN	O	O
+clay	NN	O	O
+ryt	NN	O	O
+?	NN	O	O
+
+not	NN	O	B-S
+me	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+no	NN	O	B-S
+
+ok	NN	O	B-S
+
+Seeing	NN	O	B-S
+as	NN	O	O
+everything	NN	O	B-S
+I	NN	O	O
+have	NN	O	O
+has	NN	O	O
+been	NN	O	O
+stolen	NN	O	O
+,	NN	O	O
+no	NN	O	O
+.	NN	O	O
+
+I	NN	O	B-S
+do	NN	O	O
+n't	NN	O	O
+suppose	NN	O	O
+anyone	NN	O	B-S
+wants	NN	O	O
+to	NN	O	B-S
+give	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+No	NN	O	B-S
+wood	NN	O	O
+,	NN	O	O
+sorry	NN	O	O
+
+i	NN	O	B-S
+will	NN	O	O
+
+Cool	NN	O	B-S
+.	NN	O	O
+
+sorry	NN	O	B-S
+
+How	NN	O	B-S
+do	NN	O	O
+I	NN	O	O
+direct	NN	O	O
+it	NN	O	O
+to	NN	O	O
+a	NN	O	O
+specific	NN	O	O
+person	NN	O	O
+?	NN	O	O
+
+you	NN	O	B-S
+shuold	NN	O	O
+see	NN	O	O
+coloured	NN	O	O
+boxes	NN	O	O
+you	NN	O	B-S
+can	NN	O	O
+tick	NN	O	O
+
+click	NN	O	B-S
+on	NN	O	O
+my	NN	O	O
+colour	NN	O	O
+
+the	NN	O	B-S
+colourd	NN	O	O
+boxes	NN	O	O
+
+Ah	NN	O	B-S
+ha	NN	O	O
+!	NN	O	O
+
+Thanks	NN	O	B-S
+.	NN	O	O
+
+ore	NN	O	B-S
+any1	NN	O	O
+?	NN	O	O
+
+Got	NN	O	B-S
+none	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+no	NN	O	B-S
+
+Nope	NN	O	B-S
+
+clay	NN	O	B-S
+?	NN	O	O
+
+nein	NN	O	B-S
+
+Nope	NN	O	B-S
+
+Sorry	NN	O	B-S
+
+sheeo	NN	O	B-S
+?	NN	O	O
+
+*sheep	NN	O	B-S
+
+Not	NN	O	B-S
+at	NN	O	O
+the	NN	O	O
+moment	NN	O	O
+
+ok	NN	O	B-S
+
+I	NN	O	B-S
+'ll	NN	O	O
+trade	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+
+um.	NN	O	B-S
+.	NN	O	O
+no	NN	O	O
+sorry	NN	O	B-S
+
+no	NN	O	B-S
+worries	NN	O	O
+
+sheep	NN	O	B-S
+any1	NN	O	O
+?	NN	O	O
+
+You	NN	O	B-S
+need	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+ya	NN	O	B-S
+
+Do	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+ya	NN	O	B-S
+bt	NN	O	O
+i	NN	O	O
+nd	NN	O	O
+it	NN	O	O
+
+How	NN	O	B-S
+about	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+hav	NN	O	O
+wod	NN	O	O
+
+*wood	NN	O	B-S
+
+I	NN	O	B-S
+'ll	NN	O	O
+give	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+a	NN	O	O
+wood	NN	O	O
+.	NN	O	O
+
+ok	NN	O	B-S
+
+I	NN	O	B-S
+think	NN	O	O
+I	NN	O	B-S
+'m	NN	O	O
+misunderstanding	NN	O	O
+something	NN	O	O
+here	NN	O	O
+guys	NN	O	O
+,	NN	O	O
+what	NN	O	B-S
+do	NN	O	O
+the	NN	O	O
+3:1	NN	O	O
+ports	NN	O	O
+let	NN	O	O
+us	NN	O	O
+do	NN	O	O
+?	NN	O	O
+
+Trade	NN	O	B-S
+3	NN	O	O
+of	NN	O	O
+any	NN	O	O
+one	NN	O	O
+resource	NN	O	O
+for	NN	O	O
+another	NN	O	O
+frin	NN	O	O
+the	NN	O	O
+bank	NN	O	O
+.	NN	O	O
+
+*from	NN	O	B-S
+
+Otherwise	NN	O	B-S
+it	NN	O	O
+'s	NN	O	O
+4:1/	NN	O	O
+
+Oh	NN	O	B-S
+hold	NN	O	O
+on	NN	O	O
+,	NN	O	O
+I	NN	O	B-S
+do	NN	O	O
+n't	NN	O	O
+even	NN	O	O
+have	NN	O	O
+a	NN	O	O
+settlement	NN	O	O
+on	NN	O	O
+the	NN	O	O
+port	NN	O	O
+
+Ignore	NN	O	B-S
+me	NN	O	O
+
+Anyone	NN	O	B-S
+willing	NN	O	O
+to	NN	O	O
+give	NN	O	O
+ore	NN	O	O
+or	NN	O	O
+clay	NN	O	O
+for	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+ca	NN	O	B-S
+n't	NN	O	O
+
+nope	NN	O	B-S
+
+no	NN	O	B-S
+
+wood	NN	O	B-S
+for	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+no	NN	O	B-S
+
+ya	NN	O	B-S
+
+u	NN	O	B-S
+nd	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+do	NN	O	O
+that	NN	O	O
+too	NN	O	O
+if	NN	O	B-S
+you	NN	O	O
+need	NN	O	O
+two	NN	O	O
+
+no	NN	O	B-S
+clay	NN	O	B-S
+or	NN	O	O
+ore	NN	O	O
+
+Oh	NN	O	B-S
+,	NN	O	O
+never	NN	O	O
+mind	NN	O	O
+
+no	NN	O	B-S
+,	NN	O	O
+i	NN	O	O
+need	NN	O	O
+clay	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+
+do	NN	O	B-S
+n't	NN	O	O
+have	NN	O	O
+either	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+I	NN	O	B-S
+have	NN	O	O
+none	NN	O	O
+.	NN	O	O
+
+i	NN	O	B-S
+dny	NN	O	O
+hv	NN	O	O
+
+i	NN	O	B-S
+still	NN	O	O
+need	NN	O	O
+clay	NN	O	O
+
+i	NN	O	B-S
+still	NN	O	O
+have	NN	O	O
+none	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+ores	NN	O	B-S
+?	NN	O	O
+
+no	NN	O	B-S
+
+Nope	NN	O	B-S
+
+Nope	NN	O	B-S
+
+y	NN	O	B-S
+cnt	NN	O	O
+i	NN	O	O
+buy	NN	O	O
+a	NN	O	O
+stlmnt	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+hv	NN	O	O
+evrythng	NN	O	O
+
+You	NN	O	B-S
+have	NN	O	O
+nowhere	NN	O	O
+to	NN	O	O
+put	NN	O	O
+one	NN	O	O
+
+y	NN	O	B-S
+nt	NN	O	O
+?	NN	O	O
+
+You	NN	O	B-S
+need	NN	O	O
+it	NN	O	O
+to	NN	O	B-S
+be	NN	O	O
+two	NN	O	O
+roads	NN	O	O
+from	NN	O	O
+any	NN	O	O
+other	NN	O	O
+settlement	NN	O	O
+.	NN	O	O
+
+thnx	NN	O	B-S
+
+Anyone	NN	O	B-S
+willing	NN	O	O
+to	NN	O	O
+give	NN	O	O
+ore	NN	O	O
+for	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+Not	NN	O	B-S
+got	NN	O	O
+any	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+ok	NN	O	B-S
+
+Thx	NN	O	B-S
+!	NN	O	O
+
+hw	NN	O	B-S
+long	NN	O	O
+du	NN	O	O
+thnk	NN	O	O
+ths	NN	O	O
+game	NN	O	O
+will	NN	O	O
+last	NN	O	O
+?	NN	O	O
+
+At	NN	O	B-S
+this	NN	O	O
+rate	NN	O	O
+?	NN	O	O
+
+Another	NN	O	B-S
+half	NN	O	O
+hour	NN	O	O
+maybe	NN	O	O
+?	NN	O	O
+
+ok	NN	O	B-S
+
+Is	NN	O	B-S
+it	NN	O	O
+stuck	NN	O	O
+again	NN	O	O
+?	NN	O	O
+
+we	NN	O	B-S
+all	NN	O	O
+do	NN	O	O
+tht	NN	O	O
+?	NN	O	O
+
+ADDTIME	NN	O	B-S
+
+ADDTIME	NN	O	B-S
+
+omg	NN	O	B-S
+!	NN	O	O
+
+i	NN	O	B-S
+hv	NN	O	O
+to	NN	O	O
+b	NN	O	O
+sumwher	NN	O	O
+at	NN	O	O
+630	NN	O	O
+
+We	NN	O	B-S
+'ll	NN	O	O
+be	NN	O	O
+done	NN	O	O
+before	NN	O	O
+then	NN	O	O
+surely	NN	O	O
+
+k	NN	O	B-S
+i	NN	O	B-S
+hope	NN	O	O
+so	NN	O	O
+
+Yeah	NN	O	B-S
+,	NN	O	O
+I	NN	O	B-S
+hope	NN	O	O
+so	NN	O	O
+!	NN	O	O
+
+How	NN	O	B-S
+did	NN	O	O
+we	NN	O	O
+fix	NN	O	O
+it	NN	O	O
+last	NN	O	O
+time	NN	O	O
+when	NN	O	B-S
+the	NN	O	O
+dice	NN	O	O
+would	NN	O	O
+n't	NN	O	O
+roll	NN	O	O
+?	NN	O	O
+
+markus	NN	O	B-S
+?	NN	O	O
+
+Kittles	NN	O	B-S
+,	NN	O	O
+are	NN	O	O
+you	NN	O	O
+there	NN	O	O
+?	NN	O	O
+
+Kittles	NN	O	B-S
+must	NN	O	O
+decide	NN	O	O
+whether	NN	O	O
+to	NN	O	O
+roll	NN	O	O
+or	NN	O	O
+play	NN	O	O
+a	NN	O	O
+card	NN	O	O
+.	NN	O	O
+
+wts	NN	O	B-S
+hapning	NN	O	O
+?	NN	O	O
+
+Kittles	NN	O	B-S
+is	NN	O	O
+n't	NN	O	O
+responding	NN	O	O
+
+I	NN	O	B-S
+think	NN	O	O
+K	NN	O	O
+has	NN	O	O
+some	NN	O	O
+network	NN	O	O
+trouble	NN	O	O
+again	NN	O	O
+.	NN	O	O
+
+it	NN	O	B-S
+woulndt	NN	O	O
+let	NN	O	O
+me	NN	O	O
+sign	NN	O	O
+in	NN	O	O
+
+Can	NN	O	B-S
+you	NN	O	O
+try	NN	O	O
+again	NN	O	O
+?	NN	O	O
+
+It	NN	O	B-S
+did	NN	O	O
+work	NN	O	O
+before	NN	O	O
+,	NN	O	O
+right	NN	O	O
+?	NN	O	O
+
+yep	NN	O	B-S
+
+it	NN	O	B-S
+doesnt	NN	O	O
+give	NN	O	O
+me	NN	O	O
+the	NN	O	O
+option	NN	O	O
+to	NN	O	O
+leave	NN	O	O
+
+I	NN	O	B-S
+mean	NN	O	O
+,	NN	O	O
+using	NN	O	O
+your	NN	O	O
+original	NN	O	O
+nickname	NN	O	O
+
+You	NN	O	B-S
+'ll	NN	O	O
+have	NN	O	O
+to	NN	O	O
+log	NN	O	O
+in	NN	O	O
+using	NN	O	O
+your	NN	O	O
+original	NN	O	O
+nickname	NN	O	O
+
+still	NN	O	B-S
+need	NN	O	O
+clay	NN	O	O
+
+Me	NN	O	B-S
+too	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+no	NN	O	O
+clay	NN	O	O
+
+no	NN	O	B-S
+clay	NN	O	O
+
+ore	NN	O	B-S
+?	NN	O	O
+
+Need	NN	O	B-S
+mine	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+None	NN	O	B-S
+
+yes	NN	O	B-S
+ore	NN	O	O
+
+wot	NN	O	B-S
+du	NN	O	O
+wnt	NN	O	O
+?	NN	O	O
+
+wheat	NN	O	B-S
+
+ok	NN	O	B-S
+
+touche	NN	O	B-S
+
+plz	NN	O	B-S
+sum1	NN	O	O
+giv	NN	O	O
+me	NN	O	O
+clay	NN	O	O
+
+still	NN	O	B-S
+have	NN	O	O
+none	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+Yeah	NN	O	B-S
+,	NN	O	O
+have	NN	O	B-S
+n't	NN	O	O
+gotten	NN	O	O
+clay	NN	O	O
+in	NN	O	O
+a	NN	O	O
+while	NN	O	O
+...	NN	O	O
+
+no	NN	O	B-S
+clay	NN	O	O
+
+ok	NN	O	B-S
+
+Does	NN	O	B-S
+anyone	NN	O	O
+need	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+
+Not	NN	O	B-S
+me	NN	O	O
+
+We	NN	O	B-S
+must	NN	O	O
+all	NN	O	O
+have	NN	O	O
+like	NN	O	O
+the	NN	O	O
+same	NN	O	O
+resources	NN	O	O
+
+Yeah	NN	O	B-S
+,	NN	O	O
+not	NN	O	B-S
+a	NN	O	O
+lot	NN	O	O
+of	NN	O	O
+clay	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+in	NN	O	O
+this	NN	O	O
+game	NN	O	O
+apparently	NN	O	O
+!	NN	O	O
+
+ove	NN	O	B-S
+got	NN	O	O
+1	NN	O	O
+ore	NN	O	O
+2	NN	O	O
+sheep	NN	O	O
+1	NN	O	O
+wheat	NN	O	O
+3	NN	O	O
+wood	NN	O	O
+
+Ok	NN	O	B-S
+.	NN	O	O
+
+gotta	NN	O	B-S
+go	NN	O	O
+all	NN	O	O
+,	NN	O	O
+have	NN	O	B-S
+fun	NN	O	O
+
+Uh	NN	O	B-S
+
+Does	NN	O	B-S
+n't	NN	O	O
+that	NN	O	O
+ruin	NN	O	O
+the	NN	O	O
+game	NN	O	O
+?	NN	O	O
+
+Ooooooook	NN	O	B-S
+?	NN	O	O
+
+We	NN	O	B-S
+better	NN	O	O
+wait	NN	O	O
+for	NN	O	O
+Markus	NN	O	O
+before	NN	O	B-S
+we	NN	O	O
+do	NN	O	O
+anything	NN	O	O
+
+Oh	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	O
+,	NN	O	O
+just	NN	O	O
+continue	NN	O	O
+.	NN	O	O
+
+OK	NN	O	B-S
+
+i	NN	O	B-S
+need	NN	O	O
+to	NN	O	O
+leave	NN	O	O
+soon	NN	O	O
+too	NN	O	O
+
+Understandable	NN	O	B-S
+.	NN	O	O
+
+You	NN	O	B-S
+can	NN	O	O
+try	NN	O	O
+to	NN	O	O
+hurry	NN	O	O
+up	NN	O	O
+.	NN	O	O
+
+;*)	NN	O	B-S
+
+sheep	NN	O	B-S
+?	NN	O	O
+
+nd	NN	O	B-S
+sheep	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+i	NN	O	B-S
+have	NN	O	O
+like	NN	O	O
+nothing	NN	O	O
+now	NN	O	O
+
+ok	NN	O	B-S
+
+I	NN	O	B-S
+will	NN	O	O
+give	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+anything	NN	O	O
+else	NN	O	O
+...	NN	O	O
+
+I	NN	O	B-S
+'ll	NN	O	O
+give	NN	O	O
+wood	NN	O	O
+
+Ok	NN	O	B-S
+!	NN	O	O
+
+nd	NN	O	B-S
+sheep	NN	O	O
+
+Need	NN	O	B-S
+mine	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+What	NN	O	B-S
+are	NN	O	O
+you	NN	O	O
+offering	NN	O	O
+?	NN	O	O
+
+wheat	NN	O	B-S
+or	NN	O	O
+wood	NN	O	O
+
+I	NN	O	B-S
+'ll	NN	O	O
+give	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+a	NN	O	O
+wood	NN	O	O
+.	NN	O	O
+
+ok	NN	O	B-S
+
+got	NN	O	B-S
+clay	NN	O	O
+any1	NN	O	O
+?	NN	O	O
+
+need	NN	O	B-S
+it	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+sorry	NN	O	B-S
+i	NN	O	O
+keep	NN	O	O
+asking	NN	O	O
+
+haha	NN	O	B-S
+no	NN	O	O
+worries	NN	O	O
+,	NN	O	O
+you	NN	O	O
+have	NN	O	O
+to	NN	O	O
+
+cn	NN	O	B-S
+i	NN	O	O
+get	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	B-S
+
+I	NN	O	B-S
+just	NN	O	O
+turned	NN	O	O
+my	NN	O	O
+sheep	NN	O	O
+into	NN	O	O
+clay	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+!	NN	O	O
+
+ok	NN	O	B-S
+
+Gotta	NN	O	B-S
+love	NN	O	O
+Catan	NN	O	O
+alchemy	NN	O	O
+
+btw	NN	O	B-S
+i	NN	O	O
+need	NN	O	O
+to	NN	O	O
+go	NN	O	O
+in	NN	O	O
+few	NN	O	O
+mins	NN	O	O
+
+do	NN	O	B-S
+i	NN	O	O
+still	NN	O	O
+get	NN	O	O
+paid	NN	O	O
+fot	NN	O	O
+his	NN	O	O
+?	NN	O	O
+
+*this	NN	O	B-S
+
+(	NN	O	B-S
+i	NN	O	O
+hope	NN	O	O
+)	NN	O	O
+we	NN	O	B-S
+will	NN	O	O
+be	NN	O	O
+finishing	NN	O	O
+very	NN	O	O
+soon	NN	O	O
+
+Yeah	NN	O	B-S
+,	NN	O	O
+me	NN	O	O
+too	NN	O	O
+
+You	NN	O	B-S
+'ll	NN	O	O
+get	NN	O	O
+paid	NN	O	O
+.	NN	O	O
+
+Anyone	NN	O	B-S
+have	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+thank	NN	O	B-S
+you	NN	O	O
+
+where	NN	O	B-S
+do	NN	O	O
+we	NN	O	O
+go	NN	O	O
+to	NN	O	B-S
+get	NN	O	O
+our	NN	O	O
+compensation	NN	O	O
+?	NN	O	O
+
+not	NN	O	B-S
+me	NN	O	O
+aria	NN	O	O
+,	NN	O	O
+sorry	NN	O	O
+
+Informatics	NN	O	B-S
+Forum	NN	O	O
+3.24	NN	O	O
+.	NN	O	O
+
+k	NN	O	B-S
+,	NN	O	O
+thanks	NN	O	B-S
+
+this	NN	O	B-S
+room	NN	O	O
+is	NN	O	O
+in	NN	O	O
+the	NN	O	O
+informatics	NN	O	O
+building	NN	O	O
+im	NN	O	B-S
+gessing	NN	O	O
+?	NN	O	O
+
+ths	NN	O	B-S
+nice	NN	O	O
+one	NN	O	O
+in	NN	O	O
+george	NN	O	O
+square	NN	O	O
+?	NN	O	O
+
+yes	NN	O	B-S
+.	NN	O	O
+
+ok	NN	O	B-S
+great	NN	O	B-S
+
+we	NN	O	B-S
+'re	NN	O	O
+really	NN	O	O
+nearly	NN	O	O
+done	NN	O	O
+
+how	NN	O	B-S
+du	NN	O	O
+know	NN	O	O
+?	NN	O	O
+
+it	NN	O	B-S
+seems	NN	O	O
+neverending	NN	O	O
+
+me	NN	O	B-S
+and	NN	O	O
+aria	NN	O	O
+are	NN	O	O
+near	NN	O	O
+10	NN	O	O
+
+oooh	NN	O	B-S
+
+ryt	NN	O	B-S
+
+ok	NN	O	B-S
+guys	NN	O	O
+hav	NN	O	B-S
+to	NN	O	O
+leav	NN	O	O
+nw	NN	O	O
+
+bye	NN	O	B-S
+
+seriuosly	NN	O	B-S
+,	NN	O	O
+i	NN	O	O
+'m	NN	O	O
+one	NN	O	O
+resrouce	NN	O	O
+from	NN	O	O
+winning	NN	O	O
+
+Fair	NN	O	B-S
+enough	NN	O	O
+...	NN	O	O
+.	NN	O	O
+
+i	NN	O	B-S
+really	NN	O	O
+need	NN	O	O
+to	NN	O	O
+leav	NN	O	O
+
+sorry	NN	O	B-S
+
+ah	NN	O	B-S
+well	NN	O	O
+
+I	NN	O	B-S
+ca	NN	O	O
+n't	NN	O	O
+move	NN	O	O
+the	NN	O	O
+robber	NN	O	O
+,	NN	O	O
+I	NN	O	B-S
+think	NN	O	O
+the	NN	O	O
+game	NN	O	O
+'s	NN	O	O
+stuck	NN	O	O
+
+OK	NN	O	B-S
+,	NN	O	O
+just	NN	O	B-S
+a	NN	O	O
+moment	NN	O	O
+
+Cheers	NN	O	B-S
+
+Now	NN	O	B-S
+?	NN	O	O
+
+Yep	NN	O	B-S
+,	NN	O	O
+thanks	NN	O	B-S
+for	NN	O	O
+that	NN	O	O
+
+Great	NN	O	B-S
+game	NN	O	O
+,	NN	O	O
+well	NN	O	B-S
+played	NN	O	O
+aria	NN	O	O
+
+Well	NN	O	B-S
+don	NN	O	O
+!	NN	O	O
+
+Yep	NN	O	B-S
+,	NN	O	O
+good	NN	O	B-S
+game	NN	O	O
+inca	NN	O	O
+!	NN	O	O
+
+*done	NN	O	B-S
+
+Cheers	NN	O	B-S
+!	NN	O	O
+
+Marcus	NN	O	B-S
+,	NN	O	O
+what	NN	O	O
+time	NN	O	O
+is	NN	O	O
+good	NN	O	O
+to	NN	O	O
+come	NN	O	O
+to	NN	O	O
+your	NN	O	O
+office	NN	O	O
+?	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+Markus	NN	O	B-S
+
+Please	NN	O	B-S
+fill	NN	O	O
+in	NN	O	O
+your	NN	O	O
+questionnaires	NN	O	O
+.	NN	O	O
+
+Will	NN	O	B-S
+do	NN	O	O
+
+I	NN	O	B-S
+'m	NN	O	O
+here	NN	O	O
+tomorrow	NN	O	O
+morning	NN	O	O
+,	NN	O	O
+but	NN	O	O
+not	NN	O	O
+the	NN	O	O
+rest	NN	O	O
+of	NN	O	O
+the	NN	O	O
+week	NN	O	O
+.	NN	O	O
+
+Ok	NN	O	B-S
+.	NN	O	O
+
+But	NN	O	B-S
+my	NN	O	O
+office	NN	O	O
+mate	NN	O	O
+Jonanthan	NN	O	O
+can	NN	O	O
+give	NN	O	O
+you	NN	O	O
+your	NN	O	O
+compensation	NN	O	O
+.	NN	O	O
+
+If	NN	O	B-S
+you	NN	O	O
+prefer	NN	O	O
+that	NN	O	O
+.	NN	O	O
+
+Where	NN	O	B-S
+is	NN	O	O
+the	NN	O	O
+questionnaire	NN	O	O
+?	NN	O	O
+
+Should	NN	O	B-S
+be	NN	O	O
+attached	NN	O	O
+to	NN	O	O
+the	NN	O	O
+last	NN	O	O
+email	NN	O	O
+.	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+a	NN	O	O
+link	NN	O	O
+to	NN	O	O
+your	NN	O	O
+website	NN	O	O
+,	NN	O	O
+and	NN	O	B-S
+to	NN	O	O
+instructions	NN	O	O
+on	NN	O	O
+how	NN	O	O
+to	NN	O	O
+play	NN	O	O
+the	NN	O	O
+game	NN	O	O
+...	NN	O	O
+
+Oh	NN	O	B-S
+!	NN	O	O
+
+Never	NN	O	B-S
+mind	NN	O	O
+.	NN	O	O
+
+Let	NN	O	B-S
+me	NN	O	O
+know	NN	O	O
+if	NN	O	O
+you	NN	O	O
+ca	NN	O	O
+n't	NN	O	O
+find	NN	O	O
+it	NN	O	O
+.	NN	O	O
+
+But	NN	O	B-S
+it	NN	O	O
+'s	NN	O	O
+not	NN	O	O
+imperative	NN	O	O
+.	NN	O	O
+
+Just	NN	O	B-S
+helpful	NN	O	O
+for	NN	O	O
+us	NN	O	O
+.	NN	O	O
+
+It	NN	O	B-S
+'s	NN	O	O
+opened	NN	O	O
+in	NN	O	O
+a	NN	O	O
+file	NN	O	O
+I	NN	O	B-S
+ca	NN	O	O
+n't	NN	O	O
+modify	NN	O	O
+with	NN	O	B-S
+rather	NN	O	O
+strange	NN	O	O
+formatting	NN	O	O
+...	NN	O	O
+
+Is	NN	O	B-S
+there	NN	O	O
+a	NN	O	O
+recommended	NN	O	O
+program	NN	O	O
+for	NN	O	O
+it	NN	O	O
+?	NN	O	O
+
+Same	NN	O	B-S
+here	NN	O	O
+
+Any	NN	O	B-S
+word	NN	O	O
+processor	NN	O	O
+should	NN	O	O
+do	NN	O	O
+.	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+send	NN	O	O
+you	NN	O	O
+a	NN	O	O
+text	NN	O	O
+file	NN	O	O
+,	NN	O	O
+if	NN	O	O
+you	NN	O	O
+want	NN	O	O
+.	NN	O	O
+
+I	NN	O	B-S
+think	NN	O	O
+I	NN	O	B-S
+'ve	NN	O	O
+got	NN	O	O
+it	NN	O	O
+in	NN	O	O
+Word	NN	O	O
+now	NN	O	O
+.	NN	O	O
+
+Ok	NN	O	B-S
+,	NN	O	O
+Thanks	NN	O	B-S
+Markus	NN	O	O
+,	NN	O	O
+I	NN	O	B-S
+'ll	NN	O	O
+come	NN	O	O
+around	NN	O	O
+tomorrow	NN	O	O
+morning	NN	O	O
+.	NN	O	O
+
+Have	NN	O	B-S
+a	NN	O	O
+good	NN	O	O
+evening	NN	O	O
+!	NN	O	O
+
+See	NN	O	B-S
+you	NN	O	O
+!	NN	O	O
+
+I	NN	O	B-S
+ca	NN	O	O
+n't	NN	O	O
+come	NN	O	O
+tomorrow	NN	O	O
+morning	NN	O	O
+,	NN	O	O
+will	NN	O	B-S
+try	NN	O	O
+and	NN	O	O
+come	NN	O	O
+on	NN	O	O
+Wednesday	NN	O	O
+
+OK	NN	O	B-S
+,	NN	O	O
+that	NN	O	B-S
+'s	NN	O	O
+fine	NN	O	O
+.	NN	O	O
+
+Thanks	NN	O	B-S
+for	NN	O	O
+everything	NN	O	O
+
+See	NN	O	B-S
+you	NN	O	O
+!	NN	O	O
+
+
+good	NN	O	B-S
+luck	NN	O	O
+
+But	NN	O	B-S
+I	NN	O	O
+have	NN	O	O
+to	NN	O	O
+say	NN	O	O
+that	NN	O	O
+I	NN	O	O
+need	NN	O	O
+to	NN	O	O
+leave	NN	O	O
+at	NN	O	O
+8pm	NN	O	O
+-	NN	O	O
+is	NN	O	B-S
+that	NN	O	O
+a	NN	O	O
+problem	NN	O	O
+for	NN	O	O
+you	NN	O	O
+?	NN	O	O
+
+No	NN	O	B-S
+problem	NN	O	O
+,	NN	O	O
+this	NN	O	B-S
+is	NN	O	O
+just	NN	O	O
+for	NN	O	O
+fun	NN	O	O
+
+fine	NN	O	B-S
+
+You	NN	O	B-S
+can	NN	O	O
+leave	NN	O	O
+when	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+to	NN	O	O
+
+i	NN	O	B-S
+like	NN	O	O
+this	NN	O	O
+robber	NN	O	O
+fight	NN	O	O
+we	NN	O	O
+'re	NN	O	O
+having	NN	O	O
+
+:)	NN	O	B-S
+
+does	NN	O	B-S
+anyone	NN	O	O
+have	NN	O	O
+wood	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+ore	NN	O	O
+,	NN	O	O
+do	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+ore	NN	O	O
+
+what	NN	O	B-S
+do	NN	O	O
+you	NN	O	O
+want	NN	O	O
+in	NN	O	O
+exchange	NN	O	O
+
+but	NN	O	B-S
+I	NN	O	O
+need	NN	O	O
+wood	NN	O	O
+,	NN	O	O
+too	NN	O	O
+
+me	NN	O	B-S
+too	NN	O	O
+
+do	NN	O	B-S
+you	NN	O	O
+need	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+OK	NN	O	B-S
+,	NN	O	O
+ore	NN	O	B-S
+for	NN	O	O
+wheat	NN	O	O
+
+me	NN	O	B-S
+?	NN	O	O
+no	NN	O	O
+
+oh	NN	O	B-S
+then	NN	O	O
+nvm	NN	O	O
+
+?	NN	O	B-S
+
+are	NN	O	B-S
+you	NN	O	O
+there	NN	O	O
+yiin	NN	O	O
+?	NN	O	O
+
+our	NN	O	B-S
+
+oops	NN	O	B-S
+,	NN	O	O
+did	NN	O	O
+n't	NN	O	O
+meant	NN	O	O
+ot	NN	O	O
+ype	NN	O	O
+that	NN	O	O
+
+ignore	NN	O	B-S
+it	NN	O	O
+
+do	NN	O	B-S
+anyone	NN	O	O
+have	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	O
+
+well	NN	O	B-S
+played	NN	O	O
+
+ok	NN	O	B-S
+,	NN	O	O
+I	NN	O	O
+should	NN	O	O
+go	NN	O	O
+now	NN	O	O
+=	NN	O	O
+)	NN	O	O
+
+see	NN	O	B-S
+you	NN	O	O
+
+see	NN	O	B-S
+yuo	NN	O	O
+later	NN	O	O
+
+
+hi	NN	O	B-S
+
+who	NN	O	B-S
+are	NN	O	O
+you	NN	O	O
+
+Briain	NN	O	B-S
+
+we	NN	O	B-S
+'ve	NN	O	O
+played	NN	O	O
+each	NN	O	O
+other	NN	O	O
+before	NN	O	O
+dude	NN	O	O
+.	NN	O	O
+:P	NN	O	O
+
+oh	NN	O	B-S
+ok	NN	O	O
+haha	NN	O	B-S
+
+sorry	NN	O	B-S
+need	NN	O	O
+to	NN	O	O
+play	NN	O	O
+everyday	NN	O	O
+to	NN	O	B-S
+know	NN	O	O
+people	NN	O	O
+
+no	NN	O	B-S
+worries	NN	O	O
+,	NN	O	O
+man	NN	O	B-S
+
+hi	NN	O	B-S
+
+hi	NN	O	B-S
+
+hey	NN	O	B-S
+]	NN	O	O
+
+is	NN	O	B-S
+there	NN	O	O
+anyone	NN	O	O
+else	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+ridiculous	NN	O	B-S
+
+I	NN	O	B-S
+'ve	NN	O	O
+played	NN	O	O
+one	NN	O	O
+game	NN	O	O
+so	NN	O	O
+far	NN	O	O
+
+and	NN	O	B-S
+was	NN	O	O
+waiting	NN	O	O
+three	NN	O	O
+other	NN	O	O
+times	NN	O	O
+for	NN	O	O
+people	NN	O	O
+
+should	NN	O	B-S
+we	NN	O	O
+email	NN	O	O
+everyone	NN	O	O
+in	NN	O	B-S
+case	NN	O	O
+they	NN	O	O
+thought	NN	O	O
+the	NN	O	O
+game	NN	O	O
+was	NN	O	O
+at	NN	O	O
+10pm	NN	O	O
+
+Yeah	NN	O	B-S
+,	NN	O	O
+can	NN	O	B-S
+you	NN	O	O
+do	NN	O	O
+that/	NN	O	O
+
+?	NN	O	B-S
+
+Yeah	NN	O	B-S
+,	NN	O	O
+2	NN	O	B-S
+seconds	NN	O	O
+
+there	NN	O	B-S
+we	NN	O	O
+go	NN	O	O
+,	NN	O	O
+
+Ok	NN	O	B-S
+,	NN	O	O
+let	NN	O	B-S
+'s	NN	O	O
+wait	NN	O	O
+and	NN	O	O
+see	NN	O	O
+
+innis	NN	O	B-S
+said	NN	O	O
+that	NN	O	B-S
+he	NN	O	O
+have	NN	O	O
+already	NN	O	O
+done	NN	O	O
+a	NN	O	O
+game	NN	O	O
+
+should	NN	O	B-S
+we	NN	O	O
+start	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+We	NN	O	B-S
+ca	NN	O	O
+n't	NN	O	O
+do	NN	O	O
+it	NN	O	O
+with	NN	O	O
+three	NN	O	O
+...	NN	O	O
+
+sigh	NN	O	B-S
+
+it	NN	O	B-S
+'s	NN	O	O
+a	NN	O	O
+pity	NN	O	O
+
+we	NN	O	B-S
+played	NN	O	O
+a	NN	O	O
+three	NN	O	O
+player	NN	O	O
+game	NN	O	O
+before	NN	O	O
+...	NN	O	O
+
+really	NN	O	B-S
+?	NN	O	O
+
+I	NN	O	B-S
+thought	NN	O	O
+that	NN	O	O
+messes	NN	O	O
+up	NN	O	O
+the	NN	O	O
+league	NN	O	O
+or	NN	O	O
+something	NN	O	O
+
+who	NN	O	B-S
+is	NN	O	O
+it	NN	O	O
+we	NN	O	O
+need	NN	O	O
+before	NN	O	B-S
+we	NN	O	O
+can	NN	O	O
+play	NN	O	O
+?	NN	O	O
+
+the	NN	O	B-S
+other	NN	O	O
+group	NN	O	O
+have	NN	O	O
+3	NN	O	O
+players	NN	O	O
+as	NN	O	O
+well	NN	O	O
+as	NN	O	O
+in	NN	O	O
+league	NN	O	O
+2	NN	O	O
+
+Carina	NN	O	B-S
+?	NN	O	O
+
+what	NN	O	B-S
+are	NN	O	O
+we	NN	O	O
+to	NN	O	O
+do	NN	O	O
+?	NN	O	O
+
+can	NN	O	B-S
+we	NN	O	O
+just	NN	O	O
+proceed	NN	O	O
+
+half	NN	O	B-S
+an	NN	O	O
+hour	NN	O	O
+is	NN	O	O
+not	NN	O	O
+too	NN	O	O
+late	NN	O	O
+for	NN	O	O
+a	NN	O	O
+player	NN	O	O
+
+start	NN	O	B-S
+the	NN	O	O
+game	NN	O	O
+,	NN	O	O
+you	NN	O	B-S
+mean	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+'m	NN	O	O
+happy	NN	O	O
+to	NN	O	O
+
+sorry	NN	O	B-S
+was	NN	O	O
+asf	NN	O	O
+for	NN	O	O
+a	NN	O	O
+mo	NN	O	O
+
+afk	NN	O	B-S
+
+no	NN	O	B-S
+worries	NN	O	O
+...	NN	O	O
+.	NN	O	O
+
+take	NN	O	B-S
+your	NN	O	O
+time	NN	O	O
+
+Anyone	NN	O	B-S
+have	NN	O	O
+any	NN	O	O
+clay	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+
+sorry	NN	O	B-S
+
+nope	NN	O	B-S
+
+ok	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+
+no	NN	O	B-S
+
+yeah	NN	O	B-S
+
+you	NN	O	B-S
+need	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+yeah	NN	O	B-S
+
+thanks	NN	O	B-S
+
+anyone	NN	O	B-S
+have	NN	O	O
+sheep	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+sheep	NN	O	O
+
+got	NN	O	B-S
+wood	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+sorry	NN	O	O
+
+yeah	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+
+i	NN	O	B-S
+mean	NN	O	O
+clay	NN	O	O
+
+i	NN	O	B-S
+got	NN	O	O
+ore	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+got	NN	O	B-S
+neither	NN	O	O
+
+then	NN	O	B-S
+never	NN	O	O
+mind	NN	O	O
+
+any	NN	O	B-S
+one	NN	O	O
+have	NN	O	O
+sheep	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+?	NN	O	O
+
+yeah	NN	O	B-S
+
+got	NN	O	B-S
+clay	NN	O	O
+or	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+
+ok	NN	O	B-S
+
+deal	NN	O	B-S
+
+thanks	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	O
+
+oop	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+
+I	NN	O	B-S
+have	NN	O	O
+sheep	NN	O	O
+and	NN	O	O
+wheat	NN	O	O
+
+sorry	NN	O	B-S
+nope	NN	O	O
+
+ok	NN	O	B-S
+
+argh	NN	O	B-S
+,	NN	O	O
+too	NN	O	O
+many	NN	O	O
+sheep	NN	O	O
+.	NN	O	O
+
+I	NN	O	B-S
+'m	NN	O	O
+being	NN	O	O
+overloaded	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+wheat	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+(	NN	O	B-S
+or	NN	O	O
+could	NN	O	O
+take	NN	O	O
+sheep	NN	O	O
+as	NN	O	O
+well	NN	O	O
+)	NN	O	O
+
+As	NN	O	B-S
+stated	NN	O	O
+above	NN	O	O
+,	NN	O	O
+I	NN	O	B-S
+have	NN	O	O
+sheep	NN	O	O
+
+Do	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+clay/wood	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+wood	NN	O	O
+(	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+)	NN	O	O
+
+I	NN	O	B-S
+'ll	NN	O	O
+take	NN	O	O
+wood	NN	O	O
+
+thanks	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+
+i	NN	O	B-S
+got	NN	O	O
+clay	NN	O	O
+
+sorry	NN	O	B-S
+mate	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+sheep	NN	O	O
+
+nareik	NN	O	B-S
+?	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+some	NN	O	O
+wood	NN	O	O
+but	NN	O	B-S
+plenty	NN	O	O
+clay	NN	O	O
+as	NN	O	O
+well	NN	O	O
+.	NN	O	O
+
+do	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+any	NN	O	O
+wheat	NN	O	O
+
+i	NN	O	B-S
+need	NN	O	O
+my	NN	O	O
+wheat	NN	O	O
+
+how	NN	O	B-S
+about	NN	O	O
+sheep	NN	O	O
+
+same	NN	O	B-S
+
+I	NN	O	B-S
+'ll	NN	O	O
+give	NN	O	O
+you	NN	O	O
+sheep	NN	O	O
+
+for	NN	O	B-S
+clay	NN	O	O
+
+nah	NN	O	B-S
+it	NN	O	O
+is	NN	O	O
+ok	NN	O	O
+
+I	NN	O	B-S
+meant	NN	O	O
+kieran	NN	O	O
+,	NN	O	O
+sorry	NN	O	O
+
+ok	NN	O	B-S
+deal	NN	O	O
+.	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+
+i	NN	O	B-S
+really	NN	O	O
+need	NN	O	O
+wood	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+none	NN	O	O
+,	NN	O	O
+sorry	NN	O	O
+
+and	NN	O	B-S
+i	NN	O	O
+only	NN	O	O
+got	NN	O	O
+clay	NN	O	O
+
+if	NN	O	B-S
+you	NN	O	O
+have	NN	O	O
+5	NN	O	O
+clay	NN	O	O
+you	NN	O	B-S
+could	NN	O	O
+trade	NN	O	O
+3	NN	O	O
+at	NN	O	O
+the	NN	O	O
+port	NN	O	O
+?	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+any	NN	O	O
+wheat	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+
+eh	NN	O	B-S
+no	NN	O	O
+
+no	NN	O	B-S
+
+ok	NN	O	B-S
+
+sorry	NN	O	B-S
+
+whose	NN	O	B-S
+turn	NN	O	O
+is	NN	O	O
+it	NN	O	O
+?	NN	O	O
+
+nareik	NN	O	B-S
+are	NN	O	O
+you	NN	O	O
+done	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+Mine	NN	O	B-S
+,	NN	O	O
+am	NN	O	B-S
+just	NN	O	O
+trying	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+with	NN	O	O
+the	NN	O	O
+3:1	NN	O	O
+port	NN	O	O
+but	NN	O	B-S
+it	NN	O	O
+doesnt	NN	O	O
+sem	NN	O	O
+to	NN	O	O
+be	NN	O	O
+working	NN	O	O
+?	NN	O	O
+
+you	NN	O	B-S
+need	NN	O	O
+a	NN	O	O
+settlement	NN	O	O
+
+not	NN	O	B-S
+just	NN	O	O
+a	NN	O	O
+road	NN	O	O
+
+oh	NN	O	B-S
+...	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+wheat	NN	O	O
+and	NN	O	B-S
+need	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+need	NN	O	O
+wood	NN	O	O
+bot	NN	O	B-S
+got	NN	O	O
+wheat	NN	O	O
+
+*but	NN	O	B-S
+
+i	NN	O	B-S
+need	NN	O	O
+wheat	NN	O	O
+as	NN	O	O
+well	NN	O	O
+
+Sorry	NN	O	B-S
+,	NN	O	O
+I	NN	O	B-S
+'ve	NN	O	O
+no	NN	O	O
+wood	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+but	NN	O	B-S
+need	NN	O	O
+ore	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+
+sorry	NN	O	B-S
+
+ADDTIME	NN	O	B-S
+
+no	NN	O	B-S
+one	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+sorry	NN	O	O
+
+I	NN	O	B-S
+need	NN	O	O
+wheat	NN	O	O
+.	NN	O	O
+
+anyone	NN	O	B-S
+want	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+thank	NN	O	O
+you	NN	O	O
+
+I	NN	O	B-S
+'d	NN	O	O
+like	NN	O	O
+sheep	NN	O	O
+but	NN	O	B-S
+no	NN	O	O
+wheat	NN	O	O
+to	NN	O	O
+spare	NN	O	O
+,	NN	O	O
+could	NN	O	B-S
+trade	NN	O	O
+wood	NN	O	O
+though	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+everything	NN	O	O
+else	NN	O	O
+
+i	NN	O	B-S
+got	NN	O	O
+wheat	NN	O	O
+but	NN	O	B-S
+you	NN	O	O
+got	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+?	NN	O	O
+
+yeah	NN	O	B-S
+
+sorry	NN	O	B-S
+
+ok	NN	O	B-S
+deal	NN	O	O
+
+any	NN	O	B-S
+clay	NN	O	O
+,	NN	O	O
+kieran	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+sorry	NN	O	O
+
+bravo	NN	O	B-S
+
+
+Can	NN	O	B-S
+we	NN	O	O
+delay	NN	O	O
+just	NN	O	O
+a	NN	O	O
+couple	NN	O	O
+of	NN	O	O
+minutes	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+'m	NN	O	O
+just	NN	O	O
+getting	NN	O	O
+something	NN	O	O
+to	NN	O	O
+eat	NN	O	O
+
+Yeah	NN	O	B-S
+,	NN	O	O
+no	NN	O	B-S
+problem	NN	O	O
+
+I	NN	O	B-S
+'m	NN	O	O
+back	NN	O	O
+.	NN	O	O
+
+We	NN	O	B-S
+said	NN	O	O
+we	NN	O	O
+'d	NN	O	O
+wait	NN	O	O
+till	NN	O	O
+19:10	NN	O	O
+,	NN	O	O
+right	NN	O	O
+?	NN	O	O
+
+Yeah	NN	O	B-S
+,	NN	O	O
+let	NN	O	B-S
+'s	NN	O	O
+give	NN	O	O
+it	NN	O	O
+a	NN	O	O
+few	NN	O	O
+more	NN	O	O
+minutes	NN	O	O
+
+well	NN	O	B-S
+done	NN	O	O
+
+gg	NN	O	B-S
+
+i	NN	O	B-S
+'ll	NN	O	O
+send	NN	O	O
+another	NN	O	O
+update	NN	O	O
+
+
+I	NN	O	B-S
+forget	NN	O	O
+exactly	NN	O	O
+who	NN	O	O
+'s	NN	O	O
+joining	NN	O	O
+,	NN	O	O
+but	NN	O	B-S
+I	NN	O	O
+thought	NN	O	O
+I	NN	O	O
+should	NN	O	O
+just	NN	O	O
+get	NN	O	O
+the	NN	O	O
+game	NN	O	O
+ready	NN	O	O
+early	NN	O	O
+!	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+to	NN	O	O
+go	NN	O	O
+and	NN	O	O
+do	NN	O	O
+something	NN	O	O
+just	NN	O	O
+now	NN	O	O
+but	NN	O	B-S
+I	NN	O	O
+should	NN	O	O
+be	NN	O	O
+here	NN	O	O
+in	NN	O	O
+time	NN	O	O
+for	NN	O	O
+6:30	NN	O	O
+.	NN	O	O
+
+nobody	NN	O	B-S
+else	NN	O	O
+here	NN	O	O
+yet	NN	O	O
+?	NN	O	O
+
+hey	NN	O	B-S
+
+Howdy	NN	O	B-S
+folks	NN	O	O
+
+hello	NN	O	B-S
+
+Inca	NN	O	B-S
+'s	NN	O	O
+got	NN	O	O
+my	NN	O	O
+seat	NN	O	O
+:P	NN	O	O
+
+haha	NN	O	B-S
+,	NN	O	O
+got	NN	O	O
+to	NN	O	O
+be	NN	O	O
+quick	NN	O	O
+!	NN	O	O
+
+we	NN	O	B-S
+can	NN	O	O
+swap	NN	O	O
+;)	NN	O	O
+
+I	NN	O	B-S
+'ll	NN	O	O
+be	NN	O	O
+orange	NN	O	O
+for	NN	O	O
+the	NN	O	O
+night	NN	O	O
+
+hi	NN	O	B-S
+!	NN	O	O
+
+hey	NN	O	B-S
+duncan	NN	O	O
+
+nie	NN	O	B-S
+to	NN	O	O
+meet	NN	O	O
+you	NN	O	O
+!	NN	O	O
+
+who	NN	O	B-S
+are	NN	O	O
+you	NN	O	O
+two	NN	O	O
+in	NN	O	O
+the	NN	O	O
+emails	NN	O	O
+again	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+forget	NN	O	O
+who	NN	O	O
+'s	NN	O	O
+who	NN	O	O
+
+i	NN	O	B-S
+'m	NN	O	O
+innis	NN	O	O
+,	NN	O	O
+he	NN	O	B-S
+'s	NN	O	O
+niko	NN	O	O
+
+good	NN	O	B-S
+luck	NN	O	O
+guys	NN	O	O
+!	NN	O	O
+
+hello	NN	O	B-S
+all	NN	O	O
+,	NN	O	O
+and	NN	O	B-S
+indeed	NN	O	O
+,	NN	O	O
+good	NN	O	O
+luck	NN	O	O
+!	NN	O	O
+
+good	NN	O	B-S
+luck	NN	O	O
+!	NN	O	O
+
+hello	NN	O	B-S
+gl	NN	O	O
+all	NN	O	O
+!	NN	O	O
+!	NN	O	O
+
+can	NN	O	B-S
+you	NN	O	O
+remind	NN	O	O
+me	NN	O	O
+who	NN	O	O
+you	NN	O	O
+are	NN	O	O
+cheshirecatgrin	NN	O	O
+?	NN	O	O
+
+matt	NN	O	B-S
+
+man	NN	O	B-S
+I	NN	O	O
+keep	NN	O	O
+drawing	NN	O	O
+the	NN	O	O
+last	NN	O	O
+seat	NN	O	O
+
+alright	NN	O	B-S
+,	NN	O	O
+thanks	NN	O	B-S
+:)	NN	O	O
+
+the	NN	O	B-S
+name	NN	O	O
+came	NN	O	O
+from	NN	O	O
+an	NN	O	O
+alice	NN	O	O
+and	NN	O	O
+wonderland	NN	O	O
+mug	NN	O	O
+i	NN	O	O
+had	NN	O	O
+at	NN	O	O
+the	NN	O	O
+time	NN	O	O
+of	NN	O	O
+signing	NN	O	O
+up	NN	O	O
+
+from	NN	O	B-S
+whittards	NN	O	O
+?	NN	O	O
+
+actually	NN	O	B-S
+no	NN	O	O
+,	NN	O	O
+a	NN	O	B-S
+little	NN	O	O
+shop	NN	O	O
+in	NN	O	O
+oxford	NN	O	O
+
+maybe	NN	O	B-S
+whittards	NN	O	O
+stole	NN	O	O
+the	NN	O	O
+idea	NN	O	O
+:/	NN	O	O
+
+is	NN	O	B-S
+anybody	NN	O	O
+willing	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+a	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+you	NN	O	O
+a	NN	O	O
+wheat	NN	O	O
+
+i	NN	O	B-S
+has	NN	O	O
+nowt	NN	O	O
+sorry	NN	O	B-S
+:(	NN	O	O
+
+No	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	B-S
+
+not	NN	O	B-S
+got	NN	O	O
+any	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+thanks	NN	O	B-S
+anyway	NN	O	O
+!	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+offer	NN	O	O
+sheep	NN	O	O
+
+phrased	NN	O	B-S
+in	NN	O	O
+such	NN	O	O
+a	NN	O	O
+way	NN	O	O
+i	NN	O	O
+do	NN	O	O
+n't	NN	O	O
+riff	NN	O	O
+on	NN	O	O
+my	NN	O	O
+un	NN	O	O
+
+i	NN	O	B-S
+'m	NN	O	O
+up	NN	O	O
+for	NN	O	O
+that	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+no	NN	O	O
+wood	NN	O	O
+
+1:1	NN	O	B-S
+?	NN	O	O
+
+yep	NN	O	B-S
+,	NN	O	O
+only	NN	O	B-S
+got	NN	O	O
+one	NN	O	O
+
+matt	NN	O	B-S
+,	NN	O	O
+do	NN	O	O
+you	NN	O	O
+got	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+offer	NN	O	O
+many	NN	O	O
+things	NN	O	O
+
+No	NN	O	B-S
+clay	NN	O	O
+either	NN	O	O
+
+anyone	NN	O	B-S
+else	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+think	NN	O	O
+clay	NN	O	O
+is	NN	O	O
+in	NN	O	O
+short	NN	O	O
+supply	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+none	NN	O	B-S
+here	NN	O	O
+either	NN	O	O
+
+indeed	NN	O	B-S
+,	NN	O	O
+something	NN	O	O
+to	NN	O	O
+do	NN	O	O
+with	NN	O	O
+a	NN	O	O
+robber	NN	O	O
+on	NN	O	O
+the	NN	O	O
+5	NN	O	O
+
+alas	NN	O	B-S
+
+5	NN	O	B-S
+!	NN	O	O
+
+5s	NN	O	B-S
+for	NN	O	O
+all	NN	O	O
+
+hurrah	NN	O	B-S
+
+the	NN	O	B-S
+brick	NN	O	O
+flows	NN	O	O
+
+no	NN	O	B-S
+5s	NN	O	O
+for	NN	O	O
+me	NN	O	O
+:(	NN	O	O
+
+you	NN	O	B-S
+kind	NN	O	O
+of	NN	O	O
+got	NN	O	O
+fenced	NN	O	O
+out	NN	O	O
+there	NN	O	O
+:/	NN	O	O
+
+does	NN	O	B-S
+anyone	NN	O	O
+have	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+afraid	NN	O	B-S
+not	NN	O	O
+
+a	NN	O	B-S
+surfeit	NN	O	O
+
+nope	NN	O	B-S
+
+i	NN	O	B-S
+could	NN	O	O
+offer	NN	O	O
+sheep	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+(	NN	O	O
+to	NN	O	O
+gotwood4sheep	NN	O	O
+)	NN	O	O
+
+how	NN	O	B-S
+many	NN	O	O
+wood	NN	O	O
+you	NN	O	O
+after	NN	O	O
+,	NN	O	O
+and	NN	O	B-S
+how	NN	O	O
+much	NN	O	O
+ore	NN	O	O
+can	NN	O	O
+you	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+was	NN	O	O
+thinking	NN	O	O
+1	NN	O	O
+for	NN	O	O
+1	NN	O	O
+
+i	NN	O	B-S
+ask	NN	O	O
+because	NN	O	B-S
+i	NN	O	O
+'m	NN	O	O
+in	NN	O	O
+a	NN	O	O
+delicate	NN	O	O
+trading	NN	O	O
+position	NN	O	O
+
+if	NN	O	B-S
+i	NN	O	O
+trade	NN	O	O
+1	NN	O	O
+i	NN	O	B-S
+then	NN	O	O
+ca	NN	O	O
+n't	NN	O	O
+trade	NN	O	O
+in	NN	O	O
+to	NN	O	O
+build	NN	O	O
+a	NN	O	O
+road	NN	O	O
+next	NN	O	O
+turn	NN	O	O
+
+so	NN	O	B-S
+i	NN	O	O
+'ll	NN	O	O
+need	NN	O	O
+inducement	NN	O	O
+...	NN	O	O
+
+you	NN	O	B-S
+can	NN	O	O
+have	NN	O	O
+an	NN	O	O
+ore	NN	O	O
+and	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+thats	NN	O	B-S
+all	NN	O	O
+i	NN	O	O
+can	NN	O	O
+offer	NN	O	O
+
+and	NN	O	B-S
+you	NN	O	O
+do	NN	O	O
+n't	NN	O	O
+have	NN	O	O
+2	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+could	NN	O	O
+go	NN	O	O
+2:2	NN	O	O
+ore	NN	O	O
+:	NN	O	O
+wood	NN	O	O
+
+ok	NN	O	B-S
+,	NN	O	O
+2:2	NN	O	B-S
+
+that	NN	O	B-S
+sounds	NN	O	O
+reasonable	NN	O	O
+to	NN	O	O
+me	NN	O	O
+
+seems	NN	O	B-S
+more	NN	O	O
+fair	NN	O	O
+
+i	NN	O	B-S
+hate	NN	O	O
+2:1	NN	O	O
+deals	NN	O	O
+,	NN	O	O
+seems	NN	O	O
+grinchy	NN	O	O
+
+such	NN	O	B-S
+a	NN	O	O
+gentleman	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+or	NN	O	B-S
+clay	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+sorry	NN	O	B-S
+,	NN	O	O
+neither	NN	O	B-S
+
+nor	NN	O	B-S
+me	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+n't	NN	O	O
+got	NN	O	O
+any	NN	O	O
+new	NN	O	O
+resources	NN	O	O
+for	NN	O	O
+ages	NN	O	O
+!	NN	O	O
+
+ok	NN	O	B-S
+monotony	NN	O	O
+time	NN	O	O
+
+apologies	NN	O	B-S
+to	NN	O	O
+the	NN	O	O
+wheat	NN	O	O
+growers	NN	O	O
+
+haha	NN	O	B-S
+,	NN	O	O
+fair	NN	O	O
+play	NN	O	O
+
+I	NN	O	B-S
+eared	NN	O	O
+that	NN	O	O
+
+earned*	NN	O	B-S
+
+thought	NN	O	B-S
+that	NN	O	O
+was	NN	O	O
+an	NN	O	O
+awful	NN	O	O
+wheat	NN	O	O
+pun	NN	O	O
+at	NN	O	O
+first	NN	O	O
+
+haha	NN	O	B-S
+
+i	NN	O	B-S
+did	NN	O	O
+notice	NN	O	O
+the	NN	O	O
+coincidence	NN	O	O
+
+but	NN	O	B-S
+I	NN	O	O
+'m	NN	O	O
+not	NN	O	O
+that	NN	O	O
+clever	NN	O	O
+;)	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+any	NN	O	O
+spare	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+can	NN	O	B-S
+give	NN	O	O
+sheep	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+
+will	NN	O	B-S
+do	NN	O	O
+you	NN	O	O
+1	NN	O	O
+ore	NN	O	O
+
+for	NN	O	B-S
+1	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+sounds	NN	O	B-S
+good	NN	O	O
+
+trade	NN	O	B-S
+away	NN	O	O
+
+cheers	NN	O	B-S
+!	NN	O	O
+
+pleasure	NN	O	B-S
+
+sorry	NN	O	B-S
+for	NN	O	O
+getting	NN	O	O
+your	NN	O	O
+twice	NN	O	O
+in	NN	O	O
+a	NN	O	O
+row	NN	O	O
+there	NN	O	O
+!	NN	O	O
+
+it	NN	O	B-S
+'s	NN	O	O
+only	NN	O	O
+natural	NN	O	O
+to	NN	O	O
+go	NN	O	O
+for	NN	O	O
+the	NN	O	O
+player	NN	O	O
+in	NN	O	O
+front	NN	O	O
+though	NN	O	O
+
+indeed	NN	O	B-S
+,	NN	O	O
+no	NN	O	O
+offence	NN	O	O
+
+plus	NN	O	B-S
+white	NN	O	O
+won	NN	O	O
+the	NN	O	O
+last	NN	O	O
+game	NN	O	O
+
+so	NN	O	B-S
+we	NN	O	O
+'re	NN	O	O
+both	NN	O	O
+enemies	NN	O	O
+;)	NN	O	O
+
+frenemies	NN	O	B-S
+:D	NN	O	O
+
+Great	NN	O	B-S
+word	NN	O	O
+:D	NN	O	O
+
+Also	NN	O	B-S
+,	NN	O	O
+anyone	NN	O	O
+got	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+am	NN	O	O
+wheatless	NN	O	O
+now	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+nope	NN	O	B-S
+
+after	NN	O	B-S
+being	NN	O	O
+robbed	NN	O	O
+hard	NN	O	O
+earlier	NN	O	O
+
+i	NN	O	B-S
+wish	NN	O	O
+
+hmm	NN	O	B-S
+,	NN	O	O
+revenge	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+'ll	NN	O	O
+be	NN	O	O
+nice	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+dumb	NN	O	B-S
+question	NN	O	O
+
+need	NN	O	B-S
+to	NN	O	O
+keep	NN	O	O
+mine	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+none	NN	O	B-S
+here	NN	O	O
+
+i	NN	O	B-S
+do	NN	O	O
+n't	NN	O	O
+have	NN	O	O
+any	NN	O	O
+either	NN	O	O
+
+fine	NN	O	B-S
+fine	NN	O	O
+,	NN	O	O
+no	NN	O	O
+worries	NN	O	O
+.	NN	O	O
+
+inca	NN	O	B-S
+,	NN	O	O
+I	NN	O	O
+assume	NN	O	O
+even	NN	O	O
+a	NN	O	O
+couple	NN	O	O
+of	NN	O	O
+sheep	NN	O	O
+wo	NN	O	O
+n't	NN	O	O
+do	NN	O	O
+it	NN	O	O
+?	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+got	NN	O	B-S
+a	NN	O	O
+few	NN	O	O
+sheep	NN	O	O
+already	NN	O	O
+!	NN	O	O
+
+kk	NN	O	B-S
+thought	NN	O	O
+I	NN	O	O
+'d	NN	O	O
+ask	NN	O	O
+:D	NN	O	O
+
+ouch	NN	O	B-S
+
+7	NN	O	B-S
+again	NN	O	O
+?	NN	O	O
+?	NN	O	O
+
+hey	NN	O	B-S
+you	NN	O	O
+found	NN	O	O
+a	NN	O	O
+cat	NN	O	O
+!	NN	O	O
+
+we	NN	O	B-S
+'ve	NN	O	O
+had	NN	O	O
+about	NN	O	O
+5	NN	O	O
+have	NN	O	O
+n't	NN	O	O
+we	NN	O	O
+at	NN	O	O
+least	NN	O	O
+,	NN	O	O
+lot	NN	O	O
+of	NN	O	O
+7s	NN	O	O
+
+equal	NN	O	B-S
+opportunities	NN	O	O
+attack	NN	O	O
+this	NN	O	O
+time	NN	O	O
+
+haha	NN	O	B-S
+
+aaand	NN	O	B-S
+just	NN	O	O
+for	NN	O	O
+good	NN	O	O
+measure	NN	O	O
+
+lol	NN	O	B-S
+
+equal	NN	O	B-S
+theiving	NN	O	O
+opps	NN	O	O
+
+well	NN	O	B-S
+played	NN	O	O
+
+sorry	NN	O	B-S
+guys	NN	O	O
+;)	NN	O	O
+
+thieving*	NN	O	B-S
+
+ugh	NN	O	B-S
+i	NN	O	O
+cannot	NN	O	O
+type	NN	O	O
+tonight	NN	O	O
+
+i	NN	O	B-S
+still	NN	O	O
+did	NN	O	O
+n't	NN	O	O
+get	NN	O	O
+enough	NN	O	O
+stuff	NN	O	O
+to	NN	O	O
+do	NN	O	O
+anything	NN	O	O
+with	NN	O	O
+!	NN	O	O
+
+you	NN	O	B-S
+'ll	NN	O	O
+be	NN	O	O
+happy	NN	O	O
+when	NN	O	O
+the	NN	O	O
+9s	NN	O	O
+start	NN	O	O
+rolling	NN	O	O
+in	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+not	NN	O	B-S
+me	NN	O	O
+
+nope	NN	O	B-S
+.	NN	O	O
+
+you	NN	O	B-S
+seem	NN	O	O
+to	NN	O	O
+have	NN	O	O
+lots	NN	O	O
+of	NN	O	O
+sheep	NN	O	O
+!	NN	O	O
+
+yup	NN	O	B-S
+baaa	NN	O	O
+
+i	NN	O	B-S
+think	NN	O	O
+i	NN	O	O
+'d	NN	O	O
+rather	NN	O	O
+hang	NN	O	O
+on	NN	O	O
+to	NN	O	O
+my	NN	O	O
+wheat	NN	O	O
+i	NN	O	O
+'m	NN	O	O
+afraid	NN	O	O
+
+kk	NN	O	B-S
+I	NN	O	O
+'ll	NN	O	O
+take	NN	O	O
+my	NN	O	O
+chances	NN	O	O
+then	NN	O	O
+...	NN	O	O
+
+wow	NN	O	B-S
+
+chance	NN	O	B-S
+fail	NN	O	O
+
+do	NN	O	B-S
+n't	NN	O	O
+suppose	NN	O	O
+anybody	NN	O	O
+has	NN	O	O
+a	NN	O	O
+clay	NN	O	O
+lying	NN	O	O
+around	NN	O	O
+?	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+nope	NN	O	B-S
+
+i	NN	O	B-S
+'m	NN	O	O
+afraid	NN	O	O
+not	NN	O	O
+
+and	NN	O	B-S
+nor	NN	O	O
+will	NN	O	O
+any	NN	O	O
+of	NN	O	O
+us	NN	O	O
+for	NN	O	O
+some	NN	O	O
+time	NN	O	O
+...	NN	O	O
+
+oh	NN	O	B-S
+well	NN	O	O
+,	NN	O	O
+maybe	NN	O	O
+next	NN	O	O
+time	NN	O	O
+!	NN	O	O
+
+lol	NN	O	B-S
+
+ahh	NN	O	B-S
+5	NN	O	O
+!	NN	O	O
+
+damn	NN	O	B-S
+it	NN	O	O
+
+haha	NN	O	B-S
+
+ok	NN	O	B-S
+anyone	NN	O	O
+got	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+offer	NN	O	O
+generous	NN	O	O
+terms	NN	O	O
+
+no	NN	O	B-S
+
+sorry	NN	O	B-S
+,	NN	O	O
+none	NN	O	B-S
+at	NN	O	O
+al	NN	O	O
+
+otherwise	NN	O	B-S
+I	NN	O	O
+need	NN	O	O
+to	NN	O	O
+go	NN	O	O
+to	NN	O	O
+port	NN	O	O
+
+all	NN	O	B-S
+
+still	NN	O	B-S
+no	NN	O	O
+
+any	NN	O	B-S
+clay	NN	O	O
+this	NN	O	O
+time	NN	O	O
+?	NN	O	O
+
+none	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	B-S
+...	NN	O	O
+
+still	NN	O	B-S
+none	NN	O	O
+
+next	NN	O	B-S
+time	NN	O	O
+there	NN	O	O
+'s	NN	O	O
+a	NN	O	O
+5	NN	O	O
+!	NN	O	O
+
+indeed	NN	O	B-S
+,	NN	O	O
+still	NN	O	O
+none	NN	O	O
+here	NN	O	O
+
+yeah	NN	O	B-S
+did	NN	O	O
+n't	NN	O	O
+think	NN	O	O
+so	NN	O	O
+
+thought	NN	O	B-S
+so	NN	O	O
+,	NN	O	O
+was	NN	O	O
+checking	NN	O	O
+the	NN	O	O
+odds	NN	O	O
+.	NN	O	O
+
+You	NN	O	B-S
+know	NN	O	O
+that	NN	O	O
+in	NN	O	O
+a	NN	O	O
+4	NN	O	O
+player	NN	O	O
+game	NN	O	O
+,	NN	O	O
+there	NN	O	O
+'s	NN	O	O
+only	NN	O	O
+a	NN	O	O
+47.5	NN	O	O
+%	NN	O	O
+chance	NN	O	O
+the	NN	O	O
+
+4	NN	O	B-S
+rolls	NN	O	O
+will	NN	O	O
+go	NN	O	O
+by	NN	O	O
+7-less	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+thought	NN	O	O
+I	NN	O	O
+'d	NN	O	O
+be	NN	O	O
+in	NN	O	O
+trouble	NN	O	O
+earlier	NN	O	O
+
+and	NN	O	B-S
+so	NN	O	O
+i	NN	O	O
+was	NN	O	O
+:/	NN	O	O
+
+there	NN	O	B-S
+'s	NN	O	O
+an	NN	O	O
+awesome	NN	O	O
+settlers	NN	O	O
+blog	NN	O	O
+
+http://developingcatan.wordpress.com	NN	O	B-S
+
+i	NN	O	B-S
+found	NN	O	O
+in	NN	O	O
+the	NN	O	O
+summer	NN	O	O
+during	NN	O	O
+the	NN	O	O
+first	NN	O	O
+season	NN	O	O
+
+a	NN	O	B-S
+more	NN	O	O
+likely	NN	O	O
+possibility	NN	O	O
+-	NN	O	O
+any	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+alas	NN	O	B-S
+none	NN	O	O
+:(	NN	O	O
+
+afraid	NN	O	B-S
+not	NN	O	O
+
+what	NN	O	B-S
+are	NN	O	O
+you	NN	O	O
+offering	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+you	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+'d	NN	O	O
+like	NN	O	O
+clay	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+.	NN	O	O
+
+So	NN	O	B-S
+given	NN	O	O
+the	NN	O	O
+dice	NN	O	O
+rolls	NN	O	O
+,	NN	O	O
+wheat	NN	O	O
+.	NN	O	O
+
+or	NN	O	B-S
+even	NN	O	O
+two	NN	O	O
+sheep	NN	O	O
+!	NN	O	O
+
+oh	NN	O	B-S
+!	NN	O	O
+i	NN	O	O
+have	NN	O	O
+a	NN	O	O
+wheat	NN	O	O
+
+Ah	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	O
+have	NN	O	O
+no	NN	O	O
+need	NN	O	O
+of	NN	O	O
+sheep	NN	O	O
+
+one	NN	O	B-S
+for	NN	O	O
+one	NN	O	O
+?	NN	O	O
+
+wheat	NN	O	B-S
+to	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+sounds	NN	O	B-S
+good	NN	O	O
+to	NN	O	O
+me	NN	O	O
+
+pleasure	NN	O	B-S
+doing	NN	O	O
+business	NN	O	O
+with	NN	O	O
+you	NN	O	O
+
+wonderful	NN	O	B-S
+:)	NN	O	O
+
+ahh	NN	O	B-S
+7	NN	O	O
+
+again	NN	O	B-S
+
+that	NN	O	B-S
+'s	NN	O	O
+cool	NN	O	O
+niko	NN	O	O
+,	NN	O	O
+going	NN	O	O
+to	NN	O	O
+do	NN	O	O
+some	NN	O	O
+reading	NN	O	O
+up	NN	O	O
+
+surprised	NN	O	B-S
+you	NN	O	O
+shared	NN	O	O
+this	NN	O	O
+with	NN	O	O
+us	NN	O	O
+!	NN	O	O
+
+yeah	NN	O	B-S
+well	NN	O	O
+i	NN	O	O
+like	NN	O	O
+to	NN	O	O
+share	NN	O	O
+
+why	NN	O	B-S
+hustle	NN	O	O
+!	NN	O	O
+
+he	NN	O	B-S
+'s	NN	O	O
+an	NN	O	O
+economics	NN	O	O
+student	NN	O	O
+i	NN	O	O
+think	NN	O	O
+,	NN	O	O
+so	NN	O	B-S
+it	NN	O	O
+is	NN	O	O
+one	NN	O	O
+slant	NN	O	O
+on	NN	O	O
+the	NN	O	O
+game	NN	O	O
+
+but	NN	O	B-S
+there	NN	O	O
+'s	NN	O	O
+some	NN	O	O
+good	NN	O	O
+strat	NN	O	O
+in	NN	O	O
+there	NN	O	O
+
+lol	NN	O	B-S
+9	NN	O	O
+
+pwned	NN	O	B-S
+
+anybody	NN	O	B-S
+with	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+offer	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+
+inca	NN	O	B-S
+-	NN	O	O
+also	NN	O	O
+the	NN	O	O
+blog	NN	O	O
+is	NN	O	O
+now	NN	O	O
+2	NN	O	O
+years	NN	O	O
+old	NN	O	O
+without	NN	O	O
+updates	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+no	NN	O	O
+ore	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+:(	NN	O	O
+
+so	NN	O	B-S
+he	NN	O	O
+'s	NN	O	O
+not	NN	O	O
+really	NN	O	O
+developing	NN	O	O
+catan	NN	O	O
+no	NN	O	O
+mo	NN	O	O
+
+sorry	NN	O	B-S
+dmm	NN	O	O
+,	NN	O	O
+not	NN	O	B-S
+any	NN	O	O
+more	NN	O	O
+
+me	NN	O	B-S
+neither	NN	O	O
+,	NN	O	O
+not	NN	O	B-S
+to	NN	O	O
+trade	NN	O	O
+anyway	NN	O	O
+
+oh	NN	O	B-S
+well	NN	O	O
+
+ah	NN	O	B-S
+well	NN	O	O
+,	NN	O	O
+not	NN	O	O
+like	NN	O	O
+the	NN	O	O
+game	NN	O	O
+'s	NN	O	O
+changed	NN	O	O
+in	NN	O	O
+that	NN	O	O
+time	NN	O	O
+
+still	NN	O	B-S
+cool	NN	O	O
+
+9	NN	O	B-S
+nooo	NN	O	O
+!	NN	O	O
+
+4	NN	O	B-S
+better	NN	O	O
+:)	NN	O	O
+
+any	NN	O	B-S
+ore	NN	O	O
+or	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+once	NN	O	B-S
+again	NN	O	O
+i	NN	O	O
+can	NN	O	O
+offer	NN	O	O
+sheep	NN	O	O
+
+sorry	NN	O	B-S
+...	NN	O	O
+
+nope	NN	O	B-S
+
+sorry	NN	O	B-S
+again	NN	O	O
+,	NN	O	O
+got	NN	O	O
+plenty	NN	O	O
+sheep	NN	O	O
+
+inca	NN	O	B-S
+may	NN	O	O
+oblige	NN	O	O
+but	NN	O	B-S
+I	NN	O	O
+'m	NN	O	O
+sitting	NN	O	O
+on	NN	O	O
+my	NN	O	O
+metal	NN	O	O
+pile	NN	O	O
+:/	NN	O	O
+
+hmm	NN	O	B-S
+okay	NN	O	O
+then	NN	O	O
+
+i	NN	O	B-S
+presume	NN	O	O
+there	NN	O	O
+'s	NN	O	O
+still	NN	O	O
+no	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+clayless	NN	O	B-S
+:/	NN	O	O
+
+afraid	NN	O	B-S
+not	NN	O	O
+,	NN	O	O
+not	NN	O	O
+seen	NN	O	O
+5	NN	O	O
+in	NN	O	O
+a	NN	O	O
+while	NN	O	O
+
+quite	NN	O	B-S
+the	NN	O	O
+commodity	NN	O	O
+this	NN	O	O
+time	NN	O	O
+
+ironic	NN	O	B-S
+
+heh	NN	O	B-S
+
+indeed	NN	O	B-S
+
+buying	NN	O	B-S
+up	NN	O	O
+dem	NN	O	O
+cards	NN	O	O
+
+i	NN	O	B-S
+wish	NN	O	O
+i	NN	O	O
+could	NN	O	O
+get	NN	O	O
+excited	NN	O	O
+about	NN	O	O
+this	NN	O	O
+rare	NN	O	O
+5	NN	O	O
+
+lol	NN	O	B-S
+
+oh	NN	O	B-S
+on	NN	O	O
+the	NN	O	O
+bright	NN	O	O
+side	NN	O	O
+,	NN	O	O
+i	NN	O	O
+presume	NN	O	O
+everybody	NN	O	O
+has	NN	O	O
+some	NN	O	O
+clay	NN	O	O
+now	NN	O	O
+!	NN	O	O
+
+anybody	NN	O	B-S
+want	NN	O	O
+a	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+5	NN	O	B-S
+wheats	NN	O	O
+me	NN	O	O
+too	NN	O	O
+
+you	NN	O	B-S
+got	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+i	NN	O	B-S
+'m	NN	O	O
+somewhat	NN	O	O
+planning	NN	O	O
+on	NN	O	O
+using	NN	O	O
+it	NN	O	O
+
+that	NN	O	B-S
+'s	NN	O	O
+fair	NN	O	O
+enough	NN	O	O
+
+i	NN	O	B-S
+also	NN	O	O
+have	NN	O	O
+an	NN	O	O
+ore	NN	O	O
+as	NN	O	O
+an	NN	O	O
+alternative	NN	O	O
+
+i	NN	O	B-S
+'m	NN	O	O
+not	NN	O	O
+trading	NN	O	O
+my	NN	O	O
+clay	NN	O	O
+...	NN	O	O
+
+OK	NN	O	B-S
+,	NN	O	O
+i	NN	O	B-S
+'ll	NN	O	O
+trade	NN	O	O
+one	NN	O	O
+of	NN	O	O
+mine	NN	O	O
+for	NN	O	O
+ore	NN	O	O
+
+gent	NN	O	B-S
+
+great	NN	O	B-S
+!	NN	O	O
+
+i	NN	O	B-S
+wish	NN	O	O
+somebody	NN	O	O
+would	NN	O	O
+move	NN	O	O
+this	NN	O	O
+robber	NN	O	O
+
+you	NN	O	B-S
+got	NN	O	O
+your	NN	O	O
+wish	NN	O	O
+
+haha	NN	O	B-S
+
+i	NN	O	B-S
+think	NN	O	O
+even	NN	O	O
+before	NN	O	O
+you	NN	O	O
+hit	NN	O	O
+enter	NN	O	O
+
+good	NN	O	B-S
+timing	NN	O	O
+
+haha	NN	O	B-S
+yep	NN	O	O
+,	NN	O	O
+that	NN	O	B-S
+was	NN	O	O
+n't	NN	O	O
+on	NN	O	O
+purpose	NN	O	O
+
+just	NN	O	B-S
+your	NN	O	O
+lucky	NN	O	O
+day	NN	O	O
+
+anyone	NN	O	B-S
+got	NN	O	O
+clay	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+?	NN	O	O
+
+sorry	NN	O	B-S
+,	NN	O	O
+none	NN	O	B-S
+
+none	NN	O	B-S
+
+i	NN	O	B-S
+am	NN	O	O
+utterly	NN	O	O
+clayless	NN	O	O
+
+insane	NN	O	B-S
+
+how	NN	O	B-S
+about	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+again	NN	O	B-S
+nope	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+nope	NN	O	B-S
+
+guess	NN	O	B-S
+what	NN	O	O
+i	NN	O	O
+'d	NN	O	O
+trade	NN	O	O
+it	NN	O	O
+for	NN	O	O
+;)	NN	O	O
+
+clay	NN	O	B-S
+?	NN	O	O
+
+if	NN	O	B-S
+so	NN	O	O
+,	NN	O	O
+then	NN	O	O
+obviously	NN	O	O
+no	NN	O	O
+:D	NN	O	O
+
+just	NN	O	B-S
+so	NN	O	O
+
+silly	NN	O	B-S
+innit	NN	O	O
+
+sad	NN	O	B-S
+face	NN	O	O
+.	NN	O	O
+
+ho	NN	O	B-S
+hum	NN	O	O
+.	NN	O	O
+
+gg	NN	O	B-S
+all	NN	O	O
+
+whaaaaaaat	NN	O	B-S
+
+well	NN	O	B-S
+done	NN	O	O
+:)	NN	O	O
+
+how	NN	O	B-S
+many	NN	O	O
++1	NN	O	O
+did	NN	O	O
+you	NN	O	O
+have	NN	O	O
+inca	NN	O	O
+?	NN	O	O
+
+2	NN	O	B-S
+?	NN	O	O
+
+well	NN	O	B-S
+played	NN	O	O
+!	NN	O	O
+
+2	NN	O	B-S
+,	NN	O	O
+heh	NN	O	O
+
+ty	NN	O	B-S
+ty	NN	O	O
+
+yeah	NN	O	B-S
+thought	NN	O	O
+so	NN	O	O
+
+was	NN	O	B-S
+worried	NN	O	O
+you	NN	O	O
+'d	NN	O	O
+so	NN	O	O
+road	NN	O	O
++	NN	O	O
+army	NN	O	O
++	NN	O	O
+2VP	NN	O	O
+
+you	NN	O	B-S
+must	NN	O	O
+have	NN	O	O
+been	NN	O	O
+close	NN	O	O
+
+1	NN	O	B-S
+turn	NN	O	O
+or	NN	O	O
+2	NN	O	O
+more	NN	O	O
+
+was	NN	O	B-S
+the	NN	O	O
+plan	NN	O	O
+!	NN	O	O
+
+i	NN	O	B-S
+had	NN	O	O
+my	NN	O	O
+other	NN	O	O
+soldier	NN	O	O
+
+yup	NN	O	B-S
+
+i	NN	O	B-S
+saw	NN	O	O
+it	NN	O	O
+forming	NN	O	O
+when	NN	O	B-S
+you	NN	O	O
+went	NN	O	O
+on	NN	O	O
+the	NN	O	O
+card	NN	O	O
+spree	NN	O	O
+
+Right	NN	O	B-S
+,	NN	O	O
+I	NN	O	B-S
+have	NN	O	O
+to	NN	O	O
+head	NN	O	O
+off	NN	O	O
+,	NN	O	O
+but	NN	O	B-S
+well	NN	O	O
+done	NN	O	O
+all	NN	O	O
+:)	NN	O	O
+
+when	NN	O	B-S
+did	NN	O	O
+we	NN	O	O
+decide	NN	O	O
+on	NN	O	O
+for	NN	O	O
+the	NN	O	O
+next	NN	O	O
+game	NN	O	O
+?	NN	O	O
+
+saturday	NN	O	B-S
+?	NN	O	O
+
+cheers	NN	O	B-S
+,	NN	O	O
+see	NN	O	O
+you	NN	O	O
+later	NN	O	O
+matt	NN	O	O
+!	NN	O	O
+
+yep	NN	O	B-S
+saturday	NN	O	O
+'s	NN	O	O
+looking	NN	O	O
+promising	NN	O	O
+
+okay	NN	O	B-S
+cool	NN	O	O
+
+do	NN	O	B-S
+n't	NN	O	O
+think	NN	O	O
+it	NN	O	O
+'s	NN	O	O
+quite	NN	O	O
+been	NN	O	O
+finalised	NN	O	O
+yet	NN	O	O
+
+right	NN	O	B-S
+.	NN	O	O
+
+well	NN	O	B-S
+i	NN	O	O
+'ll	NN	O	O
+probably	NN	O	O
+see	NN	O	O
+you	NN	O	O
+then	NN	O	O
+!	NN	O	O
+
+saturday	NN	O	B-S
+evening	NN	O	O
+good	NN	O	O
+for	NN	O	O
+me	NN	O	O
+too	NN	O	O
+,	NN	O	O
+and	NN	O	B-S
+we	NN	O	O
+can	NN	O	O
+check	NN	O	O
+with	NN	O	O
+LJ	NN	O	O
+
+sound	NN	O	B-S
+good	NN	O	O
+:)	NN	O	O
+
+see	NN	O	B-S
+you	NN	O	O
+then	NN	O	O
+hopefully	NN	O	O
+!	NN	O	O
+
+well	NN	O	B-S
+played	NN	O	O
+inca	NN	O	O
+
+close	NN	O	B-S
+one	NN	O	O
+
+you	NN	O	B-S
+were	NN	O	O
+sly	NN	O	O
+;)	NN	O	O
+
+haha	NN	O	B-S
+,	NN	O	O
+well	NN	O	O
+played	NN	O	O
+yourself	NN	O	O
+
+ta	NN	O	B-S
+:D	NN	O	O
+
+crept	NN	O	B-S
+up	NN	O	O
+out	NN	O	O
+of	NN	O	O
+nowhere	NN	O	O
+
+i	NN	O	B-S
+'ll	NN	O	O
+get	NN	O	O
+you	NN	O	O
+next	NN	O	O
+time	NN	O	O
+;)	NN	O	O
+
+just	NN	O	B-S
+had	NN	O	O
+good	NN	O	O
+trading	NN	O	O
+ports	NN	O	O
+and	NN	O	O
+no	NN	O	O
+7s	NN	O	O
+when	NN	O	O
+it	NN	O	O
+mattered	NN	O	O
+
+haha	NN	O	B-S
+i	NN	O	O
+hope	NN	O	O
+so	NN	O	O
+;)	NN	O	O
+
+ok	NN	O	B-S
+well	NN	O	O
+,	NN	O	O
+see	NN	O	O
+you	NN	O	O
+saturday	NN	O	O
+is	NN	O	B-S
+matt	NN	O	O
+sits	NN	O	O
+that	NN	O	O
+one	NN	O	O
+out	NN	O	O
+:D	NN	O	O
+
+if*	NN	O	B-S
+
+i	NN	O	B-S
+'m	NN	O	O
+off	NN	O	O
+to	NN	O	O
+not	NN	O	O
+type	NN	O	O
+anything	NN	O	O
+>:(	NN	O	O
+
+haha	NN	O	B-S
+
+looking	NN	O	B-S
+forward	NN	O	O
+to	NN	O	O
+it	NN	O	O
+!	NN	O	O
+
+see	NN	O	B-S
+you	NN	O	O
+later	NN	O	O
+x	NN	O	O
+
+have	NN	O	B-S
+fun	NN	O	O
+reading	NN	O	O
+the	NN	O	O
+blog	NN	O	O
+:D	NN	O	O
+
+will	NN	O	B-S
+do	NN	O	O
+:)	NN	O	O
+cheers	NN	O	O
+for	NN	O	O
+that	NN	O	O
+
+no	NN	O	B-S
+worries	NN	O	O
+!	NN	O	O
+
+till	NN	O	B-S
+saturday	NN	O	O
+!	NN	O	O
+
+
+anyone	NN	O	B-S
+got	NN	O	O
+a	NN	O	O
+spare	NN	O	O
+wheat	NN	O	O
+or	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+'ve	NN	O	O
+got	NN	O	O
+spare	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+wheat	NN	O	O
+or	NN	O	O
+clay	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+some	NN	O	O
+wheat	NN	O	O
+
+nope	NN	O	B-S
+
+tyrant	NN	O	B-S
+,	NN	O	O
+I	NN	O	O
+can	NN	O	O
+give	NN	O	O
+you	NN	O	O
+either	NN	O	O
+clay	NN	O	O
+or	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+wheat	NN	O	O
+-	NN	O	O
+nelson	NN	O	B-S
+I	NN	O	O
+can	NN	O	O
+only	NN	O	O
+give	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+:)	NN	O	O
+
+Ah	NN	O	B-S
+,	NN	O	O
+then	NN	O	B-S
+no	NN	O	O
+thanks	NN	O	O
+:)	NN	O	O
+
+sheep	NN	O	B-S
+would	NN	O	O
+be	NN	O	O
+good	NN	O	O
+?	NN	O	O
+
+anyone	NN	O	B-S
+wanna	NN	O	O
+trade	NN	O	O
+some	NN	O	O
+of	NN	O	O
+their	NN	O	O
+clay/ore	NN	O	O
+for	NN	O	O
+some	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+No	NN	O	B-S
+can	NN	O	O
+do	NN	O	O
+
+sorry	NN	O	B-S
+
+I	NN	O	B-S
+have	NN	O	O
+no	NN	O	O
+wood	NN	O	O
+,	NN	O	O
+but	NN	O	B-S
+I	NN	O	O
+want	NN	O	O
+my	NN	O	O
+clay	NN	O	O
+and	NN	O	O
+ore	NN	O	O
+more	NN	O	O
+.	NN	O	O
+
+So	NN	O	B-S
+another	NN	O	O
+nope	NN	O	O
+.	NN	O	O
+
+fair	NN	O	B-S
+enough	NN	O	O
+
+anyone	NN	O	B-S
+want	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+either	NN	O	O
+wheat	NN	O	O
+or	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+nothing	NN	O	O
+
+no	NN	O	B-S
+sorry	NN	O	B-S
+
+nope	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	B-S
+
+I	NN	O	B-S
+should	NN	O	O
+have	NN	O	O
+offered	NN	O	O
+up	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+free	NN	O	O
+/hindsight	NN	O	B-S
+:)	NN	O	O
+
+my	NN	O	B-S
+wood	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+caly	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+anyone	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+,	NN	O	O
+sorry	NN	O	B-S
+
+sorry	NN	O	B-S
+
+can	NN	O	B-S
+do	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+ore	NN	O	O
+
+sounds	NN	O	B-S
+good	NN	O	O
+
+I	NN	O	B-S
+assume	NN	O	O
+no-one	NN	O	O
+will	NN	O	O
+give	NN	O	O
+me	NN	O	O
+clay	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+none	NN	O	B-S
+to	NN	O	O
+give	NN	O	O
+
+sorry	NN	O	B-S
+got	NN	O	B-S
+none	NN	O	O
+
+have	NN	O	B-S
+none	NN	O	O
+to	NN	O	O
+give	NN	O	O
+(	NN	O	B-S
+and	NN	O	O
+it	NN	O	O
+keeps	NN	O	O
+getting	NN	O	O
+robbed	NN	O	O
+)	NN	O	O
+
+i	NN	O	B-S
+could	NN	O	O
+swear	NN	O	O
+the	NN	O	O
+dice	NN	O	O
+probabilities	NN	O	O
+are	NN	O	O
+off	NN	O	O
+in	NN	O	O
+this	NN	O	O
+.	NN	O	O
+
+it	NN	O	B-S
+'s	NN	O	O
+a	NN	O	O
+ghastly	NN	O	O
+interface	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+for	NN	O	O
+my	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+nope	NN	O	B-S
+
+sorry	NN	O	B-S
+no	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+or	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+you	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+
+i	NN	O	B-S
+can	NN	O	O
+do	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+sheep	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+wheat	NN	O	O
+if	NN	O	B-S
+you	NN	O	O
+want	NN	O	O
+?	NN	O	O
+
+Kersti	NN	O	B-S
+was	NN	O	O
+first	NN	O	O
+:)	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+for	NN	O	O
+sheep	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+no	NN	O	B-S
+sorry	NN	O	B-S
+
+how	NN	O	B-S
+about	NN	O	O
+ore	NN	O	O
+for	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+yes	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+clay	NN	O	O
+?	NN	O	O
+
+no	NN	O	B-S
+
+i	NN	O	B-S
+do	NN	O	O
+n't	NN	O	O
+think	NN	O	O
+so	NN	O	O
+
+nope	NN	O	B-S
+
+anyone	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+or	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+i	NN	O	B-S
+have	NN	O	O
+ore	NN	O	O
+
+nope	NN	O	B-S
+neither	NN	O	O
+
+sparkles	NN	O	B-S
+would	NN	O	O
+you	NN	O	O
+like	NN	O	O
+sheep	NN	O	O
+or	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+...	NN	O	B-S
+no	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+I	NN	O	B-S
+have	NN	O	O
+wheat	NN	O	O
+or	NN	O	O
+sheep	NN	O	O
+and	NN	O	B-S
+would	NN	O	O
+like	NN	O	O
+some	NN	O	O
+wood	NN	O	O
+or	NN	O	O
+clay	NN	O	O
+
+no	NN	O	B-S
+can	NN	O	O
+do	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+
+i	NN	O	B-S
+have	NN	O	O
+pleny	NN	O	O
+wood	NN	O	O
+for	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+Thanks	NN	O	B-S
+:)	NN	O	O
+
+sorry	NN	O	B-S
+kersti	NN	O	O
+,	NN	O	O
+you	NN	O	B-S
+just	NN	O	O
+seem	NN	O	O
+to	NN	O	O
+be	NN	O	O
+well-positioned	NN	O	O
+
+anyone	NN	O	B-S
+give	NN	O	O
+me	NN	O	O
+a	NN	O	O
+clay	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+not	NN	O	B-S
+if	NN	O	O
+i	NN	O	O
+can	NN	O	O
+;	NN	O	O
+t	NN	O	O
+earn	NN	O	O
+anything	NN	O	O
+cos	NN	O	O
+of	NN	O	O
+robbers	NN	O	O
+I	NN	O	B-S
+'m	NN	O	O
+not	NN	O	O
+!	NN	O	O
+
+sorry	NN	O	B-S
+
+precisely	NN	O	B-S
+;)	NN	O	O
+
+none	NN	O	B-S
+sorry	NN	O	B-S
+
+anyone	NN	O	B-S
+need	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+have	NN	O	O
+a	NN	O	O
+large	NN	O	O
+quantity	NN	O	O
+of	NN	O	O
+them	NN	O	O
+and	NN	O	B-S
+could	NN	O	O
+do	NN	O	O
+with	NN	O	O
+wheat/wood	NN	O	O
+instead	NN	O	O
+
+no	NN	O	B-S
+sorry	NN	O	B-S
+
+it	NN	O	B-S
+'s	NN	O	O
+good	NN	O	O
+quality	NN	O	O
+wool	NN	O	O
+this	NN	O	O
+season	NN	O	O
+!	NN	O	O
+
+i	NN	O	B-S
+do	NN	O	O
+want	NN	O	O
+sheep	NN	O	O
+,	NN	O	O
+but	NN	O	B-S
+I	NN	O	O
+need	NN	O	O
+all	NN	O	O
+my	NN	O	O
+resources	NN	O	O
+.	NN	O	O
+
+I	NN	O	B-S
+might	NN	O	O
+want	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+after	NN	O	O
+I	NN	O	O
+roll	NN	O	O
+...	NN	O	O
+
+sorry	NN	O	B-S
+for	NN	O	O
+being	NN	O	O
+rubbish	NN	O	O
+!	NN	O	O
+
+LOL	NN	O	B-S
+!	NN	O	O
+
+That	NN	O	B-S
+'s	NN	O	O
+fine	NN	O	O
+:)	NN	O	O
+
+Anyone	NN	O	B-S
+want	NN	O	O
+to	NN	O	O
+trade	NN	O	O
+sheep/wheat	NN	O	O
+for	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+none	NN	O	B-S
+of	NN	O	O
+either	NN	O	O
+sorry	NN	O	B-S
+
+I	NN	O	B-S
+'ll	NN	O	O
+give	NN	O	O
+you	NN	O	O
+a	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+ore	NN	O	O
+
+if	NN	O	B-S
+anyone	NN	O	O
+wants	NN	O	O
+wood	NN	O	O
+,	NN	O	O
+I	NN	O	B-S
+will	NN	O	O
+trade	NN	O	O
+it	NN	O	O
+for	NN	O	O
+any	NN	O	O
+other	NN	O	O
+resource	NN	O	O
+:/	NN	O	O
+
+I	NN	O	B-S
+'ve	NN	O	O
+been	NN	O	O
+cleaned	NN	O	O
+out	NN	O	O
+again	NN	O	O
+!	NN	O	O
+
+i	NN	O	B-S
+have	NN	O	O
+spare	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+do	NN	O	B-S
+n't	NN	O	O
+need	NN	O	O
+the	NN	O	O
+wood	NN	O	O
+,	NN	O	O
+sorry	NN	O	B-S
+:)	NN	O	O
+
+fair	NN	O	B-S
+
+what	NN	O	B-S
+do	NN	O	O
+you	NN	O	O
+want	NN	O	O
+for	NN	O	O
+the	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+ca	NN	O	B-S
+n't	NN	O	O
+imagine	NN	O	O
+who	NN	O	O
+keeps	NN	O	O
+stealing	NN	O	O
+all	NN	O	O
+your	NN	O	O
+stuff	NN	O	O
+,	NN	O	O
+kersti	NN	O	O
+...	NN	O	O
+
+wood	NN	O	B-S
+?	NN	O	O
+
+ooh	NN	O	B-S
+
+I	NN	O	B-S
+'m	NN	O	O
+at	NN	O	O
+a	NN	O	O
+loss	NN	O	O
+I	NN	O	O
+tell	NN	O	O
+ya	NN	O	O
+!	NN	O	O
+
+wood	NN	O	B-S
+for	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+(	NN	O	B-S
+my	NN	O	O
+wood	NN	O	O
+,	NN	O	O
+obvs	NN	O	O
+)	NN	O	O
+
+none	NN	O	B-S
+
+sorry	NN	O	B-S
+
+anyone	NN	O	B-S
+got	NN	O	O
+an	NN	O	O
+ore	NN	O	O
+?	NN	O	O
+
+I	NN	O	B-S
+can	NN	O	O
+give	NN	O	O
+anything	NN	O	O
+except	NN	O	O
+clay	NN	O	O
+
+nope	NN	O	B-S
+
+ore	NN	O	B-S
+fro	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+thanks	NN	O	B-S
+:)	NN	O	O
+
+anyone	NN	O	B-S
+want	NN	O	O
+ore	NN	O	O
+for	NN	O	O
+their	NN	O	O
+wheat	NN	O	O
+?	NN	O	O
+
+sure	NN	O	B-S
+
+no	NN	O	B-S
+wheat	NN	O	O
+
+will	NN	O	B-S
+anyone	NN	O	O
+give	NN	O	O
+me	NN	O	O
+wheat	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+yep	NN	O	B-S
+
+nope	NN	O	B-S
+
+Sorry	NN	O	B-S
+,	NN	O	O
+wrong	NN	O	B-S
+player	NN	O	O
+
+anyone	NN	O	B-S
+have	NN	O	O
+clay	NN	O	O
+for	NN	O	O
+my	NN	O	O
+sheep	NN	O	O
+?	NN	O	O
+
+sorry	NN	O	B-S
+
+nope	NN	O	B-S
+
+sorry	NN	O	B-S
+
+anyone	NN	O	B-S
+give	NN	O	O
+me	NN	O	O
+sheep	NN	O	O
+for	NN	O	O
+wood	NN	O	O
+?	NN	O	O
+
+nope	NN	O	B-S
+
+yes	NN	O	B-S
+
+thanks	NN	O	B-S
+
+nicely	NN	O	B-S
+done	NN	O	O
+
+hehe	NN	O	B-S
+
+I	NN	O	B-S
+was	NN	O	O
+dreading	NN	O	O
+a	NN	O	O
+7	NN	O	O
+there	NN	O	O
+
+good	NN	O	B-S
+game	NN	O	O
+guys	NN	O	O
+:)	NN	O	O
+
+gg	NN	O	B-S
+
+see	NN	O	B-S
+you	NN	O	O
+next	NN	O	O
+time	NN	O	O

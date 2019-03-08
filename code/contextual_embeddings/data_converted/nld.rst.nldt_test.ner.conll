@@ -1,0 +1,4320 @@
+
+
+
+Geef	NN	O	B-S
+je	NN	O	O
+kindje	NN	O	O
+een	NN	O	O
+streepje	NN	O	O
+voor	NN	O	O
+met	NN	O	O
+NESTLÉ	NN	O	O
+PyjamaPapje®	NN	O	O
+.	NN	O	O
+
+
+
+Geen	NN	O	B-S
+suiker	NN	O	O
+toegevoegd	NN	O	O
+*	NN	O	O
+
+
+
+1	NN	O	B-S
+pakje	NN	O	O
+vervangt	NN	O	O
+1	NN	O	O
+fles	NN	O	O
+gewone	NN	O	O
+opvolgmelk	NN	O	O
+met	NN	O	O
+granen	NN	O	O
+
+
+
+NESTLÉ	NN	O	B-S
+PyjamaPapje®	NN	O	O
+.	NN	O	O
+
+
+
+Het	NN	O	B-S
+enige	NN	O	O
+flessenpapje	NN	O	O
+in	NN	O	O
+200	NN	O	O
+ml	NN	O	O
+zonder	NN	O	O
+toegevoegd	NN	O	O
+suiker	NN	O	O
+*	NN	O	O
+.	NN	O	O
+
+
+
+UNIEK	NN	O	B-S
+:	NN	O	O
+NESTLÉ	NN	O	B-S
+PyjamaPapje	NN	O	O
+,	NN	O	O
+het	NN	O	O
+kant-en-klare	NN	O	O
+Flessenpapje	NN	O	O
+voor	NN	O	O
+kindjes	NN	O	O
+vanaf	NN	O	O
+6	NN	O	O
+maanden	NN	O	O
+is	NN	O	O
+er	NN	O	O
+nu	NN	O	O
+ook	NN	O	O
+in	NN	O	O
+200	NN	O	O
+ml	NN	O	O
+en	NN	O	O
+zonder	NN	O	O
+toegevoegd	NN	O	O
+suiker	NN	O	O
+*	NN	O	O
+in	NN	O	O
+de	NN	O	O
+varianten	NN	O	O
+8	NN	O	O
+Granen	NN	O	O
+en	NN	O	O
+Tarwebiscuit	NN	O	O
+.	NN	O	O
+
+
+
+Alléén	NN	O	B-S
+NESTLÉ	NN	O	O
+PyjamaPapje	NN	O	O
+bevat	NN	O	O
+CHE	NN	O	O
+granen	NN	O	O
+,	NN	O	O
+die	NN	O	B-S
+door	NN	O	O
+hun	NN	O	O
+natuurlijke	NN	O	O
+zoetheid	NN	O	O
+de	NN	O	O
+pap	NN	O	O
+een	NN	O	O
+lekkere	NN	O	O
+smaak	NN	O	O
+geven	NN	O	O
+,	NN	O	O
+waardoor	NN	O	B-S
+geen	NN	O	O
+toegevoegd	NN	O	O
+suiker	NN	O	O
+nodig	NN	O	O
+is	NN	O	O
+.	NN	O	O
+
+
+
+Zo	NN	O	B-S
+blijft	NN	O	O
+NESTLÉ	NN	O	O
+PyjamaPapje®	NN	O	O
+het	NN	O	O
+lekkerste	NN	O	O
+`	NN	O	O
+lekker	NN	O	O
+slapen	NN	O	O
+'	NN	O	O
+papje	NN	O	O
+van	NN	O	O
+Nederland	NN	O	O
+.	NN	O	O
+
+
+
+Natuurlijk	NN	O	B-S
+blijven	NN	O	O
+de	NN	O	O
+vertrouwde	NN	O	O
+smaken	NN	O	O
+Banaan	NN	O	O
+,	NN	O	O
+Biscuit	NN	O	O
+en	NN	O	O
+Vanille	NN	O	O
+gewoon	NN	O	O
+bestaan	NN	O	O
+en	NN	O	B-S
+is	NN	O	O
+de	NN	O	O
+inhoud	NN	O	O
+niet	NN	O	O
+aangepast	NN	O	O
+,	NN	O	O
+zodat	NN	O	B-S
+jij	NN	O	O
+of	NN	O	O
+je	NN	O	O
+kleine	NN	O	O
+nu	NN	O	O
+zelf	NN	O	O
+kunnen	NN	O	O
+bepalen	NN	O	O
+wat	NN	O	O
+de	NN	O	O
+ideale	NN	O	O
+portie	NN	O	O
+voor	NN	O	O
+jullie	NN	O	O
+is	NN	O	O
+:	NN	O	O
+200	NN	O	O
+of	NN	O	O
+250	NN	O	O
+ml.	NN	O	O
+
+
+
+Gewoon	NN	O	B-S
+omdat	NN	O	O
+elk	NN	O	O
+kindje	NN	O	O
+verschillend	NN	O	O
+is	NN	O	O
+en	NN	O	B-S
+de	NN	O	O
+drinkbehoeften	NN	O	O
+variëren	NN	O	O
+met	NN	O	O
+de	NN	O	O
+leeftijd	NN	O	O
+.	NN	O	O
+
+
+
+Met	NN	O	B-S
+NESTLÉ	NN	O	O
+PyjamaPapje	NN	O	O
+"	NN	O	O
+kies	NN	O	O
+je	NN	O	O
+voor	NN	O	O
+een	NN	O	O
+betaalbare	NN	O	O
+,	NN	O	O
+verantwoorde	NN	O	O
+Flessenpap	NN	O	O
+,	NN	O	O
+die	NN	O	B-S
+zorgt	NN	O	O
+voor	NN	O	O
+een	NN	O	O
+lekker	NN	O	O
+verzadigd	NN	O	O
+gevoel	NN	O	O
+voor	NN	O	O
+het	NN	O	O
+slapen	NN	O	O
+gaan	NN	O	O
+of	NN	O	O
+voor	NN	O	O
+een	NN	O	O
+energieke	NN	O	O
+start	NN	O	O
+van	NN	O	O
+de	NN	O	O
+dag	NN	O	O
+.	NN	O	O
+
+
+
+Kijk	NN	O	B-S
+op	NN	O	O
+:	NN	O	O
+www.nestlebabyvoeding.nl	NN	O	O
+of	NN	O	B-S
+bel	NN	O	O
+gratis	NN	O	O
+0800-0230131	NN	O	O
+.	NN	O	O
+
+
+
+*	NN	O	B-S
+Bevat	NN	O	O
+van	NN	O	O
+nature	NN	O	O
+aanwezige	NN	O	O
+suikers	NN	O	O
+
+
+
+NESTLÉ	NN	O	B-S
+PyjamaPapje®	NN	O	O
+,	NN	O	O
+daar	NN	O	B-S
+lust	NN	O	O
+ik	NN	O	O
+wel	NN	O	O
+pap	NN	O	O
+van	NN	O	O
+!	NN	O	O
+
+
+
+
+Laat	NN	O	B-S
+nu	NN	O	O
+je	NN	O	O
+weerstand	NN	O	O
+testen	NN	O	O
+...	NN	O	O
+...	NN	O	B-S
+en	NN	O	O
+ontvang	NN	O	O
+gratis	NN	O	O
+een	NN	O	O
+Menzis	NN	O	O
+fitnesspas	NN	O	O
+
+
+
+De	NN	O	B-S
+winter	NN	O	O
+is	NN	O	O
+in	NN	O	O
+aantocht	NN	O	O
+.	NN	O	O
+
+
+
+En	NN	O	B-S
+dus	NN	O	O
+is	NN	O	O
+het	NN	O	O
+belangrijk	NN	O	O
+om	NN	O	O
+te	NN	O	O
+weten	NN	O	O
+hoe	NN	O	O
+uw	NN	O	O
+stand	NN	O	O
+ervoor	NN	O	O
+staat	NN	O	O
+.	NN	O	O
+
+
+
+Daarom	NN	O	B-S
+kunt	NN	O	O
+u	NN	O	O
+bij	NN	O	O
+DA	NN	O	O
+een	NN	O	O
+gratis	NN	O	O
+weerstandsmeting	NN	O	O
+laten	NN	O	O
+doen	NN	O	O
+.	NN	O	O
+
+
+
+Na	NN	O	B-S
+een	NN	O	O
+simpele	NN	O	O
+slaaptest	NN	O	O
+,	NN	O	O
+vermoeidheidtest	NN	O	O
+,	NN	O	O
+huidtest	NN	O	O
+en	NN	O	O
+een	NN	O	O
+vet-	NN	O	O
+,	NN	O	O
+bloeddruk-	NN	O	O
+en	NN	O	O
+huidmeting	NN	O	O
+weten	NN	O	O
+we	NN	O	O
+exact	NN	O	O
+hoe	NN	O	O
+het	NN	O	O
+met	NN	O	O
+uw	NN	O	O
+weerstand	NN	O	O
+gesteld	NN	O	O
+is	NN	O	O
+.	NN	O	O
+
+
+
+En	NN	O	B-S
+belangrijker	NN	O	O
+:	NN	O	O
+wat	NN	O	B-S
+u	NN	O	O
+eraan	NN	O	O
+kunt	NN	O	O
+doen	NN	O	O
+om	NN	O	B-S
+die	NN	O	O
+te	NN	O	O
+verbeteren	NN	O	O
+.	NN	O	O
+
+
+
+Want	NN	O	B-S
+voorkomen	NN	O	O
+is	NN	O	O
+nu	NN	O	O
+eenmaal	NN	O	O
+beter	NN	O	O
+dan	NN	O	O
+genezen	NN	O	O
+.	NN	O	O
+
+
+
+Na	NN	O	B-S
+uw	NN	O	O
+meting	NN	O	O
+ontvangt	NN	O	O
+u	NN	O	O
+een	NN	O	O
+gratis	NN	O	O
+Menzis	NN	O	O
+fitnesspas	NN	O	O
+.	NN	O	O
+
+
+
+Hiermee	NN	O	B-S
+mag	NN	O	O
+u	NN	O	O
+met	NN	O	O
+zijn	NN	O	O
+tweeën	NN	O	O
+tijdens	NN	O	O
+de	NN	O	O
+Menzis	NN	O	O
+Fitnessmaanden	NN	O	O
+4	NN	O	O
+dagen	NN	O	O
+lang	NN	O	O
+kennismaken	NN	O	O
+met	NN	O	O
+de	NN	O	O
+beste	NN	O	O
+fitnesscentra	NN	O	O
+van	NN	O	O
+Nederland	NN	O	O
+*	NN	O	O
+.	NN	O	O
+
+
+
+Bovendien	NN	O	B-S
+hebben	NN	O	O
+we	NN	O	O
+nog	NN	O	O
+meer	NN	O	O
+voordeel	NN	O	O
+voor	NN	O	O
+u	NN	O	O
+.	NN	O	O
+
+
+
+Knip	NN	O	B-S
+de	NN	O	O
+bon	NN	O	O
+uit	NN	O	O
+en	NN	O	B-S
+ontvang	NN	O	O
+5.00	NN	O	O
+korting	NN	O	O
+op	NN	O	O
+Bio-T	NN	O	O
+slank	NN	O	O
+bij	NN	O	O
+DA	NN	O	O
+Drogisterij	NN	O	O
+&amp;	NN	O	O
+Parfumerij	NN	O	O
+.	NN	O	O
+
+
+
+Kom	NN	O	B-S
+dus	NN	O	O
+snel	NN	O	O
+naar	NN	O	O
+de	NN	O	O
+winkel	NN	O	O
+en	NN	O	B-S
+profiteer	NN	O	O
+van	NN	O	O
+deze	NN	O	O
+aanbieding	NN	O	O
+.	NN	O	O
+
+
+
+*	NN	O	B-S
+Kijk	NN	O	O
+voor	NN	O	O
+meer	NN	O	O
+informatie	NN	O	O
+op	NN	O	O
+:	NN	O	O
+www.da.nl	NN	O	O
+of	NN	O	O
+www.menzis.nl/klantenacties	NN	O	O
+
+
+
+Vraag	NN	O	B-S
+naar	NN	O	O
+de	NN	O	O
+voorwaarden	NN	O	O
+in	NN	O	O
+de	NN	O	O
+winkel	NN	O	O
+.	NN	O	O
+
+
+
+5.00	NN	O	B-S
+korting	NN	O	O
+
+
+
+BIO-T	NN	O	B-S
+SLANK	NN	O	O
+
+
+
+Slank	NN	O	B-S
+in	NN	O	O
+3	NN	O	O
+stappen	NN	O	O
+
+
+
+Van	NN	O	B-S
+24.95	NN	O	O
+voor	NN	O	O
+19.95	NN	O	O
+
+
+
+Geldig	NN	O	B-S
+van	NN	O	O
+2	NN	O	O
+oktober	NN	O	O
+t/m	NN	O	O
+1	NN	O	O
+november	NN	O	O
+2009	NN	O	O
+.	NN	O	O
+
+
+
+Kijk	NN	O	B-S
+op	NN	O	O
+www.da.nl	NN	O	O
+voor	NN	O	O
+de	NN	O	O
+verkooppunten	NN	O	O
+.	NN	O	O
+
+
+
+
+STOF	NN	O	B-S
+VOOR	NN	O	O
+DE	NN	O	O
+STAF	NN	O	O
+
+
+
+NRC	NN	O	B-S
+Focus	NN	O	O
+is	NN	O	O
+het	NN	O	O
+kwartaalblad	NN	O	O
+voor	NN	O	O
+beslissers	NN	O	O
+en	NN	O	O
+bestuurders	NN	O	O
+van	NN	O	O
+Nederland	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+het	NN	O	O
+juninummer	NN	O	O
+;	NN	O	O
+een	NN	O	O
+cover	NN	O	O
+interview	NN	O	O
+met	NN	O	O
+leading	NN	O	O
+lady	NN	O	O
+Caroline	NN	O	O
+Princen	NN	O	O
+,	NN	O	O
+de	NN	O	O
+eerste	NN	O	O
+vrouw	NN	O	O
+in	NN	O	O
+de	NN	O	O
+raad	NN	O	O
+van	NN	O	O
+bestuur	NN	O	O
+van	NN	O	O
+ABN	NN	O	O
+AMRO	NN	O	O
+.	NN	O	O
+
+
+
+Alles	NN	O	B-S
+over	NN	O	O
+haar	NN	O	O
+nieuwe	NN	O	O
+functie	NN	O	O
+en	NN	O	O
+haar	NN	O	O
+beweegredenen	NN	O	O
+.	NN	O	O
+
+
+
+Daarnaast	NN	O	B-S
+portretteert	NN	O	O
+NRC	NN	O	O
+Focus	NN	O	O
+vijftig	NN	O	O
+vrouwen	NN	O	O
+op	NN	O	O
+weg	NN	O	O
+naar	NN	O	O
+de	NN	O	O
+top	NN	O	O
+,	NN	O	O
+wie	NN	O	B-S
+zijn	NN	O	O
+ze	NN	O	O
+en	NN	O	B-S
+wat	NN	O	O
+zijn	NN	O	O
+hun	NN	O	O
+drijfveren	NN	O	O
+?	NN	O	O
+
+
+
+Wat	NN	O	B-S
+hebben	NN	O	O
+zij	NN	O	O
+gedaan	NN	O	O
+om	NN	O	B-S
+naar	NN	O	O
+de	NN	O	O
+top	NN	O	O
+te	NN	O	O
+komen	NN	O	O
+en	NN	O	B-S
+daar	NN	O	O
+te	NN	O	O
+blijven	NN	O	O
+?	NN	O	O
+
+
+
+Aansluitend	NN	O	B-S
+een	NN	O	O
+verhaal	NN	O	O
+over	NN	O	O
+best	NN	O	O
+practices	NN	O	O
+:	NN	O	O
+welke	NN	O	B-S
+maatregelen	NN	O	O
+om	NN	O	O
+vrouwen	NN	O	O
+te	NN	O	O
+laten	NN	O	O
+doorstromen	NN	O	O
+naar	NN	O	O
+hogere	NN	O	O
+posities	NN	O	O
+in	NN	O	O
+een	NN	O	O
+bedrijf	NN	O	O
+werken	NN	O	O
+,	NN	O	O
+welke	NN	O	B-S
+niet	NN	O	O
+?	NN	O	O
+
+
+
+Dit	NN	O	B-S
+alles	NN	O	O
+op	NN	O	O
+basis	NN	O	O
+van	NN	O	O
+onderzoek	NN	O	O
+en	NN	O	O
+voorbeeldcases	NN	O	O
+.	NN	O	O
+
+
+
+Maar	NN	O	B-S
+ook	NN	O	O
+een	NN	O	O
+essay	NN	O	O
+over	NN	O	O
+hoe	NN	O	O
+de	NN	O	O
+kredietcrisis	NN	O	O
+de	NN	O	O
+financiering	NN	O	O
+van	NN	O	O
+bedrijven	NN	O	O
+verandert	NN	O	O
+,	NN	O	O
+op	NN	O	O
+basis	NN	O	O
+van	NN	O	O
+recent	NN	O	O
+economisch	NN	O	O
+onderzoek	NN	O	O
+.	NN	O	O
+
+
+
+Welke	NN	O	B-S
+ondernemingen	NN	O	O
+bloeien	NN	O	O
+op	NN	O	O
+tijdens	NN	O	O
+de	NN	O	O
+crisis	NN	O	O
+?	NN	O	O
+
+
+
+En	NN	O	B-S
+natuurlijk	NN	O	O
+de	NN	O	O
+vaste	NN	O	O
+rubrieken	NN	O	O
+:	NN	O	O
+Lab	NN	O	O
+,	NN	O	O
+Lessons	NN	O	O
+Learned	NN	O	O
+,	NN	O	O
+Global	NN	O	O
+Talent	NN	O	O
+,	NN	O	O
+De	NN	O	O
+partner	NN	O	O
+van	NN	O	O
+en	NN	O	O
+Questionnaire	NN	O	O
+.	NN	O	O
+
+
+
+En	NN	O	B-S
+de	NN	O	O
+vaste	NN	O	O
+columns	NN	O	O
+van	NN	O	O
+:	NN	O	O
+Dick	NN	O	O
+Berlijn	NN	O	O
+,	NN	O	O
+Pauline	NN	O	O
+van	NN	O	O
+der	NN	O	O
+Meer	NN	O	O
+Mohr	NN	O	O
+en	NN	O	O
+Philip	NN	O	O
+Hennemann	NN	O	O
+.	NN	O	O
+
+
+
+Voor	NN	O	B-S
+€	NN	O	O
+34,95	NN	O	O
+per	NN	O	O
+jaar	NN	O	O
+is	NN	O	O
+NRC	NN	O	O
+Focus	NN	O	O
+uw	NN	O	O
+raadgever	NN	O	O
+binnen	NN	O	O
+de	NN	O	O
+bestuurskamer	NN	O	O
+,	NN	O	O
+neem	NN	O	B-S
+een	NN	O	O
+abonnement	NN	O	O
+via	NN	O	O
+www.nrcfocus.nl/abonneren	NN	O	O
+of	NN	O	B-S
+bel	NN	O	O
++31-	NN	O	O
+(	NN	O	O
+0)88	NN	O	O
+-	NN	O	O
+572	NN	O	O
+0	NN	O	O
+572	NN	O	O
+.	NN	O	O
+
+
+
+KWARTAALBLAD	NN	O	B-S
+OVER	NN	O	O
+ECONOMIE	NN	O	O
+,	NN	O	O
+STRATEGIE	NN	O	O
+EN	NN	O	O
+LEIDERSCHAP	NN	O	O
+.	NN	O	O
+
+
+
+Neem	NN	O	B-S
+nu	NN	O	O
+een	NN	O	O
+jaarabbonnement	NN	O	O
+en	NN	O	B-S
+ontvang	NN	O	O
+als	NN	O	O
+NRC	NN	O	O
+abonnee	NN	O	O
+€	NN	O	O
+5	NN	O	O
+korting	NN	O	O
+.	NN	O	O
+
+
+
+www.nrcfocus/abonneren	NN	O	B-S
+
+
+
+NRC	NN	O	B-S
+Focus	NN	O	O
+is	NN	O	O
+een	NN	O	O
+uitgave	NN	O	O
+van	NN	O	O
+NRC	NN	O	O
+Handelsblad	NN	O	O
+B.V.	NN	O	O
+
+
+
+NRC	NN	O	B-S
+Handelsblad	NN	O	O
+is	NN	O	O
+een	NN	O	O
+bedrijfsonderdeel	NN	O	O
+van	NN	O	O
+PCM	NN	O	O
+Uitgevers	NN	O	O
+B.V.	NN	O	O
+
+
+
+
+Orionnevel	NN	O	B-S
+
+
+
+Het	NN	O	B-S
+sterrenbeeld	NN	O	O
+Orion	NN	O	O
+is	NN	O	O
+heel	NN	O	O
+gemakkelijk	NN	O	O
+te	NN	O	O
+herkennen	NN	O	O
+,	NN	O	O
+het	NN	O	B-S
+heeft	NN	O	O
+een	NN	O	O
+de	NN	O	O
+vorm	NN	O	O
+van	NN	O	O
+een	NN	O	O
+reusachtige	NN	O	O
+zandloper	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+de	NN	O	O
+maanden	NN	O	O
+december	NN	O	O
+en	NN	O	O
+januari	NN	O	O
+staat	NN	O	O
+Orion	NN	O	O
+rond	NN	O	O
+een	NN	O	O
+uur	NN	O	O
+of	NN	O	O
+tien	NN	O	O
+pal	NN	O	O
+in	NN	O	O
+het	NN	O	O
+zuiden	NN	O	O
+.	NN	O	O
+
+
+
+Onder	NN	O	B-S
+Orion	NN	O	O
+bevindt	NN	O	O
+zich	NN	O	O
+het	NN	O	O
+sterrenbeeld	NN	O	O
+Grote	NN	O	O
+Hond	NN	O	O
+met	NN	O	O
+daarin	NN	O	O
+de	NN	O	O
+helderste	NN	O	O
+ster	NN	O	O
+van	NN	O	O
+de	NN	O	O
+noordelijke	NN	O	O
+sterrenhemel	NN	O	O
+,	NN	O	O
+Sirius	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+uiteinden	NN	O	O
+van	NN	O	O
+de	NN	O	O
+zandloper	NN	O	O
+worden	NN	O	O
+gemarkeerd	NN	O	O
+door	NN	O	O
+de	NN	O	O
+sterren	NN	O	O
+Betelgeuze	NN	O	O
+en	NN	O	O
+Bellatrix	NN	O	O
+aan	NN	O	O
+de	NN	O	O
+bovenkant	NN	O	O
+en	NN	O	O
+Rigel	NN	O	O
+en	NN	O	O
+Saiph	NN	O	O
+aan	NN	O	O
+de	NN	O	O
+onderkant	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+sterren	NN	O	O
+Alnitak	NN	O	O
+,	NN	O	O
+Alnilam	NN	O	O
+en	NN	O	O
+Mintaka	NN	O	O
+vormen	NN	O	O
+het	NN	O	O
+midden	NN	O	O
+van	NN	O	O
+de	NN	O	O
+zandloper	NN	O	O
+ofwel	NN	O	O
+de	NN	O	O
+gordel	NN	O	O
+van	NN	O	O
+Orion	NN	O	O
+.	NN	O	O
+
+
+
+Deze	NN	O	B-S
+sterren	NN	O	O
+vormen	NN	O	O
+het	NN	O	O
+uitgangspunt	NN	O	O
+om	NN	O	O
+de	NN	O	O
+Orionnevel	NN	O	O
+te	NN	O	O
+vinden	NN	O	O
+.	NN	O	O
+
+
+
+Vanuit	NN	O	B-S
+de	NN	O	O
+middelste	NN	O	O
+gordelster	NN	O	O
+,	NN	O	O
+Alnilam	NN	O	O
+,	NN	O	O
+gaan	NN	O	O
+we	NN	O	O
+in	NN	O	O
+een	NN	O	O
+rechte	NN	O	O
+lijn	NN	O	O
+naar	NN	O	O
+beneden	NN	O	O
+tot	NN	O	B-S
+we	NN	O	O
+een	NN	O	O
+drietal	NN	O	O
+sterren	NN	O	O
+tegenkomen	NN	O	O
+:	NN	O	O
+het	NN	O	O
+zwaard	NN	O	O
+van	NN	O	O
+Orion	NN	O	O
+.	NN	O	O
+
+
+
+Bij	NN	O	B-S
+de	NN	O	O
+middelste	NN	O	O
+van	NN	O	O
+deze	NN	O	O
+sterren	NN	O	O
+vinden	NN	O	O
+we	NN	O	O
+de	NN	O	O
+Orionnevel	NN	O	O
+.	NN	O	O
+
+
+
+Wanneer	NN	O	B-S
+we	NN	O	O
+niet	NN	O	O
+gehinderd	NN	O	O
+worden	NN	O	O
+door	NN	O	O
+storende	NN	O	O
+verlichting	NN	O	O
+zoals	NN	O	O
+de	NN	O	O
+Maan	NN	O	O
+of	NN	O	O
+straatverlichting	NN	O	O
+kunnen	NN	O	B-S
+we	NN	O	O
+de	NN	O	O
+nevel	NN	O	O
+met	NN	O	O
+het	NN	O	O
+blote	NN	O	O
+oog	NN	O	O
+onderscheiden	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+een	NN	O	O
+verrekijker	NN	O	O
+zien	NN	O	O
+we	NN	O	O
+de	NN	O	O
+nevel	NN	O	O
+als	NN	O	O
+een	NN	O	O
+wazige	NN	O	O
+wolk	NN	O	O
+rond	NN	O	O
+een	NN	O	O
+aantal	NN	O	O
+wat	NN	O	O
+helderdere	NN	O	O
+sterren	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+een	NN	O	O
+kleine	NN	O	O
+telescoop	NN	O	O
+wordt	NN	O	O
+de	NN	O	O
+lichtgroene	NN	O	O
+kleur	NN	O	O
+van	NN	O	O
+de	NN	O	O
+nevel	NN	O	O
+zichtbaar	NN	O	O
+.	NN	O	O
+
+
+
+Door	NN	O	B-S
+een	NN	O	O
+telescoop	NN	O	O
+zien	NN	O	O
+we	NN	O	O
+nevel	NN	O	O
+in	NN	O	O
+al	NN	O	O
+haar	NN	O	O
+pracht	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+de	NN	O	O
+grillige	NN	O	O
+vorm	NN	O	O
+zijn	NN	O	O
+duidelijk	NN	O	O
+lichte	NN	O	O
+en	NN	O	O
+donkere	NN	O	O
+gebieden	NN	O	O
+te	NN	O	O
+onderscheiden	NN	O	O
+evenals	NN	O	O
+ijle	NN	O	O
+sliertvormige	NN	O	O
+uitlopers	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+deze	NN	O	O
+nevel	NN	O	O
+op	NN	O	O
+een	NN	O	O
+afstand	NN	O	O
+van	NN	O	O
+ruim	NN	O	O
+1500	NN	O	O
+lichtjaar	NN	O	O
+is	NN	O	O
+het	NN	O	O
+geboorteproces	NN	O	O
+van	NN	O	O
+sterren	NN	O	O
+in	NN	O	O
+volle	NN	O	O
+gang	NN	O	O
+.	NN	O	O
+
+
+
+Het	NN	O	B-S
+is	NN	O	O
+een	NN	O	O
+kraamkamer	NN	O	O
+van	NN	O	O
+het	NN	O	O
+heelal	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+Nederlander	NN	O	O
+Huygens	NN	O	O
+ontdekte	NN	O	O
+in	NN	O	O
+de	NN	O	O
+17de	NN	O	O
+eeuw	NN	O	O
+als	NN	O	O
+eerste	NN	O	O
+in	NN	O	O
+het	NN	O	O
+centrum	NN	O	O
+van	NN	O	O
+de	NN	O	O
+nevel	NN	O	O
+een	NN	O	O
+drietal	NN	O	O
+sterren	NN	O	O
+.	NN	O	O
+
+
+
+We	NN	O	B-S
+weten	NN	O	O
+nu	NN	O	O
+dat	NN	O	O
+deze	NN	O	O
+sterren	NN	O	O
+inderdaad	NN	O	O
+,	NN	O	O
+kosmisch	NN	O	B-S
+gezien	NN	O	O
+,	NN	O	O
+pas	NN	O	B-S
+'	NN	O	O
+geboren	NN	O	O
+'	NN	O	O
+zijn	NN	O	O
+.	NN	O	O
+
+
+
+Later	NN	O	B-S
+zijn	NN	O	O
+nog	NN	O	O
+drie	NN	O	O
+sterren	NN	O	O
+in	NN	O	O
+de	NN	O	O
+nevel	NN	O	O
+ontdekt	NN	O	O
+.	NN	O	O
+
+
+
+Ze	NN	O	B-S
+vormen	NN	O	O
+gezamenlijk	NN	O	O
+het	NN	O	O
+bekende	NN	O	O
+trapezium	NN	O	O
+in	NN	O	O
+de	NN	O	O
+nevel	NN	O	O
+.	NN	O	O
+
+
+
+Vier	NN	O	B-S
+van	NN	O	O
+deze	NN	O	O
+sterren	NN	O	O
+zijn	NN	O	O
+al	NN	O	O
+met	NN	O	O
+een	NN	O	O
+60	NN	O	O
+mm	NN	O	O
+kijker	NN	O	O
+te	NN	O	O
+zien	NN	O	O
+.	NN	O	O
+
+
+
+Voor	NN	O	B-S
+de	NN	O	O
+andere	NN	O	O
+twee	NN	O	O
+is	NN	O	O
+een	NN	O	O
+groter	NN	O	O
+instrument	NN	O	O
+nodig	NN	O	O
+.	NN	O	O
+
+
+
+
+Quasar	NN	O	B-S
+
+
+
+Een	NN	O	B-S
+quasar	NN	O	O
+(	NN	O	O
+Engelse	NN	O	O
+afkorting	NN	O	O
+voor	NN	O	O
+quasi-stellar	NN	O	O
+radio	NN	O	O
+source	NN	O	O
+)	NN	O	O
+,	NN	O	O
+is	NN	O	O
+een	NN	O	O
+astronomisch	NN	O	O
+object	NN	O	O
+,	NN	O	O
+dat	NN	O	O
+in	NN	O	O
+optische	NN	O	O
+telescopen	NN	O	O
+op	NN	O	O
+een	NN	O	O
+ster	NN	O	O
+lijkt	NN	O	O
+(	NN	O	B-S
+dat	NN	O	O
+wil	NN	O	O
+zeggen	NN	O	O
+een	NN	O	O
+puntbron	NN	O	O
+is	NN	O	O
+)	NN	O	O
+,	NN	O	O
+maar	NN	O	B-S
+door	NN	O	O
+zijn	NN	O	O
+grote	NN	O	O
+afstand	NN	O	O
+van	NN	O	O
+miljarden	NN	O	O
+lichtjaren	NN	O	O
+een	NN	O	O
+zeer	NN	O	O
+hoge	NN	O	O
+roodverschuiving	NN	O	O
+heeft	NN	O	O
+.	NN	O	O
+
+
+
+Vanwege	NN	O	B-S
+deze	NN	O	O
+afstand	NN	O	O
+zien	NN	O	O
+wij	NN	O	O
+quasars	NN	O	O
+zoals	NN	O	B-S
+ze	NN	O	O
+er	NN	O	O
+miljarden	NN	O	O
+jaren	NN	O	O
+geleden	NN	O	O
+,	NN	O	O
+toen	NN	O	B-S
+het	NN	O	O
+heelal	NN	O	O
+nog	NN	O	O
+jonger	NN	O	O
+was	NN	O	O
+,	NN	O	O
+uitzagen	NN	O	B-S
+.	NN	O	O
+
+
+
+Ondanks	NN	O	B-S
+deze	NN	O	O
+afstanden	NN	O	O
+,	NN	O	O
+is	NN	O	O
+de	NN	O	O
+straling	NN	O	O
+van	NN	O	O
+quasars	NN	O	O
+goed	NN	O	O
+waarneembaar	NN	O	O
+,	NN	O	O
+waardoor	NN	O	B-S
+ze	NN	O	O
+de	NN	O	O
+grootste	NN	O	O
+absolute	NN	O	O
+helderheid	NN	O	O
+in	NN	O	O
+het	NN	O	O
+universum	NN	O	O
+hebben	NN	O	O
+.	NN	O	O
+
+
+
+Quasars	NN	O	B-S
+stralen	NN	O	O
+een	NN	O	O
+hoeveelheid	NN	O	O
+energie	NN	O	O
+uit	NN	O	O
+die	NN	O	O
+vergelijkbaar	NN	O	O
+is	NN	O	O
+met	NN	O	O
+1000	NN	O	O
+of	NN	O	O
+meer	NN	O	O
+melkwegstelsels	NN	O	O
+,	NN	O	O
+terwijl	NN	O	B-S
+de	NN	O	O
+omvang	NN	O	O
+van	NN	O	O
+een	NN	O	O
+quasar	NN	O	O
+slechts	NN	O	O
+een	NN	O	O
+miljoenste	NN	O	O
+deel	NN	O	O
+van	NN	O	O
+een	NN	O	O
+melkwegstelsel	NN	O	O
+is	NN	O	O
+.	NN	O	O
+
+
+
+Slechts	NN	O	B-S
+kortdurende	NN	O	O
+fenomenen	NN	O	O
+als	NN	O	O
+gammaflitsen	NN	O	O
+en	NN	O	O
+supernova's	NN	O	O
+zijn	NN	O	O
+soms	NN	O	O
+nog	NN	O	O
+helderder	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+is	NN	O	O
+des	NN	O	O
+te	NN	O	O
+opvallender	NN	O	O
+omdat	NN	O	B-S
+snelle	NN	O	O
+helderheidsvariaties	NN	O	O
+in	NN	O	O
+zeer	NN	O	O
+korte	NN	O	O
+tijd	NN	O	O
+plaatsvinden	NN	O	O
+(	NN	O	B-S
+een	NN	O	O
+object	NN	O	O
+kan	NN	O	O
+niet	NN	O	O
+sneller	NN	O	O
+veranderen	NN	O	O
+dan	NN	O	O
+de	NN	O	O
+tijd	NN	O	O
+die	NN	O	O
+het	NN	O	O
+licht	NN	O	O
+erover	NN	O	O
+doet	NN	O	O
+om	NN	O	O
+zich	NN	O	O
+over	NN	O	O
+een	NN	O	O
+afstand	NN	O	O
+gelijk	NN	O	O
+aan	NN	O	O
+de	NN	O	O
+grootte	NN	O	O
+van	NN	O	O
+het	NN	O	O
+object	NN	O	O
+te	NN	O	O
+verplaatsen	NN	O	O
+)	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+eerste	NN	O	O
+quasars	NN	O	O
+werden	NN	O	O
+ontdekt	NN	O	O
+als	NN	O	O
+sterke	NN	O	O
+radiobronnen	NN	O	O
+in	NN	O	O
+de	NN	O	O
+jaren	NN	O	O
+'50	NN	O	O
+.	NN	O	O
+
+
+
+Het	NN	O	B-S
+eerste	NN	O	O
+spectrum	NN	O	O
+van	NN	O	O
+een	NN	O	O
+quasar	NN	O	O
+,	NN	O	O
+dat	NN	O	B-S
+hun	NN	O	O
+grote	NN	O	O
+afstand	NN	O	O
+verraadde	NN	O	O
+,	NN	O	O
+werd	NN	O	B-S
+in	NN	O	O
+1963	NN	O	O
+verkregen	NN	O	O
+,	NN	O	O
+door	NN	O	O
+Maarten	NN	O	O
+Schmidt	NN	O	O
+,	NN	O	O
+een	NN	O	O
+Amerikaanse	NN	O	O
+astronoom	NN	O	O
+van	NN	O	O
+Nederlandse	NN	O	O
+afkomst	NN	O	O
+.	NN	O	O
+
+
+
+Achteraf	NN	O	B-S
+blijken	NN	O	O
+ze	NN	O	O
+al	NN	O	O
+op	NN	O	O
+fotografische	NN	O	O
+platen	NN	O	O
+uit	NN	O	O
+de	NN	O	O
+19e	NN	O	O
+eeuw	NN	O	O
+te	NN	O	O
+staan	NN	O	O
+,	NN	O	O
+echter	NN	O	B-S
+zonder	NN	O	O
+als	NN	O	O
+bijzonder	NN	O	O
+object	NN	O	O
+herkend	NN	O	O
+te	NN	O	O
+zijn	NN	O	O
+.	NN	O	O
+
+
+
+Een	NN	O	B-S
+tweede	NN	O	O
+,	NN	O	O
+kleinere	NN	O	O
+groep	NN	O	O
+objecten	NN	O	O
+,	NN	O	O
+die	NN	O	B-S
+sterk	NN	O	O
+met	NN	O	O
+quasars	NN	O	O
+verwant	NN	O	O
+zijn	NN	O	O
+,	NN	O	O
+zijn	NN	O	O
+QSO's	NN	O	O
+(	NN	O	O
+quasi-stellar	NN	O	O
+object	NN	O	O
+)	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+zichtbaar	NN	O	O
+licht	NN	O	O
+zijn	NN	O	O
+ze	NN	O	O
+vergelijkbaar	NN	O	O
+,	NN	O	O
+maar	NN	O	B-S
+QSO's	NN	O	O
+zenden	NN	O	O
+geen	NN	O	O
+ongewoon	NN	O	O
+hoge	NN	O	O
+hoeveelheid	NN	O	O
+radiostraling	NN	O	O
+uit	NN	O	O
+.	NN	O	O
+
+
+
+Deze	NN	O	B-S
+objecten	NN	O	O
+heten	NN	O	O
+daarom	NN	O	O
+ook	NN	O	O
+wel	NN	O	O
+'	NN	O	O
+radiostille	NN	O	O
+quasars	NN	O	O
+'	NN	O	O
+.	NN	O	O
+
+
+
+Men	NN	O	B-S
+gaat	NN	O	O
+ervan	NN	O	O
+uit	NN	O	O
+dat	NN	O	O
+het	NN	O	O
+centrum	NN	O	O
+van	NN	O	O
+een	NN	O	O
+quasar	NN	O	O
+gevormd	NN	O	O
+wordt	NN	O	O
+door	NN	O	O
+een	NN	O	O
+superzwaar	NN	O	O
+zwart	NN	O	O
+gat	NN	O	O
+,	NN	O	O
+gelegen	NN	O	B-S
+in	NN	O	O
+het	NN	O	O
+centrum	NN	O	O
+van	NN	O	O
+een	NN	O	O
+actief	NN	O	O
+sterrenstelsel	NN	O	O
+,	NN	O	O
+dat	NN	O	B-S
+materie	NN	O	O
+uit	NN	O	O
+zijn	NN	O	O
+omgeving	NN	O	O
+aantrekt	NN	O	O
+.	NN	O	O
+
+
+
+Rond	NN	O	B-S
+het	NN	O	O
+zwarte	NN	O	O
+gat	NN	O	O
+vormt	NN	O	O
+zich	NN	O	O
+een	NN	O	O
+accretieschijf	NN	O	O
+,	NN	O	O
+een	NN	O	O
+afgeplatte	NN	O	O
+,	NN	O	O
+draaiende	NN	O	O
+schijf	NN	O	O
+van	NN	O	O
+materie	NN	O	O
+,	NN	O	O
+waarin	NN	O	B-S
+door	NN	O	O
+botsingen	NN	O	O
+de	NN	O	O
+materie	NN	O	O
+voortdurend	NN	O	O
+wordt	NN	O	O
+afgeremd	NN	O	O
+.	NN	O	O
+
+
+
+Hierdoor	NN	O	B-S
+komt	NN	O	O
+het	NN	O	O
+steeds	NN	O	O
+dichter	NN	O	O
+bij	NN	O	O
+het	NN	O	O
+gat	NN	O	O
+,	NN	O	O
+totdat	NN	O	B-S
+het	NN	O	O
+er	NN	O	O
+uiteindelijk	NN	O	O
+invalt	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+materie	NN	O	O
+die	NN	O	O
+in	NN	O	O
+het	NN	O	O
+gat	NN	O	O
+valt	NN	O	O
+,	NN	O	O
+zendt	NN	O	O
+hierbij	NN	O	O
+grote	NN	O	O
+hoeveelheden	NN	O	O
+straling	NN	O	O
+uit	NN	O	O
+.	NN	O	O
+
+
+
+Loodrecht	NN	O	B-S
+op	NN	O	O
+het	NN	O	O
+vlak	NN	O	O
+van	NN	O	O
+de	NN	O	O
+schijf	NN	O	O
+,	NN	O	O
+wordt	NN	O	O
+materie	NN	O	O
+met	NN	O	O
+grote	NN	O	O
+snelheid	NN	O	O
+het	NN	O	O
+heelal	NN	O	O
+in	NN	O	O
+geschoten	NN	O	O
+,	NN	O	O
+en	NN	O	B-S
+vormt	NN	O	O
+daardoor	NN	O	O
+twee	NN	O	O
+zogenaamde	NN	O	O
+'	NN	O	O
+jets	NN	O	O
+'	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+reden	NN	O	O
+dat	NN	O	O
+quasars	NN	O	O
+veel	NN	O	O
+voorkomen	NN	O	O
+in	NN	O	O
+het	NN	O	O
+vroege	NN	O	O
+heelal	NN	O	O
+,	NN	O	O
+en	NN	O	O
+op	NN	O	O
+nabijere	NN	O	O
+afstanden	NN	O	O
+zeldzaam	NN	O	O
+of	NN	O	O
+afwezig	NN	O	O
+zijn	NN	O	O
+,	NN	O	O
+is	NN	O	O
+waarschijnlijk	NN	O	O
+dat	NN	O	O
+na	NN	O	O
+verloop	NN	O	O
+van	NN	O	O
+tijd	NN	O	O
+het	NN	O	O
+gas	NN	O	O
+uit	NN	O	O
+de	NN	O	O
+directe	NN	O	O
+omgeving	NN	O	O
+van	NN	O	O
+het	NN	O	O
+zwarte	NN	O	O
+gat	NN	O	O
+is	NN	O	O
+verdwenen	NN	O	O
+,	NN	O	O
+de	NN	O	B-S
+'	NN	O	O
+brandstof	NN	O	O
+'	NN	O	O
+van	NN	O	O
+het	NN	O	O
+zwarte	NN	O	O
+gat	NN	O	O
+is	NN	O	O
+op	NN	O	O
+.	NN	O	O
+
+
+
+
+Meteoren	NN	O	B-S
+
+
+
+Behalve	NN	O	B-S
+planeten	NN	O	O
+en	NN	O	O
+planetoïden	NN	O	O
+bevinden	NN	O	O
+zich	NN	O	O
+in	NN	O	O
+het	NN	O	O
+zonnestelsel	NN	O	O
+gigantische	NN	O	O
+hoeveelheden	NN	O	O
+brokjes	NN	O	O
+kosmisch	NN	O	O
+gruis	NN	O	O
+(	NN	O	O
+meteoroïden	NN	O	O
+)	NN	O	O
+,	NN	O	O
+die	NN	O	B-S
+tijdens	NN	O	O
+hun	NN	O	O
+baan	NN	O	O
+om	NN	O	O
+de	NN	O	O
+zon	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+passeren	NN	O	O
+.	NN	O	O
+
+
+
+Als	NN	O	B-S
+zo'n	NN	O	O
+brokje	NN	O	O
+met	NN	O	O
+grote	NN	O	O
+snelheid	NN	O	O
+tegen	NN	O	O
+de	NN	O	O
+atmosfeer	NN	O	O
+van	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+botst	NN	O	O
+,	NN	O	O
+verbrandt	NN	O	B-S
+het	NN	O	O
+door	NN	O	O
+de	NN	O	O
+wrijvingswarmte	NN	O	O
+.	NN	O	O
+
+
+
+We	NN	O	B-S
+zien	NN	O	O
+een	NN	O	O
+"	NN	O	O
+vallende	NN	O	O
+ster	NN	O	O
+"	NN	O	O
+(	NN	O	O
+meteoor	NN	O	O
+)	NN	O	O
+.	NN	O	O
+
+
+
+Deze	NN	O	B-S
+meteoren	NN	O	O
+zijn	NN	O	O
+meestal	NN	O	O
+heel	NN	O	O
+erg	NN	O	O
+klein	NN	O	O
+(	NN	O	O
+enkele	NN	O	O
+millimeters	NN	O	O
+)	NN	O	O
+en	NN	O	B-S
+komen	NN	O	O
+met	NN	O	O
+een	NN	O	O
+gangetje	NN	O	O
+van	NN	O	O
+ca.	NN	O	O
+70	NN	O	O
+km/sec	NN	O	O
+!	NN	O	O
+de	NN	O	O
+atmosfeer	NN	O	O
+van	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+binnen	NN	O	O
+.	NN	O	O
+
+
+
+Grote	NN	O	B-S
+meteoroïden	NN	O	O
+kunnen	NN	O	O
+extreem	NN	O	O
+helder	NN	O	O
+oplichten	NN	O	O
+als	NN	O	B-S
+ze	NN	O	O
+de	NN	O	O
+aardse	NN	O	O
+atmosfeer	NN	O	O
+binnendringen	NN	O	O
+.	NN	O	O
+
+
+
+Soms	NN	O	B-S
+zijn	NN	O	O
+ze	NN	O	O
+helderder	NN	O	O
+dan	NN	O	O
+de	NN	O	O
+volle	NN	O	O
+maan	NN	O	O
+!	NN	O	O
+
+
+
+We	NN	O	B-S
+noemen	NN	O	O
+dit	NN	O	O
+dan	NN	O	O
+een	NN	O	O
+bolide	NN	O	O
+.	NN	O	O
+
+
+
+Als	NN	O	B-S
+de	NN	O	O
+meteoroïde	NN	O	O
+zo	NN	O	O
+groot	NN	O	O
+is	NN	O	O
+dat	NN	O	B-S
+er	NN	O	O
+na	NN	O	O
+de	NN	O	O
+tocht	NN	O	O
+door	NN	O	O
+de	NN	O	O
+atmosfeer	NN	O	O
+nog	NN	O	O
+materiaal	NN	O	O
+over	NN	O	O
+blijft	NN	O	O
+komt	NN	O	B-S
+het	NN	O	O
+restant	NN	O	O
+op	NN	O	O
+aarde	NN	O	O
+terecht	NN	O	O
+(	NN	O	O
+meteoriet	NN	O	O
+)	NN	O	O
+.	NN	O	O
+
+
+
+Heel	NN	O	B-S
+af	NN	O	O
+en	NN	O	O
+toe	NN	O	O
+is	NN	O	O
+dit	NN	O	O
+restant	NN	O	O
+zo	NN	O	O
+groot	NN	O	O
+dat	NN	O	B-S
+er	NN	O	O
+op	NN	O	O
+aarde	NN	O	O
+een	NN	O	O
+heuse	NN	O	O
+krater	NN	O	O
+geslagen	NN	O	O
+wordt	NN	O	O
+,	NN	O	O
+denk	NN	O	B-S
+maar	NN	O	O
+aan	NN	O	O
+de	NN	O	O
+krater	NN	O	O
+in	NN	O	O
+Arizona	NN	O	O
+.	NN	O	O
+
+
+
+Op	NN	O	B-S
+bepaalde	NN	O	O
+dagen	NN	O	O
+van	NN	O	O
+het	NN	O	O
+jaar	NN	O	O
+zijn	NN	O	O
+er	NN	O	O
+heel	NN	O	O
+veel	NN	O	O
+meteoren	NN	O	O
+te	NN	O	O
+zien	NN	O	O
+.	NN	O	O
+
+
+
+Op	NN	O	B-S
+zo'n	NN	O	O
+moment	NN	O	O
+doorkruist	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+de	NN	O	O
+baan	NN	O	O
+van	NN	O	O
+een	NN	O	O
+meteoroïde	NN	O	O
+zwerm	NN	O	O
+.	NN	O	O
+,	NN	O	O
+afkomstig	NN	O	O
+van	NN	O	O
+bijvoorbeeld	NN	O	O
+komeetresten	NN	O	O
+.	NN	O	O
+
+
+
+Door	NN	O	B-S
+vertekening	NN	O	O
+,	NN	O	O
+perspectief	NN	O	B-S
+genaamd	NN	O	O
+,	NN	O	O
+lijken	NN	O	B-S
+alle	NN	O	O
+meteoren	NN	O	O
+uit	NN	O	O
+zo'n	NN	O	O
+zwerm	NN	O	O
+uit	NN	O	O
+één	NN	O	O
+punt	NN	O	O
+te	NN	O	O
+komen	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+punt	NN	O	O
+noemen	NN	O	O
+we	NN	O	O
+de	NN	O	O
+radiant	NN	O	O
+van	NN	O	O
+de	NN	O	O
+meteorenzwerm	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+naam	NN	O	O
+van	NN	O	O
+de	NN	O	O
+zwerm	NN	O	O
+is	NN	O	O
+afgeleid	NN	O	O
+van	NN	O	O
+het	NN	O	O
+sterrenbeeld	NN	O	O
+waarin	NN	O	O
+de	NN	O	O
+radiant	NN	O	O
+zich	NN	O	O
+bevindt	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+de	NN	O	O
+maanden	NN	O	O
+juli	NN	O	O
+en	NN	O	O
+augustus	NN	O	O
+beweegt	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+door	NN	O	O
+een	NN	O	O
+gebied	NN	O	O
+met	NN	O	O
+restanten	NN	O	O
+van	NN	O	O
+de	NN	O	O
+komeet	NN	O	O
+Swift-Tuttle	NN	O	O
+.	NN	O	O
+
+
+
+Vanaf	NN	O	B-S
+de	NN	O	O
+aarde	NN	O	O
+gezien	NN	O	O
+lijken	NN	O	O
+al	NN	O	O
+die	NN	O	O
+meteoren	NN	O	O
+uit	NN	O	O
+het	NN	O	O
+sterrenbeeld	NN	O	O
+Perseus	NN	O	O
+te	NN	O	O
+komen	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+meteoren	NN	O	O
+uit	NN	O	O
+deze	NN	O	O
+zwerm	NN	O	O
+worden	NN	O	O
+dan	NN	O	O
+ook	NN	O	O
+Perseïden	NN	O	O
+genoemd	NN	O	O
+.	NN	O	O
+
+
+
+Ze	NN	O	B-S
+zijn	NN	O	O
+zichtbaar	NN	O	O
+tussen	NN	O	O
+17	NN	O	O
+juli	NN	O	O
+en	NN	O	O
+24	NN	O	O
+augustus	NN	O	O
+.	NN	O	O
+
+
+
+
+Hoe	NN	O	B-S
+meer	NN	O	O
+buikvet	NN	O	O
+,	NN	O	O
+hoe	NN	O	B-S
+groter	NN	O	O
+uw	NN	O	O
+sterfterisico	NN	O	O
+...!	NN	O	O
+
+
+
+Heeft	NN	O	B-S
+u	NN	O	O
+er	NN	O	O
+ook	NN	O	O
+uw	NN	O	O
+buik	NN	O	O
+van	NN	O	O
+vol	NN	O	O
+?	NN	O	O
+
+
+
+In	NN	O	B-S
+deze	NN	O	O
+eerste	NN	O	O
+weken	NN	O	O
+van	NN	O	O
+het	NN	O	O
+jaar	NN	O	O
+kun	NN	O	O
+je	NN	O	O
+geen	NN	O	O
+krant	NN	O	O
+of	NN	O	O
+tijdschrift	NN	O	O
+openslaan	NN	O	O
+of	NN	O	B-S
+je	NN	O	O
+struikelt	NN	O	O
+erover	NN	O	O
+:	NN	O	O
+afvaltips	NN	O	O
+en	NN	O	O
+slankrecepten	NN	O	O
+!	NN	O	O
+
+
+
+Helaas	NN	O	B-S
+moeten	NN	O	O
+wij	NN	O	O
+hier	NN	O	O
+nog	NN	O	O
+een	NN	O	O
+serieus	NN	O	O
+schepje	NN	O	O
+bovenop	NN	O	O
+doen	NN	O	O
+.	NN	O	O
+
+
+
+Uit	NN	O	B-S
+onderzoek	NN	O	O
+blijkt	NN	O	O
+dat	NN	O	O
+buikvet	NN	O	O
+een	NN	O	O
+goede	NN	O	O
+voorspeller	NN	O	O
+is	NN	O	O
+voor	NN	O	O
+de	NN	O	O
+kans	NN	O	O
+op	NN	O	O
+een	NN	O	O
+hartaanval	NN	O	O
+of	NN	O	O
+beroerte	NN	O	O
+.	NN	O	O
+
+
+
+Het	NN	O	B-S
+is	NN	O	O
+een	NN	O	O
+betere	NN	O	O
+voorspeller	NN	O	O
+dan	NN	O	O
+overgewicht	NN	O	O
+.	NN	O	O
+
+
+
+Al	NN	O	B-S
+met	NN	O	O
+een	NN	O	O
+beetje	NN	O	O
+meer	NN	O	O
+buikvet	NN	O	O
+heb	NN	O	O
+je	NN	O	O
+een	NN	O	O
+hoger	NN	O	O
+sterfterisico	NN	O	O
+!	NN	O	O
+
+
+
+Dat	NN	O	B-S
+is	NN	O	O
+wel	NN	O	O
+iets	NN	O	O
+om	NN	O	O
+even	NN	O	O
+bij	NN	O	O
+stil	NN	O	O
+te	NN	O	O
+staan	NN	O	O
+.	NN	O	O
+
+
+
+Niet	NN	O	B-S
+alleen	NN	O	O
+aan	NN	O	O
+het	NN	O	O
+begin	NN	O	O
+van	NN	O	O
+het	NN	O	O
+jaar	NN	O	O
+,	NN	O	O
+maar	NN	O	O
+het	NN	O	O
+hele	NN	O	O
+jaar	NN	O	O
+door	NN	O	O
+.	NN	O	O
+
+
+
+Want	NN	O	B-S
+hart-	NN	O	O
+en	NN	O	O
+vaatziekten	NN	O	O
+hou	NN	O	O
+je	NN	O	O
+toch	NN	O	O
+liever	NN	O	O
+ver	NN	O	O
+van	NN	O	O
+je	NN	O	O
+bed	NN	O	O
+!	NN	O	O
+
+
+
+En	NN	O	B-S
+dat	NN	O	O
+kán	NN	O	O
+ook	NN	O	O
+,	NN	O	O
+als	NN	O	B-S
+je	NN	O	O
+er	NN	O	O
+maar	NN	O	O
+tijdig	NN	O	O
+bij	NN	O	O
+bent	NN	O	O
+.	NN	O	O
+
+
+
+Steun	NN	O	B-S
+daarom	NN	O	O
+Fonds	NN	O	O
+voor	NN	O	O
+het	NN	O	O
+Hart	NN	O	O
+!	NN	O	O
+
+
+
+Wilt	NN	O	B-S
+u	NN	O	O
+ook	NN	O	O
+een	NN	O	O
+bijdrage	NN	O	O
+leveren	NN	O	O
+aan	NN	O	O
+meer	NN	O	O
+preventie	NN	O	O
+en	NN	O	O
+betere	NN	O	O
+behandelmethoden	NN	O	O
+voor	NN	O	O
+hart-	NN	O	O
+en	NN	O	O
+vaatziekten	NN	O	O
+?	NN	O	O
+
+
+
+Maak	NN	O	B-S
+dan	NN	O	O
+alstublieft	NN	O	O
+vandaag	NN	O	O
+nog	NN	O	O
+uw	NN	O	O
+bijdrage	NN	O	O
+over	NN	O	O
+met	NN	O	O
+de	NN	O	O
+acceptgiro	NN	O	O
+!	NN	O	O
+
+
+
+Hartelijk	NN	O	B-S
+dank	NN	O	O
+alvast	NN	O	O
+!	NN	O	O
+
+
+
+P.S.	NN	O	B-S
+Geef	NN	O	O
+écht	NN	O	O
+om	NN	O	O
+uw	NN	O	O
+hart	NN	O	O
+.	NN	O	O
+
+
+
+Lever	NN	O	B-S
+een	NN	O	O
+bijdrage	NN	O	O
+aan	NN	O	O
+het	NN	O	O
+verlagen	NN	O	O
+van	NN	O	O
+de	NN	O	O
+sterfte	NN	O	O
+aan	NN	O	O
+hart-	NN	O	O
+en	NN	O	O
+vaatziekten	NN	O	O
+in	NN	O	O
+Nederland	NN	O	O
+!	NN	O	O
+
+
+
+Doet	NN	O	B-S
+u	NN	O	O
+het	NN	O	O
+vandaag	NN	O	O
+nog	NN	O	O
+?	NN	O	O
+
+
+
+Hartelijk	NN	O	B-S
+dank	NN	O	O
+!	NN	O	O
+
+
+
+
+Geeft	NN	O	B-S
+u	NN	O	O
+een	NN	O	O
+ziek	NN	O	O
+kind	NN	O	O
+toegang	NN	O	O
+tot	NN	O	O
+de	NN	O	O
+medicijnboot	NN	O	O
+?	NN	O	O
+
+
+
+Diep	NN	O	B-S
+in	NN	O	O
+de	NN	O	O
+Amazone	NN	O	O
+speelt	NN	O	O
+zich	NN	O	O
+een	NN	O	O
+drama	NN	O	O
+af	NN	O	O
+.	NN	O	O
+
+
+
+Al	NN	O	B-S
+generaties	NN	O	O
+lang	NN	O	O
+is	NN	O	O
+de	NN	O	O
+kindersterfte	NN	O	O
+hier	NN	O	O
+extreem	NN	O	O
+hoog	NN	O	O
+.	NN	O	O
+
+
+
+Veel	NN	O	B-S
+kinderen	NN	O	O
+overlijden	NN	O	O
+voor	NN	O	O
+hun	NN	O	O
+tiende	NN	O	O
+levensjaar	NN	O	O
+aan	NN	O	O
+diarree	NN	O	O
+,	NN	O	O
+huidinfecties	NN	O	O
+,	NN	O	O
+ademhalings¬stoornissen	NN	O	O
+,	NN	O	O
+slangenbeten	NN	O	O
+of	NN	O	O
+een	NN	O	O
+rottend	NN	O	O
+gebit	NN	O	O
+.	NN	O	O
+
+
+
+Eenvoudig	NN	O	B-S
+te	NN	O	O
+behandelen	NN	O	O
+kwalen	NN	O	O
+.	NN	O	O
+
+
+
+Maar	NN	O	B-S
+deze	NN	O	O
+mensen	NN	O	O
+leven	NN	O	O
+zo	NN	O	O
+ver	NN	O	O
+van	NN	O	O
+de	NN	O	O
+bewoonde	NN	O	O
+wereld	NN	O	O
+dat	NN	O	B-S
+dokters	NN	O	O
+en	NN	O	O
+tandartsen	NN	O	O
+hen	NN	O	O
+eenvoudigweg	NN	O	O
+niet	NN	O	O
+kunnen	NN	O	O
+bereiken	NN	O	O
+.	NN	O	O
+
+
+
+Terre	NN	O	B-S
+des	NN	O	O
+Hommes	NN	O	O
+wil	NN	O	O
+deze	NN	O	O
+kinderen	NN	O	O
+niet	NN	O	O
+aan	NN	O	O
+hun	NN	O	O
+lot	NN	O	O
+overlaten	NN	O	O
+.	NN	O	O
+
+
+
+Daarom	NN	O	B-S
+zijn	NN	O	O
+we	NN	O	O
+samen	NN	O	O
+met	NN	O	O
+een	NN	O	O
+lokale	NN	O	O
+organisatie	NN	O	O
+een	NN	O	O
+uniek	NN	O	O
+project	NN	O	O
+gestart	NN	O	O
+.	NN	O	O
+
+
+
+Een	NN	O	B-S
+team	NN	O	O
+van	NN	O	O
+doktoren	NN	O	O
+en	NN	O	O
+tandartsen	NN	O	O
+bezoekt	NN	O	O
+de	NN	O	O
+kinderen	NN	O	O
+inmiddels	NN	O	O
+via	NN	O	O
+de	NN	O	O
+rivier	NN	O	O
+,	NN	O	O
+met	NN	O	O
+een	NN	O	O
+speciaal	NN	O	O
+ingerichte	NN	O	O
+boot	NN	O	O
+.	NN	O	O
+
+
+
+Aan	NN	O	B-S
+boord	NN	O	O
+kunnen	NN	O	O
+ze	NN	O	O
+tandheelkundige	NN	O	O
+hulp	NN	O	O
+en	NN	O	O
+vaccinaties	NN	O	O
+geven	NN	O	O
+,	NN	O	O
+infecties	NN	O	B-S
+en	NN	O	O
+slangenbeten	NN	O	O
+behandelen	NN	O	O
+en	NN	O	B-S
+zelfs	NN	O	O
+eenvoudige	NN	O	O
+chirurgische	NN	O	O
+ingrepen	NN	O	O
+uitvoeren	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+'	NN	O	O
+medicijnboot	NN	O	O
+'	NN	O	O
+zal	NN	O	O
+jaarlijks	NN	O	O
+bijna	NN	O	O
+20.000	NN	O	O
+kinderen	NN	O	O
+bereiken	NN	O	O
+!	NN	O	O
+
+
+
+Daarom	NN	O	B-S
+vragen	NN	O	O
+we	NN	O	O
+u	NN	O	O
+dringend	NN	O	O
+om	NN	O	O
+te	NN	O	O
+helpen	NN	O	O
+.	NN	O	O
+
+
+
+Want	NN	O	B-S
+hoewel	NN	O	O
+de	NN	O	O
+boot	NN	O	O
+is	NN	O	O
+betaald	NN	O	O
+,	NN	O	O
+zijn	NN	O	B-S
+de	NN	O	O
+kosten	NN	O	O
+voor	NN	O	O
+medicijnen	NN	O	O
+,	NN	O	O
+brandstof	NN	O	O
+,	NN	O	O
+onderhoud	NN	O	O
+en	NN	O	O
+personeel	NN	O	O
+nog	NN	O	O
+niet	NN	O	O
+gedekt	NN	O	O
+!	NN	O	O
+
+
+
+Vindt	NN	O	B-S
+u	NN	O	O
+ook	NN	O	O
+dat	NN	O	O
+deze	NN	O	O
+kinderen	NN	O	O
+recht	NN	O	O
+hebben	NN	O	O
+op	NN	O	O
+gezondheid	NN	O	O
+?	NN	O	O
+
+
+
+Geef	NN	O	B-S
+dan	NN	O	O
+het	NN	O	O
+beste	NN	O	O
+recept	NN	O	O
+dat	NN	O	O
+beschikbaar	NN	O	O
+is	NN	O	O
+:	NN	O	O
+toegang	NN	O	O
+tot	NN	O	O
+de	NN	O	O
+medicijnboot	NN	O	O
+.	NN	O	O
+
+
+
+Al	NN	O	B-S
+voor	NN	O	O
+€11,-	NN	O	O
+helpt	NN	O	O
+u	NN	O	O
+een	NN	O	O
+kind	NN	O	O
+aan	NN	O	O
+boord	NN	O	O
+!	NN	O	O
+
+
+
+Helpt	NN	O	B-S
+u	NN	O	O
+mee	NN	O	O
+?	NN	O	O
+
+
+
+Heel	NN	O	B-S
+hartelijk	NN	O	O
+dank	NN	O	O
+.	NN	O	O
+
+
+
+PS	NN	O	B-S
+:	NN	O	O
+Vul	NN	O	O
+vandaag	NN	O	O
+nog	NN	O	O
+de	NN	O	O
+acceptgiro	NN	O	O
+in	NN	O	O
+!	NN	O	O
+
+
+
+
+Met	NN	O	B-S
+de	NN	O	O
+komst	NN	O	O
+van	NN	O	O
+nieuwe	NN	O	O
+medicijnen	NN	O	O
+is	NN	O	O
+hiv	NN	O	O
+/	NN	O	O
+aids	NN	O	O
+een	NN	O	O
+chronische	NN	O	O
+ziekte	NN	O	O
+geworden	NN	O	O
+.	NN	O	O
+
+
+
+Waar	NN	O	B-S
+goed	NN	O	O
+mee	NN	O	O
+valt	NN	O	O
+te	NN	O	O
+leven	NN	O	O
+.	NN	O	O
+
+
+
+Toch	NN	O	B-S
+sterven	NN	O	O
+iedere	NN	O	O
+dag	NN	O	O
+honderden	NN	O	O
+kinderen	NN	O	O
+aan	NN	O	O
+aids	NN	O	O
+,	NN	O	O
+omdat	NN	O	B-S
+ze	NN	O	O
+geen	NN	O	O
+toegang	NN	O	O
+hebben	NN	O	O
+tot	NN	O	O
+medicijnen	NN	O	O
+.	NN	O	O
+
+
+
+Mag	NN	O	B-S
+ik	NN	O	O
+u	NN	O	O
+voorstellen	NN	O	O
+aan	NN	O	O
+Cavine	NN	O	O
+uit	NN	O	O
+Uganda	NN	O	O
+.	NN	O	O
+
+
+
+Een	NN	O	B-S
+gewoon	NN	O	O
+meisje	NN	O	O
+van	NN	O	O
+tien	NN	O	O
+,	NN	O	O
+dat	NN	O	B-S
+het	NN	O	O
+leuk	NN	O	O
+vindt	NN	O	O
+haar	NN	O	O
+moeder	NN	O	O
+te	NN	O	O
+helpen	NN	O	O
+met	NN	O	O
+koken	NN	O	O
+.	NN	O	O
+
+
+
+Ze	NN	O	B-S
+gaat	NN	O	O
+naar	NN	O	O
+school	NN	O	O
+en	NN	O	B-S
+geniet	NN	O	O
+van	NN	O	O
+het	NN	O	O
+leven	NN	O	O
+.	NN	O	O
+
+
+
+Niets	NN	O	B-S
+bijzonders	NN	O	O
+.	NN	O	O
+
+
+
+Of	NN	O	B-S
+toch	NN	O	O
+wel	NN	O	O
+?	NN	O	O
+
+
+
+Cavine	NN	O	B-S
+heeft	NN	O	O
+namelijk	NN	O	O
+aids	NN	O	O
+.	NN	O	O
+
+
+
+Twee	NN	O	B-S
+jaar	NN	O	O
+geleden	NN	O	O
+leek	NN	O	O
+ze	NN	O	O
+nog	NN	O	O
+ten	NN	O	O
+dode	NN	O	O
+opgeschreven	NN	O	O
+.	NN	O	O
+
+
+
+Haar	NN	O	B-S
+moeder	NN	O	O
+bracht	NN	O	O
+haar	NN	O	O
+ten	NN	O	O
+einde	NN	O	O
+raad	NN	O	O
+naar	NN	O	O
+de	NN	O	O
+kliniek	NN	O	O
+van	NN	O	O
+Artsen	NN	O	O
+zonder	NN	O	O
+Grenzen	NN	O	O
+.	NN	O	O
+
+
+
+Cavine	NN	O	B-S
+kreeg	NN	O	O
+aidsremmers	NN	O	O
+en	NN	O	B-S
+dat	NN	O	O
+maakte	NN	O	O
+een	NN	O	O
+levensgroot	NN	O	O
+verschil	NN	O	O
+.	NN	O	O
+
+
+
+En	NN	O	B-S
+nog	NN	O	O
+steeds	NN	O	O
+slikt	NN	O	O
+ze	NN	O	O
+trouw	NN	O	O
+haar	NN	O	O
+medicijnen	NN	O	O
+.	NN	O	O
+
+
+
+Net	NN	O	B-S
+als	NN	O	O
+al	NN	O	O
+die	NN	O	O
+andere	NN	O	O
+geinfecteerde	NN	O	O
+kinderen	NN	O	O
+die	NN	O	O
+gratis	NN	O	O
+behandeld	NN	O	O
+worden	NN	O	O
+in	NN	O	O
+de	NN	O	O
+projecten	NN	O	O
+van	NN	O	O
+Artsen	NN	O	O
+zonder	NN	O	O
+Grenzen	NN	O	O
+.	NN	O	O
+
+
+
+Wereldwijd	NN	O	B-S
+leven	NN	O	O
+er	NN	O	O
+twee	NN	O	O
+miljoen	NN	O	O
+kinderen	NN	O	O
+met	NN	O	O
+hiv	NN	O	O
+/	NN	O	O
+aids	NN	O	O
+.	NN	O	O
+
+
+
+Maar	NN	O	B-S
+minder	NN	O	O
+dan	NN	O	O
+10%	NN	O	O
+heeft	NN	O	O
+toegang	NN	O	O
+tot	NN	O	O
+aidsmedicijnen	NN	O	O
+.	NN	O	O
+
+
+
+Artsen	NN	O	B-S
+zonder	NN	O	O
+Grenzen	NN	O	O
+legt	NN	O	O
+zich	NN	O	O
+daar	NN	O	O
+niet	NN	O	O
+bij	NN	O	O
+neer	NN	O	O
+.	NN	O	O
+
+
+
+Sinds	NN	O	B-S
+2000	NN	O	O
+hebben	NN	O	O
+wij	NN	O	O
+meer	NN	O	O
+dan	NN	O	O
+tienduizend	NN	O	O
+kinderen	NN	O	O
+behandeld	NN	O	O
+met	NN	O	O
+aidsremmers	NN	O	O
+.	NN	O	O
+
+
+
+Ook	NN	O	B-S
+zijn	NN	O	O
+duizenden	NN	O	O
+nieuwe	NN	O	O
+infecties	NN	O	O
+voorkomen	NN	O	O
+door	NN	O	O
+het	NN	O	O
+preventief	NN	O	O
+behandelen	NN	O	O
+van	NN	O	O
+zwangere	NN	O	O
+vrouwen	NN	O	O
+met	NN	O	O
+hiv	NN	O	O
+.	NN	O	O
+
+
+
+Mede	NN	O	B-S
+dankzij	NN	O	O
+uw	NN	O	O
+structurele	NN	O	O
+hulp	NN	O	O
+hebben	NN	O	O
+wij	NN	O	O
+al	NN	O	O
+veel	NN	O	O
+mensen	NN	O	O
+kunnen	NN	O	O
+behandelen	NN	O	O
+.	NN	O	O
+
+
+
+Maar	NN	O	B-S
+nog	NN	O	O
+steeds	NN	O	O
+sterven	NN	O	O
+er	NN	O	O
+elke	NN	O	O
+dag	NN	O	O
+meer	NN	O	O
+dan	NN	O	O
+700	NN	O	O
+kinderen	NN	O	O
+aan	NN	O	O
+aids	NN	O	O
+.	NN	O	O
+
+
+
+Zij	NN	O	B-S
+kunnen	NN	O	O
+behandeld	NN	O	O
+worden	NN	O	O
+,	NN	O	O
+maar	NN	O	B-S
+de	NN	O	O
+medicijnen	NN	O	O
+zijn	NN	O	O
+kostbaar	NN	O	O
+.	NN	O	O
+
+
+
+Daarom	NN	O	B-S
+vragen	NN	O	O
+wij	NN	O	O
+u	NN	O	O
+nu	NN	O	O
+om	NN	O	O
+een	NN	O	O
+extra	NN	O	O
+gift	NN	O	O
+.	NN	O	O
+
+
+
+Voor	NN	O	B-S
+20	NN	O	O
+euro	NN	O	O
+kunt	NN	O	O
+u	NN	O	O
+voorkomen	NN	O	O
+dat	NN	O	O
+een	NN	O	O
+seropositieve	NN	O	O
+moeder	NN	O	O
+het	NN	O	O
+virus	NN	O	O
+overdraagt	NN	O	O
+op	NN	O	O
+haar	NN	O	O
+kind	NN	O	O
+.	NN	O	O
+
+
+
+En	NN	O	B-S
+vanaf	NN	O	O
+40	NN	O	O
+euro	NN	O	O
+geeft	NN	O	O
+u	NN	O	O
+een	NN	O	O
+kind	NN	O	O
+als	NN	O	O
+Cavine	NN	O	O
+een	NN	O	O
+jaar	NN	O	O
+lang	NN	O	O
+een	NN	O	O
+aidsremmende	NN	O	O
+behandeling	NN	O	O
+.	NN	O	O
+
+
+
+Zodat	NN	O	B-S
+ze	NN	O	O
+weer	NN	O	O
+gewoon	NN	O	O
+kind	NN	O	O
+kan	NN	O	O
+zijn	NN	O	O
+,	NN	O	O
+kan	NN	O	B-S
+spelen	NN	O	O
+en	NN	O	B-S
+kan	NN	O	O
+dromen	NN	O	O
+over	NN	O	O
+wat	NN	O	O
+ze	NN	O	O
+later	NN	O	O
+wil	NN	O	O
+worden	NN	O	O
+.	NN	O	O
+
+
+
+Uw	NN	O	B-S
+gift	NN	O	O
+geeft	NN	O	O
+kinderen	NN	O	O
+met	NN	O	O
+aids	NN	O	O
+weer	NN	O	O
+kans	NN	O	O
+op	NN	O	O
+een	NN	O	O
+toekomst	NN	O	O
+.	NN	O	O
+
+
+
+Mogen	NN	O	B-S
+wij	NN	O	O
+weer	NN	O	O
+op	NN	O	O
+u	NN	O	O
+rekenen	NN	O	O
+?	NN	O	O
+
+
+
+
+Meren	NN	O	B-S
+van	NN	O	O
+Titan	NN	O	O
+nagebootst	NN	O	O
+op	NN	O	O
+aarde	NN	O	O
+
+
+
+De	NN	O	B-S
+maan	NN	O	O
+Titan	NN	O	O
+bevat	NN	O	O
+grote	NN	O	O
+meren	NN	O	O
+,	NN	O	O
+zowel	NN	O	O
+op	NN	O	O
+de	NN	O	O
+noordpool	NN	O	O
+als	NN	O	O
+op	NN	O	O
+de	NN	O	O
+zuidpool	NN	O	O
+.	NN	O	O
+
+
+
+Wetenschappers	NN	O	B-S
+denken	NN	O	O
+dat	NN	O	O
+de	NN	O	O
+meren	NN	O	O
+gevuld	NN	O	O
+zijn	NN	O	O
+met	NN	O	O
+vloeibare	NN	O	O
+koolwaterstoffen	NN	O	O
+,	NN	O	O
+zoals	NN	O	O
+methaan	NN	O	O
+en	NN	O	O
+ethaan	NN	O	O
+,	NN	O	O
+maar	NN	O	B-S
+dit	NN	O	O
+is	NN	O	O
+lastig	NN	O	O
+te	NN	O	O
+bewijzen	NN	O	O
+.	NN	O	O
+
+
+
+Daarom	NN	O	B-S
+willen	NN	O	O
+wetenschappers	NN	O	O
+de	NN	O	O
+Titaanse	NN	O	O
+meren	NN	O	O
+op	NN	O	O
+aarde	NN	O	O
+nabootsen	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+temperatuur	NN	O	O
+op	NN	O	O
+de	NN	O	O
+maan	NN	O	O
+van	NN	O	O
+Saturnus	NN	O	O
+is	NN	O	O
+zo’n	NN	O	O
+-179	NN	O	O
+graden	NN	O	O
+Celsius	NN	O	O
+.	NN	O	O
+
+
+
+Best	NN	O	B-S
+frisjes	NN	O	O
+.	NN	O	O
+
+
+
+Daarom	NN	O	B-S
+nemen	NN	O	O
+wetenschappers	NN	O	O
+aan	NN	O	O
+dat	NN	O	O
+de	NN	O	O
+meren	NN	O	O
+niet	NN	O	O
+uit	NN	O	O
+water	NN	O	O
+bestaan	NN	O	O
+.	NN	O	O
+
+
+
+Water	NN	O	B-S
+zou	NN	O	O
+bij	NN	O	O
+zo’n	NN	O	O
+lage	NN	O	O
+temperatuur	NN	O	O
+spontaan	NN	O	O
+bevriezen	NN	O	O
+.	NN	O	O
+
+
+
+"	NN	O	B-S
+Water	NN	O	O
+op	NN	O	O
+Titan	NN	O	O
+is	NN	O	O
+zo	NN	O	O
+bevroren	NN	O	O
+dat	NN	O	B-S
+u	NN	O	O
+dit	NN	O	O
+kunt	NN	O	O
+vergelijken	NN	O	O
+met	NN	O	O
+steen	NN	O	O
+op	NN	O	O
+aarde	NN	O	O
+"	NN	O	O
+,	NN	O	O
+vertelt	NN	O	O
+Vincent	NN	O	O
+Chevrier	NN	O	O
+van	NN	O	O
+de	NN	O	O
+universiteit	NN	O	O
+van	NN	O	O
+Arkansas	NN	O	O
+.	NN	O	O
+
+
+
+Data	NN	O	B-S
+van	NN	O	O
+de	NN	O	O
+Cassini-ruimtesonde	NN	O	O
+toont	NN	O	O
+aan	NN	O	O
+dat	NN	O	O
+de	NN	O	O
+meren	NN	O	O
+gevuld	NN	O	O
+zijn	NN	O	O
+met	NN	O	O
+een	NN	O	O
+vloeibare	NN	O	O
+substantie	NN	O	O
+.	NN	O	O
+
+
+
+Cassini	NN	O	B-S
+toont	NN	O	O
+aan	NN	O	O
+dat	NN	O	O
+de	NN	O	O
+meren	NN	O	O
+hoogstwaarschijnlijk	NN	O	O
+uit	NN	O	O
+vloeibaar	NN	O	O
+ethaan	NN	O	O
+en	NN	O	O
+methaan	NN	O	O
+bestaan	NN	O	O
+.	NN	O	O
+
+
+
+Wetenschappers	NN	O	B-S
+weten	NN	O	O
+echter	NN	O	O
+niet	NN	O	O
+zo	NN	O	O
+goed	NN	O	O
+hoe	NN	O	O
+deze	NN	O	O
+chemicaliën	NN	O	O
+zich	NN	O	O
+gedragen	NN	O	O
+bij	NN	O	O
+zulke	NN	O	O
+lage	NN	O	O
+temperaturen	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+komt	NN	O	O
+voornamelijk	NN	O	O
+omdat	NN	O	O
+ethaan	NN	O	O
+en	NN	O	O
+methaan	NN	O	O
+op	NN	O	O
+onze	NN	O	O
+planeet	NN	O	O
+gassen	NN	O	O
+zijn	NN	O	O
+.	NN	O	O
+
+
+
+Toch	NN	O	B-S
+maken	NN	O	O
+de	NN	O	O
+chemicaliën	NN	O	O
+op	NN	O	O
+Titan	NN	O	O
+deel	NN	O	O
+uit	NN	O	O
+van	NN	O	O
+chemische	NN	O	O
+en	NN	O	O
+geologische	NN	O	O
+processen	NN	O	O
+.	NN	O	O
+
+
+
+Dezelfde	NN	O	B-S
+processen	NN	O	O
+die	NN	O	O
+we	NN	O	O
+op	NN	O	O
+aarde	NN	O	O
+zien	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+maakt	NN	O	O
+Titan	NN	O	O
+een	NN	O	O
+mooi	NN	O	O
+doel	NN	O	O
+voor	NN	O	O
+astronomen	NN	O	O
+,	NN	O	O
+geologen	NN	O	O
+en	NN	O	O
+planetaire	NN	O	O
+wetenschappers	NN	O	O
+.	NN	O	O
+
+
+
+Chevrier	NN	O	B-S
+en	NN	O	O
+zijn	NN	O	O
+team	NN	O	O
+zijn	NN	O	O
+van	NN	O	O
+plan	NN	O	O
+om	NN	O	O
+een	NN	O	O
+Titan	NN	O	O
+simulatiekamer	NN	O	O
+te	NN	O	O
+bouwen	NN	O	O
+.	NN	O	O
+
+
+
+Deze	NN	O	B-S
+machine	NN	O	O
+–	NN	O	O
+een	NN	O	O
+twee	NN	O	O
+meter	NN	O	O
+hoge	NN	O	O
+cilinder	NN	O	O
+–	NN	O	O
+krijgt	NN	O	O
+kleine	NN	O	O
+hoeveelheden	NN	O	O
+methaan	NN	O	O
+en	NN	O	O
+ethaan	NN	O	O
+toegediend	NN	O	O
+.	NN	O	O
+
+
+
+Door	NN	O	B-S
+de	NN	O	O
+omgeving	NN	O	O
+van	NN	O	O
+Titan	NN	O	O
+na	NN	O	O
+te	NN	O	O
+bootsen	NN	O	O
+(	NN	O	O
+zoals	NN	O	O
+een	NN	O	O
+lage	NN	O	O
+temperatuur	NN	O	O
+van	NN	O	O
+-178	NN	O	O
+graden	NN	O	O
+Celsius	NN	O	O
+)	NN	O	O
+hopen	NN	O	B-S
+wetenschappers	NN	O	O
+dat	NN	O	O
+er	NN	O	O
+kleine	NN	O	O
+meren	NN	O	O
+van	NN	O	O
+koolwaterstoffen	NN	O	O
+op	NN	O	O
+de	NN	O	O
+bodem	NN	O	O
+van	NN	O	O
+de	NN	O	O
+cilinder	NN	O	O
+ontstaan	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+experiment	NN	O	O
+toont	NN	O	O
+aan	NN	O	O
+of	NN	O	O
+de	NN	O	O
+meren	NN	O	O
+van	NN	O	O
+Titan	NN	O	O
+uit	NN	O	O
+koolwaterstoffen	NN	O	O
+kunnen	NN	O	O
+bestaan	NN	O	O
+.	NN	O	O
+
+
+
+Slim	NN	O	B-S
+van	NN	O	O
+wetenschappers	NN	O	O
+,	NN	O	O
+want	NN	O	B-S
+dit	NN	O	O
+bespaart	NN	O	O
+een	NN	O	O
+dure	NN	O	O
+ruimtemissie	NN	O	O
+.	NN	O	O
+
+
+
+Aan	NN	O	B-S
+de	NN	O	O
+andere	NN	O	O
+kant	NN	O	O
+:	NN	O	O
+om	NN	O	B-S
+het	NN	O	O
+zeker	NN	O	O
+te	NN	O	O
+weten	NN	O	O
+,	NN	O	O
+is	NN	O	B-S
+een	NN	O	O
+nieuwe	NN	O	O
+ruimtemissie	NN	O	O
+nodig	NN	O	O
+.	NN	O	O
+
+
+
+Er	NN	O	B-S
+is	NN	O	O
+nog	NN	O	O
+genoeg	NN	O	O
+te	NN	O	O
+onderzoeken	NN	O	O
+op	NN	O	O
+het	NN	O	O
+oppervlak	NN	O	O
+van	NN	O	O
+Titan	NN	O	O
+.	NN	O	O
+
+
+
+
+Aarde	NN	O	B-S
+zorgt	NN	O	O
+voor	NN	O	O
+bevingen	NN	O	O
+op	NN	O	O
+asteroïden	NN	O	O
+
+
+
+Wanneer	NN	O	B-S
+asteroïden	NN	O	O
+vlak	NN	O	O
+langs	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+razen	NN	O	O
+,	NN	O	O
+merken	NN	O	B-S
+ze	NN	O	O
+dit	NN	O	O
+in	NN	O	O
+de	NN	O	O
+vorm	NN	O	O
+van	NN	O	O
+hevige	NN	O	O
+bevingen	NN	O	O
+.	NN	O	O
+
+
+
+Het	NN	O	B-S
+binnenste	NN	O	O
+van	NN	O	O
+asteroïden	NN	O	O
+–	NN	O	B-S
+die	NN	O	O
+op	NN	O	O
+een	NN	O	O
+afstand	NN	O	O
+van	NN	O	O
+minder	NN	O	O
+dan	NN	O	O
+100.000	NN	O	O
+kilometer	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+‘	NN	O	O
+missen	NN	O	O
+’	NN	O	O
+–	NN	O	O
+wordt	NN	O	B-S
+flink	NN	O	O
+door	NN	O	O
+elkaar	NN	O	O
+geschud	NN	O	O
+.	NN	O	O
+
+
+
+Hierbij	NN	O	B-S
+komt	NN	O	O
+vers	NN	O	O
+materiaal	NN	O	O
+(	NN	O	O
+regolith	NN	O	O
+)	NN	O	O
+uit	NN	O	O
+het	NN	O	O
+binnenste	NN	O	O
+op	NN	O	O
+het	NN	O	O
+oppervlak	NN	O	O
+van	NN	O	O
+een	NN	O	O
+zogenaamde	NN	O	O
+aardscheerder	NN	O	O
+te	NN	O	O
+liggen	NN	O	O
+.	NN	O	O
+
+
+
+Astronomen	NN	O	B-S
+zijn	NN	O	O
+blij	NN	O	O
+dat	NN	O	O
+een	NN	O	O
+mysterie	NN	O	O
+opgelost	NN	O	O
+is	NN	O	O
+.	NN	O	O
+
+
+
+Zij	NN	O	B-S
+vroegen	NN	O	O
+zich	NN	O	O
+namelijk	NN	O	O
+al	NN	O	O
+lange	NN	O	O
+tijd	NN	O	O
+af	NN	O	O
+hoe	NN	O	O
+het	NN	O	O
+komt	NN	O	O
+dat	NN	O	O
+asteroïden	NN	O	O
+in	NN	O	O
+de	NN	O	O
+asteroïdengordel	NN	O	O
+een	NN	O	O
+oud	NN	O	O
+oppervlak	NN	O	O
+hebben	NN	O	O
+,	NN	O	O
+terwijl	NN	O	B-S
+aardscheerders	NN	O	O
+een	NN	O	O
+jonger	NN	O	O
+oppervlak	NN	O	O
+hebben	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+komt	NN	O	O
+natuurlijk	NN	O	O
+omdat	NN	O	O
+asteroïden	NN	O	O
+in	NN	O	O
+de	NN	O	O
+asteroïdengordel	NN	O	O
+nooit	NN	O	O
+dicht	NN	O	O
+bij	NN	O	O
+een	NN	O	O
+planeet	NN	O	O
+in	NN	O	O
+de	NN	O	O
+buurt	NN	O	O
+komen	NN	O	O
+.	NN	O	O
+
+
+
+Zij	NN	O	B-S
+ervaren	NN	O	O
+dus	NN	O	O
+weinig	NN	O	O
+of	NN	O	O
+geen	NN	O	O
+interne	NN	O	O
+bevingen	NN	O	O
+.	NN	O	O
+
+
+
+Het	NN	O	B-S
+wetenschappelijke	NN	O	O
+team	NN	O	O
+van	NN	O	O
+Binzel	NN	O	O
+kwam	NN	O	O
+tot	NN	O	O
+deze	NN	O	O
+conclusie	NN	O	O
+na	NN	O	O
+observaties	NN	O	O
+met	NN	O	O
+een	NN	O	O
+NASA-telescoop	NN	O	O
+in	NN	O	O
+Hawaii	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+astronomen	NN	O	O
+onderzochten	NN	O	O
+95	NN	O	O
+aardscheerders	NN	O	O
+.	NN	O	O
+
+
+
+75	NN	O	B-S
+asteroïden	NN	O	O
+kwamen	NN	O	O
+de	NN	O	O
+afgelopen	NN	O	O
+500.000	NN	O	O
+jaar	NN	O	O
+dicht	NN	O	O
+in	NN	O	O
+de	NN	O	O
+buurt	NN	O	O
+van	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+.	NN	O	O
+
+
+
+Van	NN	O	B-S
+deze	NN	O	O
+75	NN	O	O
+asteroïden	NN	O	O
+hadden	NN	O	O
+twintig	NN	O	O
+exemplaren	NN	O	O
+een	NN	O	O
+jong	NN	O	O
+oppervlak	NN	O	O
+.	NN	O	O
+
+
+
+Binzel	NN	O	B-S
+wist	NN	O	O
+dat	NN	O	O
+vers	NN	O	O
+regolith	NN	O	O
+na	NN	O	O
+een	NN	O	O
+miljoen	NN	O	O
+jaar	NN	O	O
+veel	NN	O	O
+ouder	NN	O	O
+wordt	NN	O	O
+door	NN	O	O
+bijvoorbeeld	NN	O	O
+zonnewind	NN	O	O
+.	NN	O	O
+
+
+
+Daarnaast	NN	O	B-S
+berekende	NN	O	O
+hij	NN	O	O
+dat	NN	O	O
+een	NN	O	O
+asteroïde	NN	O	O
+door	NN	O	O
+de	NN	O	O
+kracht	NN	O	O
+van	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+flink	NN	O	O
+door	NN	O	O
+elkaar	NN	O	O
+kan	NN	O	O
+worden	NN	O	O
+geschud	NN	O	O
+,	NN	O	O
+indien	NN	O	B-S
+de	NN	O	O
+afstand	NN	O	O
+tot	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+minder	NN	O	O
+dan	NN	O	O
+100.000	NN	O	O
+kilometer	NN	O	O
+is	NN	O	O
+.	NN	O	O
+
+
+
+Voorheen	NN	O	B-S
+dachten	NN	O	O
+wetenschappers	NN	O	O
+dat	NN	O	O
+asteroïden	NN	O	O
+alleen	NN	O	O
+aardbevingen	NN	O	O
+ondergaan	NN	O	O
+als	NN	O	B-S
+de	NN	O	O
+afstand	NN	O	O
+tot	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+hoogstens	NN	O	O
+20.000	NN	O	O
+kilometer	NN	O	O
+is	NN	O	O
+.	NN	O	O
+
+
+
+Er	NN	O	B-S
+zijn	NN	O	O
+nog	NN	O	O
+enkele	NN	O	O
+vragen	NN	O	O
+.	NN	O	O
+
+
+
+Wat	NN	O	B-S
+voor	NN	O	O
+mechanisme	NN	O	O
+zorgt	NN	O	O
+ervoor	NN	O	O
+dat	NN	O	O
+de	NN	O	O
+aarde	NN	O	O
+bevingen	NN	O	O
+veroorzaakt	NN	O	O
+in	NN	O	O
+asteroïden	NN	O	O
+?	NN	O	O
+
+
+
+En	NN	O	B-S
+waarom	NN	O	O
+gebeurt	NN	O	O
+dit	NN	O	O
+alleen	NN	O	O
+binnen	NN	O	O
+een	NN	O	O
+afstand	NN	O	O
+van	NN	O	O
+100.000	NN	O	O
+kilometer	NN	O	O
+?	NN	O	O
+
+
+
+Vragen	NN	O	B-S
+die	NN	O	O
+in	NN	O	O
+de	NN	O	O
+toekomst	NN	O	O
+hopelijk	NN	O	O
+opgelost	NN	O	O
+worden	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+wetenschap	NN	O	O
+is	NN	O	O
+in	NN	O	O
+ieder	NN	O	O
+geval	NN	O	O
+één	NN	O	O
+nieuw	NN	O	O
+onderzoeksgebied	NN	O	O
+rijker	NN	O	O
+:	NN	O	O
+asteroïdeseismologie	NN	O	O
+.	NN	O	O
+
+
+
+
+Kepler	NN	O	B-S
+ziet	NN	O	O
+eerste	NN	O	O
+exoplaneten	NN	O	O
+
+
+
+Pas	NN	O	B-S
+zes	NN	O	O
+weken	NN	O	O
+gebruiken	NN	O	O
+wetenschappers	NN	O	O
+de	NN	O	O
+Kepler-telescoop	NN	O	O
+,	NN	O	O
+maar	NN	O	B-S
+dat	NN	O	O
+is	NN	O	O
+lang	NN	O	O
+genoeg	NN	O	O
+om	NN	O	B-S
+planeten	NN	O	O
+te	NN	O	O
+ontdekken	NN	O	O
+.	NN	O	O
+
+
+
+Wetenschappers	NN	O	B-S
+hebben	NN	O	O
+vijf	NN	O	O
+nieuwe	NN	O	O
+exoplaneten	NN	O	O
+gevonden	NN	O	O
+.	NN	O	O
+
+
+
+Een	NN	O	B-S
+Neptunus-achtige	NN	O	O
+planeet	NN	O	O
+en	NN	O	O
+vier	NN	O	O
+lichte	NN	O	O
+Jupiters	NN	O	O
+.	NN	O	O
+
+
+
+Maar	NN	O	B-S
+dat	NN	O	O
+is	NN	O	O
+niet	NN	O	O
+alles	NN	O	O
+.	NN	O	O
+
+
+
+Kepler	NN	O	B-S
+heeft	NN	O	O
+er	NN	O	O
+nog	NN	O	O
+veel	NN	O	O
+meer	NN	O	O
+ontdekt	NN	O	O
+.	NN	O	O
+
+
+
+Kepler	NN	O	B-S
+kijkt	NN	O	O
+naar	NN	O	O
+het	NN	O	O
+licht	NN	O	O
+van	NN	O	O
+een	NN	O	O
+ster	NN	O	O
+.	NN	O	O
+
+
+
+Als	NN	O	B-S
+het	NN	O	O
+licht	NN	O	O
+iets	NN	O	O
+verzwakt	NN	O	O
+,	NN	O	O
+is	NN	O	B-S
+dat	NN	O	O
+een	NN	O	O
+teken	NN	O	O
+dat	NN	O	O
+een	NN	O	O
+object	NN	O	O
+voor	NN	O	O
+de	NN	O	O
+ster	NN	O	O
+zweeft	NN	O	O
+,	NN	O	O
+bijvoorbeeld	NN	O	O
+een	NN	O	O
+planeet	NN	O	O
+.	NN	O	O
+
+
+
+Op	NN	O	B-S
+deze	NN	O	O
+manier	NN	O	O
+heeft	NN	O	O
+Kepler	NN	O	O
+–	NN	O	B-S
+die	NN	O	O
+begin	NN	O	O
+2009	NN	O	O
+werd	NN	O	O
+gelanceerd	NN	O	O
+–	NN	O	O
+nu	NN	O	B-S
+al	NN	O	O
+vijf	NN	O	O
+exoplaneten	NN	O	O
+ontdekt	NN	O	O
+.	NN	O	O
+
+
+
+En	NN	O	B-S
+de	NN	O	O
+verwachting	NN	O	O
+is	NN	O	O
+dat	NN	O	O
+de	NN	O	O
+telescoop	NN	O	O
+de	NN	O	O
+komende	NN	O	O
+drie	NN	O	O
+jaar	NN	O	O
+nog	NN	O	O
+veel	NN	O	O
+meer	NN	O	O
+planeten	NN	O	O
+gaat	NN	O	O
+ontdekken	NN	O	O
+.	NN	O	O
+
+
+
+Misschien	NN	O	B-S
+wel	NN	O	O
+aardachtige	NN	O	O
+exoplaneten	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+minst	NN	O	O
+massieve	NN	O	O
+exoplaneet	NN	O	O
+heet	NN	O	O
+Kepler-4b	NN	O	O
+.	NN	O	O
+
+
+
+Deze	NN	O	B-S
+planeet	NN	O	O
+is	NN	O	O
+43	NN	O	O
+keer	NN	O	O
+zwaarder	NN	O	O
+Neptunus	NN	O	O
+,	NN	O	O
+maar	NN	O	B-S
+is	NN	O	O
+wel	NN	O	O
+ongeveer	NN	O	O
+even	NN	O	O
+groot	NN	O	O
+.	NN	O	O
+
+
+
+Kepler-4b	NN	O	B-S
+wordt	NN	O	O
+bestookt	NN	O	O
+met	NN	O	O
+800.000	NN	O	O
+keer	NN	O	O
+meer	NN	O	O
+straling	NN	O	O
+dan	NN	O	O
+Neptunus	NN	O	O
+,	NN	O	O
+omdat	NN	O	B-S
+de	NN	O	O
+exoplaneet	NN	O	O
+veel	NN	O	O
+dichter	NN	O	O
+bij	NN	O	O
+de	NN	O	O
+moederster	NN	O	O
+staat	NN	O	O
+dan	NN	O	O
+Neptunus	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+betekent	NN	O	O
+dat	NN	O	O
+Kepler-4b	NN	O	O
+dichter	NN	O	O
+of	NN	O	O
+harder	NN	O	O
+is	NN	O	O
+dan	NN	O	O
+Neptunus	NN	O	O
+,	NN	O	O
+anders	NN	O	B-S
+had	NN	O	O
+de	NN	O	O
+planeet	NN	O	O
+al	NN	O	O
+haar	NN	O	O
+gas	NN	O	O
+allang	NN	O	O
+verloren	NN	O	O
+.	NN	O	O
+
+
+
+Een	NN	O	B-S
+mogelijkheid	NN	O	O
+is	NN	O	O
+een	NN	O	O
+hogere	NN	O	O
+ratio	NN	O	O
+steen	NN	O	O
+of	NN	O	O
+water	NN	O	O
+,	NN	O	O
+of	NN	O	B-S
+een	NN	O	O
+lagere	NN	O	O
+ratio	NN	O	O
+waterstof	NN	O	O
+of	NN	O	O
+helium	NN	O	O
+.	NN	O	O
+
+
+
+De	NN	O	B-S
+vier	NN	O	O
+Jupiterachtige	NN	O	O
+planeten	NN	O	O
+zijn	NN	O	O
+vier	NN	O	O
+gasplaneten	NN	O	O
+.	NN	O	O
+
+
+
+Van	NN	O	B-S
+de	NN	O	O
+planeten	NN	O	O
+is	NN	O	O
+Kepler-7B	NN	O	O
+één	NN	O	O
+van	NN	O	O
+de	NN	O	O
+luchtigste	NN	O	O
+exoplaneten	NN	O	O
+ooit	NN	O	O
+ontdekt	NN	O	O
+:	NN	O	O
+0,17	NN	O	O
+gram	NN	O	O
+per	NN	O	O
+kubieke	NN	O	O
+centimeter	NN	O	O
+.	NN	O	O
+
+
+
+Ter	NN	O	B-S
+vergelijking	NN	O	O
+:	NN	O	O
+Jupiter	NN	O	B-S
+heeft	NN	O	O
+een	NN	O	O
+dichtheid	NN	O	O
+van	NN	O	O
+1,33	NN	O	O
+gram	NN	O	O
+per	NN	O	O
+kubieke	NN	O	O
+centimeter	NN	O	O
+;	NN	O	O
+net	NN	O	O
+iets	NN	O	O
+hoger	NN	O	O
+dan	NN	O	O
+de	NN	O	O
+dichtheid	NN	O	O
+van	NN	O	O
+water	NN	O	O
+.	NN	O	O
+
+
+
+Dit	NN	O	B-S
+is	NN	O	O
+opvallend	NN	O	O
+,	NN	O	O
+want	NN	O	B-S
+hoe	NN	O	O
+kan	NN	O	O
+de	NN	O	O
+dichtheid	NN	O	O
+van	NN	O	O
+Kepler-7B	NN	O	O
+zo	NN	O	O
+laag	NN	O	O
+zijn	NN	O	O
+?	NN	O	O
+
+
+
+De	NN	O	B-S
+planeet	NN	O	O
+draait	NN	O	O
+dichter	NN	O	O
+om	NN	O	O
+haar	NN	O	O
+moederster	NN	O	O
+dan	NN	O	B-S
+Jupiter	NN	O	O
+om	NN	O	O
+de	NN	O	O
+zon	NN	O	O
+.	NN	O	O
+
+
+
+Wetenschapper	NN	O	B-S
+William	NN	O	O
+Borucki	NN	O	O
+van	NN	O	O
+NASA’s	NN	O	O
+Ames	NN	O	O
+onderzoekscentrum	NN	O	O
+in	NN	O	O
+Mountain	NN	O	O
+View	NN	O	O
+(	NN	O	O
+Californië	NN	O	O
+)	NN	O	O
+heeft	NN	O	O
+naast	NN	O	O
+de	NN	O	O
+ontdekking	NN	O	O
+van	NN	O	O
+vijf	NN	O	O
+exoplaneten	NN	O	O
+nog	NN	O	O
+meer	NN	O	O
+goed	NN	O	O
+nieuws	NN	O	O
+.	NN	O	O
+
+
+
+Kepler	NN	O	B-S
+heeft	NN	O	O
+al	NN	O	O
+honderd	NN	O	O
+objecten	NN	O	O
+ontdekt	NN	O	O
+die	NN	O	O
+mogelijk	NN	O	O
+planetaire	NN	O	O
+lichamen	NN	O	O
+zijn	NN	O	O
+.	NN	O	O
+
+
+
+Een	NN	O	B-S
+groot	NN	O	O
+deel	NN	O	O
+hiervan	NN	O	O
+zal	NN	O	O
+de	NN	O	O
+komende	NN	O	O
+maanden	NN	O	O
+bevestigd	NN	O	O
+worden	NN	O	O
+.	NN	O	O
+
+
+
+Dat	NN	O	B-S
+zijn	NN	O	O
+er	NN	O	O
+een	NN	O	O
+heleboel	NN	O	O
+.	NN	O	O
+
+
+
+In	NN	O	B-S
+december	NN	O	O
+2009	NN	O	O
+waren	NN	O	O
+er	NN	O	O
+in	NN	O	O
+totaal	NN	O	O
+415	NN	O	O
+exoplaneten	NN	O	O
+bekend	NN	O	O
+.	NN	O	O
+
+
+
+Wordt	NN	O	B-S
+dit	NN	O	O
+aantal	NN	O	O
+nog	NN	O	O
+dit	NN	O	O
+jaar	NN	O	O
+verdubbeld	NN	O	O
+dankzij	NN	O	O
+Kepler	NN	O	O
+?	NN	O	O
