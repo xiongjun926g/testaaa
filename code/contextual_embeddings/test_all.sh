@@ -11,7 +11,7 @@ for DATASET in deu.rst.pcc  eng.rst.gum  eng.sdrt.stac  fra.sdrt.annodis  por.rs
 
 do
     for CONFIG in split.tok conll; do
-	#specific english
+	#specific english would be / 
 	#for MODEL in elmo bertM; do
 	    export MODEL=bertM
 	    export OUTPUT=${DATASET}"_"${MODEL}
